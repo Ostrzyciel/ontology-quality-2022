@@ -1,0 +1,17 @@
+[
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000231",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001188",
+		"o": "misspelling"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000231",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03460851",
+		"o": "Reference \"canola oil\" or \"rapeseed oil\" instead."
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000231",
+		"s": "http://purl.obolibrary.org/obo/pco.owl/PCO_0000030",
+		"o": "wrong IRI form"
+	}
+]

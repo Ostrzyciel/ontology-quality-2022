@@ -1,0 +1,562 @@
+{
+  "http://dbpedia.org/resource/Academic_library": {
+    "decision": "other",
+    "comment": "probably not in scope"
+  },
+  "http://dbpedia.org/resource/Vipera_berus": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Ataxia_telangiectasia": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Bam_Margera": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Spruce_budworm": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Building_energy_simulation": {
+    "decision": "valid",
+    "comment": "probably valid"
+  },
+  "http://dbpedia.org/resource/Cellular_manufacturing": {
+    "decision": "other",
+    "comment": "possibly out of scope"
+  },
+  "http://dbpedia.org/resource/Configuration_space": {
+    "decision": "invalid",
+    "comment": "disambiguation"
+  },
+  "http://dbpedia.org/resource/Pieter_Cramer": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Control_flow_graph": {
+    "decision": "invalid",
+    "comment": "similar term, but different"
+  },
+  "http://dbpedia.org/resource/Diamond_cutting": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Deutsche_Presse-Agentur": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Armenian_dram": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Terminal_dwell_time": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Emptiness": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Endemism": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Endmember": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Kuznets_curve": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Esprit_Holdings": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Shooting_sport": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Floating_Points": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Fourier_transform_spectroscopy": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Order_of_reaction": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Divine_grace": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Grid_Systems_Corporation": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Hand_model": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Helmet": {
+    "decision": "invalid",
+    "comment": "too general"
+  },
+  "http://dbpedia.org/resource/Ica_Region": {
+    "decision": "invalid",
+    "comment": "geographical"
+  },
+  "http://dbpedia.org/resource/Kalua": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Industrial_management": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/International": {
+    "decision": "invalid",
+    "comment": "missed disambiguation"
+  },
+  "http://dbpedia.org/resource/Backpack": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Lane": {
+    "decision": "invalid",
+    "comment": "similar term, but different; also, possibly out of scope"
+  },
+  "http://dbpedia.org/resource/Linear_time-invariant_theory": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Weight_transfer": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Asteroid_family": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Mobile_application_development": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Mobile_service": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Ship_model_basin": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Micro-Opto-Electro-Mechanical_Systems": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Metalorganic_vapour_phase_epitaxy": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Bargaining_problem": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Hypodermic_needle": {
+    "decision": "invalid",
+    "comment": "similar term, but different"
+  },
+  "http://dbpedia.org/resource/Ode": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Sierra_Entertainment": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Church_of_South_India": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/PESQ": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Pharmacoeconomics": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Communist_Party_of_Indonesia": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Physical_Medium_Dependent": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Queen's_Counsel": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Rich_Internet_application": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Rup_dialects": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Smithsonian_American_Art_Museum": {
+    "decision": "invalid",
+    "comment": "different domain, possibly out of scope"
+  },
+  "http://dbpedia.org/resource/Special_drawing_rights": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Semantic_dementia": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Sequential_Circuits": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Series-parallel_graph": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Software_Projects": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Samavesam_of_Telugu_Baptist_Churches": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Strain_energy_density_function": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Level_design": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/UMTS_(telecommunication)": {
+    "decision": "invalid",
+    "comment": "related term, but different"
+  },
+  "http://dbpedia.org/resource/Eastman_Chemical_Company": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Time-domain_reflectometry": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Trust_law": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/UKF_Music": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Diver_communications": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Variable-message_sign": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Vehicle-to-vehicle": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/List_of_Virtual_Boy_games": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Von_Mises_yield_criterion": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Visuddhimagga": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Drainage_divide": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Geostrophic_wind": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Anticyclone": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Autonomous_cruise_control_system": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Health_education": {
+    "decision": "invalid",
+    "comment": "should be a proper name"
+  },
+  "http://dbpedia.org/resource/Automotive_engine": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Buffer_solution": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Chief_financial_officer": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Shanghai_Stock_Exchange": {
+    "decision": "invalid",
+    "comment": "related, but different term; out of scope"
+  },
+  "http://dbpedia.org/resource/Commercial_bank": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Speeds_and_feeds": {
+    "decision": "other",
+    "comment": "possibly out of scope"
+  },
+  "http://dbpedia.org/resource/Darwin,_Northern_Territory": {
+    "decision": "invalid",
+    "comment": "geographical"
+  },
+  "http://dbpedia.org/resource/DFA_Records": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Distributed_power": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Ocular_dominance": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/ECM_Records": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Electronic_packaging": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Energy_market": {
+    "decision": "other",
+    "comment": "possibly out of scope"
+  },
+  "http://dbpedia.org/resource/Enterprise_2.0": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Enterprise_system": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Expected_return": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Fluidized_bed_combustion": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Free_rider_problem": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Graphology": {
+    "decision": "invalid",
+    "comment": "similar, but different term"
+  },
+  "http://dbpedia.org/resource/Heavy_crude_oil": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Hitting_time": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Human_computer": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Winter_Music_Conference": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Interactive_visualization": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Isar": {
+    "decision": "invalid",
+    "comment": "geographical"
+  },
+  "http://dbpedia.org/resource/Knowledge_building": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Koala": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Land_mine": {
+    "decision": "invalid",
+    "comment": "related term, but significantly different; out of scope"
+  },
+  "http://dbpedia.org/resource/Machine_Translations": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Market_power": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Maxwell_(unit)": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Mesoscale_meteorology": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Meteosat": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Metro_Networks": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Mobile_Web": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Motor_imagery": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Genderqueer": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Dominating_decision_rule": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Metric_map": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Perfusion": {
+    "decision": "invalid",
+    "comment": "related term, but different"
+  },
+  "http://dbpedia.org/resource/Preceptor": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Queueing_Systems": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Rare_earth_element": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Helicopter_flight_controls": {
+    "decision": "invalid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Resource-based_view": {
+    "decision": "invalid",
+    "comment": "different domain"
+  },
+  "http://dbpedia.org/resource/Revenue_sharing": {
+    "decision": "invalid",
+    "comment": "similar term; out of scope"
+  },
+  "http://dbpedia.org/resource/Scale_factor": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/SERVQUAL": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Suction_cup": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Teaching_method": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Prospecting": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Torque_ripple": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Virtual_Laboratory": {
+    "decision": "invalid",
+    "comment": "proper name"
+  },
+  "http://dbpedia.org/resource/Color_printing": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Coated_paper": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Offset_printing": {
+    "decision": "other",
+    "comment": "out of scope"
+  },
+  "http://dbpedia.org/resource/Tacit_knowledge": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Knowledge_sharing": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Organizational_memory": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Organizational_learning": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Learning_organization": {
+    "decision": "valid",
+    "comment": ""
+  },
+  "http://dbpedia.org/resource/Explicit_knowledge": {
+    "decision": "valid",
+    "comment": ""
+  }
+}

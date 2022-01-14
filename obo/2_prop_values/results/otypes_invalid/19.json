@@ -1,0 +1,17 @@
+[
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#consider",
+		"s": "http://purl.obolibrary.org/obo/CARO_0000054",
+		"o": "http://purl.obolibrary.org/obo/CARO_0020000"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#consider",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000159",
+		"o": "ENVO:01001814"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#consider",
+		"s": "http://purl.obolibrary.org/obo/MP_0003744",
+		"o": "http://purl.obolibrary.org/obo/MP_0003743"
+	}
+]

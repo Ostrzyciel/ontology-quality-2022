@@ -1,0 +1,6262 @@
+[
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "t8827963",
+		"o": "gland"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "t14635314",
+		"o": "gland"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03301415",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03301467",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03302757",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03304497",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03304996",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03310646",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_17992",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00003096",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001008",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001059",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001065",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001070",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001079",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001094",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001100",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001184",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03301073",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03301103",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03301227",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03302001",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03303220",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03303909",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03305536",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03307345",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03307539",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03310006",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03310226",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03310387",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03310791",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03311737",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03315150",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03315173",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03315302",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03315552",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03315904",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03315925",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03316271",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03316579",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03316694",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03317170",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03305323",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03306690",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/AGRO_00000015",
+		"o": "tillage_technique"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/AGRO_00000016",
+		"o": "tillage_technique"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/AGRO_00000017",
+		"o": "tillage_technique"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "t8591132",
+		"o": "musculoskeletal"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "t8802203",
+		"o": "musculoskeletal"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "t8884362",
+		"o": "musculoskeletal"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "t14604326",
+		"o": "musculoskeletal"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "t14631249",
+		"o": "musculoskeletal"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000634",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000680",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000710",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000787",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000895",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000982",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001023",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001026",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001211",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001501",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500002",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_1000745",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000438",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000655",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000656",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000669",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000677",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000678",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000679",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000689",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000690",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000691",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000692",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000693",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000694",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000695",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000696",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000697",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000698",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000699",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000702",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000707",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000708",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000709",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000711",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000712",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000713",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000714",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000715",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000716",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000717",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000718",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000730",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000791",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000874",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000876",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000877",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000878",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000879",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000880",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000881",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000882",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000896",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000898",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000899",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000900",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000901",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000902",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000903",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000904",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000916",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001024",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001025",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001108",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001216",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001217",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001218",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001287",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001289",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001290",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001291",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001292",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001295",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001296",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001297",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001298",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500036",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500037",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500038",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500039",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500040",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500044",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000091",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000105",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000106",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000107",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000131",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_21001216",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_21001217",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_21001218",
+		"o": "environmental_hazards"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000637",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000799",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000800",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000801",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000804",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000813",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000817",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000818",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000819",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000820",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000958",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000983",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001023",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001026",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001068",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001122",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001135",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001136",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001137",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001138",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001141",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001147",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001154",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001155",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001211",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001501",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000802",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000803",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000805",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000806",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000807",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000808",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000809",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000821",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001024",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001025",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001027",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001123",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001124",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001126",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001127",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001128",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001129",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001130",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001131",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001132",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001133",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001134",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001139",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001140",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001142",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001143",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001144",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001145",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001146",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001148",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001149",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001150",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001151",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001152",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001153",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001156",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001157",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001158",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001212",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001213",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001214",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001215",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001216",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001217",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001218",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001219",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000096",
+		"o": "envoAstro"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00010505",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000060",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000624",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000755",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000792",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000793",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001008",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001010",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001012",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001085",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001086",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001087",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001088",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001089",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001090",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001091",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001366",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001639",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001681",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001682",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001699",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001700",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001865",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000729",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000760",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000761",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000795",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000879",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000880",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000881",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000882",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000903",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000904",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001005",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001006",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001007",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001009",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001011",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001013",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001014",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001015",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001016",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001017",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001159",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001160",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001161",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001294",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001296",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001297",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001359",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001365",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001368",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001372",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001373",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001394",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001400",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001402",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001407",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001408",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001409",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001410",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001411",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001412",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001413",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001414",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001415",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001417",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001418",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001419",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001421",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001422",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001423",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001424",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001425",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001426",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001427",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001428",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001640",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001668",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001706",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001707",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001708",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001709",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001710",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001711",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001713",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001714",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001715",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001716",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001717",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001718",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001719",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001720",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001721",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001722",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001723",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001724",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001725",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001726",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001727",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001728",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001729",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001730",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001731",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001732",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001733",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001744",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001746",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001748",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000975",
+		"o": "envoCesab"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000976",
+		"o": "envoCesab"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000977",
+		"o": "envoCesab"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000978",
+		"o": "envoCesab"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000979",
+		"o": "envoCesab"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001414",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001302",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001312",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001313",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001314",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001315",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001316",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001317",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001318",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001322",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001323",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001324",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001325",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001326",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001327",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001328",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001329",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001333",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001336",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001338",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001339",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001340",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001341",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001342",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001343",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001369",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001376",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001379",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001380",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001381",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001382",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001383",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001385",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001386",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001388",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001389",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001390",
+		"o": "envoCmecs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002011",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000306",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000307",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001000",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001001",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001002",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001040",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001044",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001046",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001047",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001048",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001052",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001053",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001054",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001057",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000999",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001003",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001028",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001029",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001030",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001031",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001032",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001033",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001034",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001035",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001036",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001041",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001042",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001043",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001049",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001050",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001051",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001055",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001056",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001058",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001059",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001060",
+		"o": "envoEmpo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001374",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001375",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001377",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001495",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001496",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001497",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001844",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000002",
+		"o": "envoEOVs"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000015",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000016",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000295",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001581",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000206",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000207",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000208",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000209",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000210",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000211",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000212",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000213",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000214",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000219",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000061",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001301",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001302",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001312",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001313",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001314",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001315",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001316",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001317",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001318",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001322",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001323",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001324",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001325",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001326",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001327",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001328",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001329",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001333",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001336",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001338",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001339",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001340",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001341",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001342",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001343",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001369",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001374",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001375",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001376",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001377",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001379",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001380",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001381",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001382",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001383",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001385",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001386",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001388",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001389",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001390",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001495",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001496",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001497",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001748",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001843",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001844",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000002",
+		"o": "envoMarine"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001002",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001046",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001047",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001057",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001176",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00005742",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001029",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001030",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001031",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001032",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001033",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001034",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001035",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001041",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001051",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001055",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001056",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001058",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001179",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001180",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001306",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_08000001",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_08000002",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_2100002",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_2100003",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_2100005",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_2100006",
+		"o": "envoMeo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000248",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000393",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000397",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000447",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000475",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000476",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000873",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002005",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002007",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002008",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002011",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002045",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002150",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00005792",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00005795",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00012408",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000023",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000044",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000048",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000060",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000180",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000203",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000230",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000268",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000276",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000277",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000280",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000281",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000283",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000293",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000295",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000306",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000307",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000309",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000320",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000321",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000323",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000325",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000340",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000342",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000343",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000352",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000370",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000406",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000408",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000451",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000543",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000554",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000624",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000706",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000752",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000792",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000793",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000800",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000801",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000813",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000815",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000817",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000818",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000819",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000830",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000846",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000895",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000981",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001305",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001370",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001548",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001609",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001699",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001700",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02000049",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500028",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000008",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000009",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000010",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000015",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000020",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000033",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000036",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000043",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000055",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000110",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000111",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000117",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/PCO_0000002",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0015979",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000021",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000039",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000044",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000058",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000080",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000084",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000085",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000088",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000132",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000133",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000145",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000146",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000155",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000174",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001865",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000003",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000004",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000005",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000006",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000010",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000015",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001559",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001568",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000000",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000001",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000002",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000007",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000008",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000009",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000011",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000012",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000013",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000014",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000016",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000017",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000018",
+		"o": "envoNceas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000306",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000307",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001000",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001001",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001002",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001044",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001046",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001047",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001048",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001052",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001053",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001054",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001057",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001176",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000999",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001028",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001029",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001030",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001031",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001032",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001033",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001034",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001035",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001036",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001041",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001042",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001043",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001049",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001050",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001051",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001055",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001056",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001058",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001059",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001060",
+		"o": "envoOmics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000741",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000944",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000945",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000946",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001260",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500040",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03500005",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105102",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105103",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105104",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105105",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105106",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105107",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105108",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105111",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105112",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105114",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105115",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105116",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105117",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105118",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105119",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105120",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105121",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105122",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105123",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105124",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105125",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105126",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_76413",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000000",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000012",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000015",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000016",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000020",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000081",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000097",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000098",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000112",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000131",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000134",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000137",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000184",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000177",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000181",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000187",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000198",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000200",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000201",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000206",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000207",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000208",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000209",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000210",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000223",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000249",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000250",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000251",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000252",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000273",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000298",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000299",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000307",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000342",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000369",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000380",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000392",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000396",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000413",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000430",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000435",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000436",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000455",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000456",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000457",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000459",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000463",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000464",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000465",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000478",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000484",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000487",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000488",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000528",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000531",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002012",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002019",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002113",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002200",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002236",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002270",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00002450",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00003044",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00005741",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00009686",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00009725",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00009726",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000007",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000024",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000025",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000057",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000061",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000063",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000065",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000066",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000067",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000075",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000076",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000077",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000078",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000079",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000080",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000081",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000082",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000083",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000106",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000107",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000108",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000135",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000151",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000152",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000153",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000154",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000157",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000158",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000160",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000186",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000238",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000251",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000258",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000279",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000298",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000322",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000326",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000339",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000341",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000344",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000345",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000346",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000354",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000382",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000404",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000445",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000558",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000629",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000631",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000633",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000647",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000651",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000666",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000675",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000681",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000682",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000683",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000684",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000686",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000690",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000691",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000696",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000719",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000720",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000721",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000723",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000740",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000742",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000748",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000749",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000754",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000761",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000769",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000778",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000795",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000810",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000811",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000822",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000823",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000847",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000850",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000851",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000874",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000880",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000881",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000882",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000889",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000896",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000903",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000912",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000914",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000915",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000917",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000919",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000920",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000931",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000950",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001043",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001104",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001301",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001303",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001330",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001331",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001332",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001371",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001454",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001505",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001523",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001534",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001535",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001537",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001538",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001546",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001547",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001550",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001551",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001552",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001553",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001555",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001559",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001568",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001610",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001613",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001641",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001642",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001746",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001748",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001848",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02000044",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500004",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500007",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500009",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500010",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500018",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500030",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500037",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500038",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500039",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500040",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_02500043",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000000",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000002",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000003",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000004",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000005",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000006",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105014",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105015",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105016",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105019",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105020",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105021",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105022",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105023",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105026",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105027",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105028",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105101",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105109",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105110",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105113",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001698",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001079",
+		"o": "subset_siren"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000776",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105004",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013147",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013027",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013028",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013029",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013030",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013031",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013032",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013033",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013034",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013035",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013036",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013037",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013038",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013039",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013040",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013041",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013042",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013043",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013044",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013045",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013046",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013047",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013048",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013049",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013050",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013051",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013052",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013053",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013054",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013055",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013056",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013057",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013058",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013059",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013060",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013061",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013062",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013063",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013064",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013065",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013066",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013067",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013068",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013069",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013070",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013071",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013072",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013073",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013074",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013075",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013076",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013077",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013078",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013079",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013080",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013081",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013082",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013083",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013084",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013085",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013086",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013087",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013088",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013089",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013090",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013091",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013092",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013093",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013094",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013095",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013096",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013097",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013098",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013099",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013100",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013101",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013102",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013103",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013104",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013105",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013106",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0019332",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0019409",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0019411",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0019412",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0019414",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000752",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000869",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000883",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000887",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000888",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000666",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000740",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000745",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000746",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000816",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000843",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000855",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000861",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000884",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000885",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000886",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000889",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000890",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000891",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000892",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000893",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000894",
+		"o": "nlcd2011"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000179",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000180",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000216",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000887",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000888",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000889",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000890",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000891",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000892",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000893",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000181",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000187",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000188",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000190",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000191",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000192",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000194",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000195",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000198",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000199",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000202",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000209",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000210",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000211",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000212",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000213",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000214",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000217",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000218",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000225",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000226",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000227",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000228",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000229",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000250",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000854",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000856",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000857",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000859",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01000860",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001798",
+		"o": "wwfBiome"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001698",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001697",
+		"o": "envoAtmo"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001160",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001407",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001408",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001409",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001410",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001411",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001412",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001413",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001419",
+		"o": "envoCloudAtlas"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_01001581",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_61452",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_53243",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_53550",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_60034",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_60737",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/CHEBI_61642",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000482",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000486",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00000533",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105002",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105003",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105005",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105006",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105007",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105008",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105009",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105010",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105011",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105012",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_06105013",
+		"o": "envoPlastics"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000007",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000011",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000012",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000013",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000016",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000017",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000018",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000021",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000025",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000027",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000029",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000030",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000031",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000032",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000034",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000035",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000037",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000038",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000039",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000040",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000041",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000042",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000044",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000045",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000046",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000047",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000048",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000050",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000051",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000053",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000054",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000056",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000057",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000058",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000059",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000060",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000061",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000062",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000063",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000065",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000066",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000067",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000068",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000069",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000071",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000072",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000073",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000074",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000075",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000076",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000077",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000078",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000079",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000082",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000083",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000084",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000085",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000086",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000088",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000089",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000090",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000091",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000092",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000093",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000094",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000095",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000096",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000097",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000098",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000099",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000101",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000102",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000103",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000104",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000105",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000106",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000107",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000108",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000112",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000113",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000114",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000115",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000116",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000118",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000119",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000120",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000121",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000134",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000135",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000136",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000137",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000138",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000139",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_03000140",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000000",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000001",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_04000009",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/ENVO_2000005",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0015948",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/GO_0019331",
+		"o": "envoPolar"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013107",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013108",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013109",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013110",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013111",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013112",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013113",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013114",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013115",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013116",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013117",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013118",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013119",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013120",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013121",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013122",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013123",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013124",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013125",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013126",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013127",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013128",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013129",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013130",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013131",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013132",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013133",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013134",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013135",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013136",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013137",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013138",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013139",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013140",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013141",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013142",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013143",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013144",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013145",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013146",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013148",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013149",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013150",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013153",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013154",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013155",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013156",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013157",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013158",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013292",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013293",
+		"o": "IMPC"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#inSubset",
+		"s": "http://purl.obolibrary.org/obo/MP_0013294",
+		"o": "IMPC"
+	}
+]

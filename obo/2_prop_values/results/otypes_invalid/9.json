@@ -1,0 +1,152 @@
+[
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8410050",
+		"o": "Homo sapiens"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8410025",
+		"o": "Homo sapiens"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8410026",
+		"o": "Homo sapiens"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8410027",
+		"o": "Homo sapiens"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8410062",
+		"o": "Homo sapiens"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001154",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8400006",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8400007",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8400008",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8400001",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8400002",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8400003",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8400005",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8410003",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8410010",
+		"o": "Mammalia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009068",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009069",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009070",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009071",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009072",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009073",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009074",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009075",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009076",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009077",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009078",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009079",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009082",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009083",
+		"o": "'Homo sapiens'"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/RO_0002175",
+		"s": "http://purl.obolibrary.org/obo/CL_0009081",
+		"o": "‘Homo sapiens’"
+	}
+]

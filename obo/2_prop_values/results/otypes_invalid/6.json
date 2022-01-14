@@ -1,0 +1,4482 @@
+[
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000033",
+		"o": "http://en.wikipedia.org/wiki/Counting"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000008",
+		"o": "http://en.wikipedia.org/wiki/Software_development"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000444",
+		"o": "https://en.wikipedia.org/wiki/Publishing"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000707",
+		"o": "https://www.elsevier.com/authors/journal-authors/graphical-abstract"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000702",
+		"o": "https://www.equator-network.org/reporting-guidelines/consort/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000703",
+		"o": "https://www.equator-network.org/reporting-guidelines/consort/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000701",
+		"o": "https://www.equator-network.org/reporting-guidelines/prisma/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000702",
+		"o": "https://www.equator-network.org/reporting-guidelines/prisma/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000703",
+		"o": "https://www.equator-network.org/reporting-guidelines/prisma/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000703",
+		"o": "https://www.equator-network.org/reporting-guidelines/strobe-nut/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000702",
+		"o": "https://www.equator-network.org/reporting-guidelines/strobe/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000704",
+		"o": "https://www.equator-network.org/reporting-guidelines/strobe/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000705",
+		"o": "https://www.ncbi.nlm.nih.gov/books/NBK262175/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03301467",
+		"o": "https://en.wikipedia.org/wiki/Bean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003194",
+		"o": "https://en.wikipedia.org/wiki/Vegetarian_cuisine"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000590",
+		"o": "https://github.com/information-artifact-ontology/IAO/issues/114"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000591",
+		"o": "https://github.com/information-artifact-ontology/IAO/issues/80"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000592",
+		"o": "https://github.com/information-artifact-ontology/IAO/issues/80"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000593",
+		"o": "https://github.com/information-artifact-ontology/IAO/issues/80"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000594",
+		"o": "https://github.com/information-artifact-ontology/IAO/issues/80"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/IAO_0000595",
+		"o": "https://github.com/information-artifact-ontology/IAO/issues/80"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001264",
+		"o": "http://www.fao.org/pollination/resources/glossary/en/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000087",
+		"o": "http://code.google.com/p/ogms/issues/detail?id=3"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000090",
+		"o": "http://code.google.com/p/ogms/issues/detail?id=35"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000092",
+		"o": "http://code.google.com/p/ogms/issues/detail?id=38"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000105",
+		"o": "http://code.google.com/p/ogms/issues/detail?id=73"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001092",
+		"o": "http://en.wikipedia.org/wiki/Cluster_(computing)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OAE_0000055",
+		"o": "http://en.wikipedia.org/wiki/Contraindication"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/ERO_0000657",
+		"o": "http://en.wikipedia.org/wiki/Metagenomics"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000007",
+		"o": "http://en.wikipedia.org/wiki/Simulation_software"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000111",
+		"o": "http://en.wikipedia.org/wiki/Types_of_educational_institutions (amended)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OMIABIS_0000019",
+		"o": "http://en.wikipedia.org/wiki/Uniform_resource_locator"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000096",
+		"o": "http://groups.google.com/group/ogms-discuss/browse_thread/thread/a2dbc2ed1dff99d6"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000097",
+		"o": "http://groups.google.com/group/ogms-discuss/browse_thread/thread/a2dbc2ed1dff99d6"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000098",
+		"o": "http://groups.google.com/group/ogms-discuss/browse_thread/thread/a2dbc2ed1dff99d6"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000099",
+		"o": "http://groups.google.com/group/ogms-discuss/browse_thread/thread/a2dbc2ed1dff99d6"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000100",
+		"o": "http://groups.google.com/group/ogms-discuss/browse_thread/thread/a2dbc2ed1dff99d6"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000101",
+		"o": "http://groups.google.com/group/ogms-discuss/browse_thread/thread/a2dbc2ed1dff99d6"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000031",
+		"o": "http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000063",
+		"o": "http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000014",
+		"o": "http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000018",
+		"o": "http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000023",
+		"o": "http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000027",
+		"o": "http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OGMS_0000045",
+		"o": "http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002325",
+		"o": "http://www.geneontology.org/GO.annotation.conventions.shtml#colocalizes_with"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002110",
+		"o": "https://en.wikipedia.org/wiki/Digital_object_identifier\nhttps://www.doi.org/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OMRSE_00000061",
+		"o": "http://de.wikipedia.org/wiki/Bauwerk"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000255",
+		"o": "http://en.wikipedia.org/w/index.php?title=Gamma_distribution&oldid=602019254"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000246",
+		"o": "http://en.wikipedia.org/w/index.php?title=Joint_probability_distribution&oldid=599692661"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000254",
+		"o": "http://en.wikipedia.org/w/index.php?title=Log-normal_distribution&oldid=601643223"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000257",
+		"o": "http://en.wikipedia.org/w/index.php?title=Uniform_distribution_(continuous)&oldid=597643343"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400107",
+		"o": "http://en.wikipedia.org/wiki/Computer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OMRSE_00000007",
+		"o": "http://en.wikipedia.org/wiki/Gender_role"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OMRSE_00000011",
+		"o": "http://en.wikipedia.org/wiki/Patient"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000215",
+		"o": "http://en.wikipedia.org/wiki/Probability_distribution"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000142",
+		"o": "http://en.wikipedia.org/wiki/Vaccination"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/APOLLO_SV_00000247",
+		"o": "http://grahamjeffery.com/glossary/213-unconditional-probability-distribution"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/STATO_0000252",
+		"o": "http://udel.edu/~mcdonald/statvartypes.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/STATO_0000398",
+		"o": "https://en.wikipedia.org/wiki/Weighted_arithmetic_mean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OMRSE_00000074",
+		"o": "https://github.com/ufbmi/OMRSE/wiki/Housing-unit-and-Household"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002376",
+		"o": "http://en.wikipedia.org/wiki/Tributary"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002376",
+		"o": "http://www.medindia.net/glossary/venous_tributary.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002296",
+		"o": "http://www.geneontology.org/GO.doc.development.shtml"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002577",
+		"o": "http://www.jbiomedsem.com/content/4/1/43"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/PCO_1000004",
+		"o": "http://dx.doi.org/10.1038/ismej.2009.88"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002377",
+		"o": "http://en.wikipedia.org/wiki/Distributary"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002326",
+		"o": "http://www.geneontology.org/GO.annotation.conventions.shtml#contributes_to"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002797",
+		"o": "https://en.wikipedia.org/wiki/Apron"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002812",
+		"o": "https://en.wikipedia.org/wiki/Apron"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002781",
+		"o": "https://en.wikipedia.org/wiki/Pigeon_pea"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "t5556203",
+		"o": "https://en.wikipedia.org/wiki/Suni_(geography)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "t5562438",
+		"o": "https://eupathdb.org/eupathdb/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "t5561088",
+		"o": "https://www.wikidata.org/wiki/Q2"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "t5568957",
+		"o": "https://www.wikidata.org/wiki/Q715269"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001199",
+		"o": "http://en.wikipedia.org/wiki/Legume"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001197",
+		"o": "https://en.wikipedia.org/wiki/Vigna_subterranea"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001194",
+		"o": "http://en.wikipedia.org/wiki/Legume"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001196",
+		"o": "http://en.wikipedia.org/wiki/Legume"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001205",
+		"o": "http://en.wikipedia.org/wiki/Legume"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001207",
+		"o": "http://en.wikipedia.org/wiki/Legume"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002786",
+		"o": "http://en.wikipedia.org/wiki/Legume"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001038",
+		"o": "http://en.wikipedia.org/wiki/Pork"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001290",
+		"o": "http://en.wikipedia.org/wiki/Salad_dressing#Dressings"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001223",
+		"o": "http://en.wikipedia.org/wiki/Sausage"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001209",
+		"o": "http://www.fao.org/WAICENT/faoinfo/economic/faodef/fdef04e.htm#4.02"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001242",
+		"o": "http://www.fao.org/WAICENT/faoinfo/economic/faodef/fdef10e.htm#1.01"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001059",
+		"o": "https://en.wikipedia.org/wiki/Apple_juice"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001061",
+		"o": "https://en.wikipedia.org/wiki/Bacon"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001260",
+		"o": "https://en.wikipedia.org/wiki/Beer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001276",
+		"o": "https://en.wikipedia.org/wiki/Cider"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001133",
+		"o": "https://en.wikipedia.org/wiki/Condiment"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001275",
+		"o": "https://en.wikipedia.org/wiki/Egg_as_food"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001002",
+		"o": "https://en.wikipedia.org/wiki/Food"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03310226",
+		"o": "https://en.wikipedia.org/wiki/Hominy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001200",
+		"o": "https://en.wikipedia.org/wiki/Legume"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001204",
+		"o": "https://en.wikipedia.org/wiki/Pachyrhizus_erosus"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001201",
+		"o": "https://en.wikipedia.org/wiki/Phaseolus_vulgaris"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411999",
+		"o": "https://en.wikipedia.org/wiki/Phaseolus_vulgaris"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_3821",
+		"o": "https://en.wikipedia.org/wiki/Pigeon_pea"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001222",
+		"o": "https://en.wikipedia.org/wiki/Sausage"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001132",
+		"o": "https://en.wikipedia.org/wiki/Suidae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001202",
+		"o": "https://en.wikipedia.org/wiki/Winged_bean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_3891",
+		"o": "https://en.wikipedia.org/wiki/Winged_bean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001014",
+		"o": "https://en.wikipedia.org/wiki/Yogurt"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001151",
+		"o": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/hesperidium"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_373995",
+		"o": "https://en.wikipedia.org/wiki/Ilish"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003921",
+		"o": "https://en.wikipedia.org/wiki/Almond_meal"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03414620",
+		"o": "https://en.wikipedia.org/wiki/Amphibolurus"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411724",
+		"o": "https://en.wikipedia.org/wiki/Asparagus_bean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002748",
+		"o": "https://en.wikipedia.org/wiki/Barbonymus"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003853",
+		"o": "https://en.wikipedia.org/wiki/Bird_food"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003251",
+		"o": "https://en.wikipedia.org/wiki/Cattle#Terminology"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00000015",
+		"o": "https://en.wikipedia.org/wiki/Cattle#Terminology"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002518",
+		"o": "https://en.wikipedia.org/wiki/Cattle#Terminology"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002531",
+		"o": "https://en.wikipedia.org/wiki/Cattle#Terminology"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003842",
+		"o": "https://en.wikipedia.org/wiki/Cheese"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003879",
+		"o": "https://en.wikipedia.org/wiki/Chocolate_bar"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003856",
+		"o": "https://en.wikipedia.org/wiki/Coconut"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412942",
+		"o": "https://en.wikipedia.org/wiki/Endive"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03414904",
+		"o": "https://en.wikipedia.org/wiki/Helicidae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003882",
+		"o": "https://en.wikipedia.org/wiki/Kofta"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411390",
+		"o": "https://en.wikipedia.org/wiki/Lettuce"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002727",
+		"o": "https://en.wikipedia.org/wiki/Parakeet"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003845",
+		"o": "https://en.wikipedia.org/wiki/Pig%27s_ear_(food)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003114",
+		"o": "https://en.wikipedia.org/wiki/Pinus_edulis#Uses"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003846",
+		"o": "https://en.wikipedia.org/wiki/Pizzle"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_1248172",
+		"o": "https://en.wikipedia.org/wiki/Pleuroncodes_planipes"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411206",
+		"o": "https://en.wikipedia.org/wiki/Plum"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03315627",
+		"o": "https://en.wikipedia.org/wiki/Porter_(beer)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03302916",
+		"o": "https://en.wikipedia.org/wiki/Provolone"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003892",
+		"o": "https://en.wikipedia.org/wiki/Puppy_nutrition"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_175228",
+		"o": "https://en.wikipedia.org/wiki/Redcurrant"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_85552",
+		"o": "https://en.wikipedia.org/wiki/Scylla_paramamosain"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_362788",
+		"o": "https://en.wikipedia.org/wiki/Senna_tora"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412547",
+		"o": "https://en.wikipedia.org/wiki/Siluridae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411025",
+		"o": "https://en.wikipedia.org/wiki/Soleidae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003854",
+		"o": "https://en.wikipedia.org/wiki/Soybean#Soy_nut_butter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411136",
+		"o": "https://en.wikipedia.org/wiki/Suidae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003855",
+		"o": "https://en.wikipedia.org/wiki/Tahini"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_471255",
+		"o": "https://en.wikipedia.org/wiki/Tasmanian_nativehen"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03414638",
+		"o": "https://en.wikipedia.org/wiki/Telescopium_(gastropod)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03414814",
+		"o": "https://en.wikipedia.org/wiki/Terebralia_semistriata"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+		"o": "https://en.wikipedia.org/wiki/Zebrafish"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002658",
+		"o": "https://medical-dictionary.thefreedictionary.com/textured+food"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003913",
+		"o": "https://www.bentoli.com/cattle-supplements-benefits-value/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002906",
+		"o": "https://www.researchgate.net/publication/265691438_Inverted_migration_of_rare_whisker_sheatfish_in_Nong-Han_Lake_northeastern_Thailand_Implications_for_conservation"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003886",
+		"o": "https://www.taquitos.net/snacks.php?snack_code=584"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411198",
+		"o": "https://www.usda.gov/media/blog/2011/11/17/poultry-classifications-get-21st-century-upgrade"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003924",
+		"o": "https://en.wikipedia.org/wiki/Corn_dog"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003930",
+		"o": "https://en.wikipedia.org/wiki/Hawaiian_pizza"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003934",
+		"o": "https://en.wikipedia.org/wiki/Pesto"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03460368",
+		"o": "http://langual.org"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002455",
+		"o": "http://langual.org/langual_thesaurus.asp?termid=E0137"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001863",
+		"o": "http://purl.obolibrary.org/obo/FOODON_03400244"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003858",
+		"o": "https://culturecheesemag.com/cheese-iq/style-highlight-gouda"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03303835",
+		"o": "https://dairyprocessinghandbook.com/chapter/anhydrous-milk-fat-amf-and-butteroil"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03414386",
+		"o": "https://en.wikipedia.org/wiki/Achatina"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003919",
+		"o": "https://en.wikipedia.org/wiki/Almond_meal"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003920",
+		"o": "https://en.wikipedia.org/wiki/Almond_meal"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003916",
+		"o": "https://en.wikipedia.org/wiki/Aloe_vera"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_34199",
+		"o": "https://en.wikipedia.org/wiki/Aloe_vera"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002693",
+		"o": "https://en.wikipedia.org/wiki/Alpaca"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002697",
+		"o": "https://en.wikipedia.org/wiki/Ampullariidae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411245",
+		"o": "https://en.wikipedia.org/wiki/Apple"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03310334",
+		"o": "https://en.wikipedia.org/wiki/Baker%27s_yeast"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_8187",
+		"o": "https://en.wikipedia.org/wiki/Barramundi"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411567",
+		"o": "https://en.wikipedia.org/wiki/Bean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002557",
+		"o": "https://en.wikipedia.org/wiki/Black_pudding"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03317017",
+		"o": "https://en.wikipedia.org/wiki/Blancmange"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411092",
+		"o": "https://en.wikipedia.org/wiki/Brassica_juncea#Food"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411406",
+		"o": "https://en.wikipedia.org/wiki/Cabbage"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_41496",
+		"o": "https://en.wikipedia.org/wiki/Calendula_officinalis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412103",
+		"o": "https://en.wikipedia.org/wiki/Camelid"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003914",
+		"o": "https://en.wikipedia.org/wiki/Chile_de_árbol"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003890",
+		"o": "https://en.wikipedia.org/wiki/Chili_dog"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003875",
+		"o": "https://en.wikipedia.org/wiki/Chocolate_balls"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_0002899",
+		"o": "https://en.wikipedia.org/wiki/Clown_featherback"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003864",
+		"o": "https://en.wikipedia.org/wiki/Coconut"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002754",
+		"o": "https://en.wikipedia.org/wiki/Comminution"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_6535",
+		"o": "https://en.wikipedia.org/wiki/Cornu_aspersum"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002711",
+		"o": "https://en.wikipedia.org/wiki/Cracker_(food)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411404",
+		"o": "https://en.wikipedia.org/wiki/Cucumber"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002574",
+		"o": "https://en.wikipedia.org/wiki/Cut_of_beef#British_cuts"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002505",
+		"o": "https://en.wikipedia.org/wiki/Dairy_cattle"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002522",
+		"o": "https://en.wikipedia.org/wiki/Darkling_beetle"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002651",
+		"o": "https://en.wikipedia.org/wiki/Dinner"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002525",
+		"o": "https://en.wikipedia.org/wiki/Dynastinae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412610",
+		"o": "https://en.wikipedia.org/wiki/Ewe"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_6690",
+		"o": "https://en.wikipedia.org/wiki/Farfantepenaeus_aztecus"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003927",
+		"o": "https://en.wikipedia.org/wiki/Feather_meal"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03317675",
+		"o": "https://en.wikipedia.org/wiki/Fish_cracker"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002717",
+		"o": "https://en.wikipedia.org/wiki/Fly"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002457",
+		"o": "https://en.wikipedia.org/wiki/Fresh_food"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411265",
+		"o": "https://en.wikipedia.org/wiki/Ginger"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03460850",
+		"o": "https://en.wikipedia.org/wiki/Glucuronolactone"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003859",
+		"o": "https://en.wikipedia.org/wiki/Graskaas"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002516",
+		"o": "https://en.wikipedia.org/wiki/Gravlax"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003915",
+		"o": "https://en.wikipedia.org/wiki/Habanero"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_145123",
+		"o": "https://en.wikipedia.org/wiki/Helix_aperta"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_29960",
+		"o": "https://en.wikipedia.org/wiki/Indian_prawn"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002452",
+		"o": "https://en.wikipedia.org/wiki/Invertebrate"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411311",
+		"o": "https://en.wikipedia.org/wiki/Jujube"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002841",
+		"o": "https://en.wikipedia.org/wiki/Juniper"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03309824",
+		"o": "https://en.wikipedia.org/wiki/Khoa"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411669",
+		"o": "https://en.wikipedia.org/wiki/Lamb_and_mutton"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002521",
+		"o": "https://en.wikipedia.org/wiki/Larva"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411566",
+		"o": "https://en.wikipedia.org/wiki/Leaf_vegetable"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003871",
+		"o": "https://en.wikipedia.org/wiki/Leberk%C3%A4se"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002582",
+		"o": "https://en.wikipedia.org/wiki/Lethocerus_indicus"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411397",
+		"o": "https://en.wikipedia.org/wiki/Lima_bean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_159053",
+		"o": "https://en.wikipedia.org/wiki/Limonia_acidissima"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003888",
+		"o": "https://en.wikipedia.org/wiki/List_of_sandwiches"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "t5625954",
+		"o": "https://en.wikipedia.org/wiki/Mahi-mahi"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411134",
+		"o": "https://en.wikipedia.org/wiki/Mammal"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002523",
+		"o": "https://en.wikipedia.org/wiki/Mealworm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002524",
+		"o": "https://en.wikipedia.org/wiki/Mealworm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412157",
+		"o": "https://en.wikipedia.org/wiki/Melia_azedarach"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003879",
+		"o": "https://en.wikipedia.org/wiki/Milk_chocolate"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002723",
+		"o": "https://en.wikipedia.org/wiki/Mink"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03302918",
+		"o": "https://en.wikipedia.org/wiki/Monterey_Jack"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002838",
+		"o": "https://en.wikipedia.org/wiki/Mountain_papaya"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003880",
+		"o": "https://en.wikipedia.org/wiki/Muffuletta"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002508",
+		"o": "https://en.wikipedia.org/wiki/Orange_(fruit)#Navel_oranges"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002726",
+		"o": "https://en.wikipedia.org/wiki/Parrot"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003887",
+		"o": "https://en.wikipedia.org/wiki/Paste_(food)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003884",
+		"o": "https://en.wikipedia.org/wiki/Pastrami"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411344",
+		"o": "https://en.wikipedia.org/wiki/Pear"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03306973",
+		"o": "https://en.wikipedia.org/wiki/Pepperoni"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411557",
+		"o": "https://en.wikipedia.org/wiki/Perch"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003883",
+		"o": "https://en.wikipedia.org/wiki/Pico_de_gallo"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003929",
+		"o": "https://en.wikipedia.org/wiki/Pizza_Margherita"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003866",
+		"o": "https://en.wikipedia.org/wiki/Plant_milk#Nut_milk"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03413742",
+		"o": "https://en.wikipedia.org/wiki/Plum_tomato"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411218",
+		"o": "https://en.wikipedia.org/wiki/Potato"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00001567",
+		"o": "https://en.wikipedia.org/wiki/Primal_cut"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002793",
+		"o": "https://en.wikipedia.org/wiki/Red_banana"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002559",
+		"o": "https://en.wikipedia.org/wiki/Red_Delicious"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412467",
+		"o": "https://en.wikipedia.org/wiki/Snap_pea"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412466",
+		"o": "https://en.wikipedia.org/wiki/Snow_pea"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_45834",
+		"o": "https://en.wikipedia.org/wiki/Solanum_dulcamara"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_13337",
+		"o": "https://en.wikipedia.org/wiki/Soursop"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_3847",
+		"o": "https://en.wikipedia.org/wiki/Soybean"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003881",
+		"o": "https://en.wikipedia.org/wiki/Submarine_sandwich"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/ENVO_00003096",
+		"o": "https://en.wikipedia.org/wiki/Tap_water"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002507",
+		"o": "https://en.wikipedia.org/wiki/Taurine_cattle"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003912",
+		"o": "https://en.wikipedia.org/wiki/Teriyaki"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003910",
+		"o": "https://en.wikipedia.org/wiki/Veal"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003911",
+		"o": "https://en.wikipedia.org/wiki/Veal"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_3918",
+		"o": "https://en.wikipedia.org/wiki/Vigna_aconitifolia"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_3915",
+		"o": "https://en.wikipedia.org/wiki/Vigna_mungo"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002555",
+		"o": "https://en.wikipedia.org/wiki/Wagyu"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_8167",
+		"o": "https://en.wikipedia.org/wiki/Yellow_perch"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002581",
+		"o": "https://nature.mdc.mo.gov/discover-nature/general-species-information/aquatic-invertebrate-facts"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003921",
+		"o": "https://www.bobsredmill.com/blog/healthy-living/what-is-it-wednesday-almond-mealflour/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003863",
+		"o": "https://www.bonappetit.com/story/what-is-nut-cheese"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002582",
+		"o": "https://www.eatingthaifood.com/how-to-eat-a-giant-water-bug-maeng-da-thailand/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003870",
+		"o": "https://www.eatperu.com/aji-amarillo-sauce-recipe/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003860",
+		"o": "https://www.recipetips.com/kitchen-tips/t--1567/cheeses-of-holland.asp"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002725",
+		"o": "https://www.roysfarm.com/pabda-fish/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002989",
+		"o": "https://www.shape.com/healthy-eating/diet-tips/broccoli-sprouts-benefits"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/CEPH_0000256",
+		"o": "https://www.sil.si.edu/smithsoniancontributions/zoology/pdf_hi/sctz-0513.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002744",
+		"o": "https://www.thekitchn.com/whats-the-difference-between-roasting-and-baking-word-of-mouth-211695"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002579",
+		"o": "https://www.usda.gov/media/blog/2011/11/17/poultry-classifications-get-21st-century-upgrade"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411591",
+		"o": "https://www.usda.gov/media/blog/2011/11/17/poultry-classifications-get-21st-century-upgrade"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411710",
+		"o": "https://www.usda.gov/media/blog/2011/11/17/poultry-classifications-get-21st-century-upgrade"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411711",
+		"o": "https://www.usda.gov/media/blog/2011/11/17/poultry-classifications-get-21st-century-upgrade"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000930",
+		"o": "http://chemistry.about.com/od/chemistryglossary/a/calorimeterdef.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000793",
+		"o": "http://clinicaltrials.gov/ct2/info/glossary#double"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000810",
+		"o": "http://clinicaltrials.gov/ct2/info/glossary#informed"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000822",
+		"o": "http://clinicaltrials.gov/ct2/info/glossary#single"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400083",
+		"o": "http://cyto.mednet.ucla.edu/Protocols/flow.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400084",
+		"o": "http://cyto.mednet.ucla.edu/Protocols/flow.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002192",
+		"o": "http://drp8p5tqcb2p5.cloudfront.net/fileadmin/downloads_lbs/Leica%20PELORIS/User%20Manuals/Leica_Peloris_manual_EN.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001571",
+		"o": "http://dx.doi.org/10.1016/0006-2952(73)90196-2"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400082",
+		"o": "http://einstein.stanford.edu/content/glossary/glossary.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001134",
+		"o": "http://en.wikipedia.org/wiki/Agarose_gel_electrophoresis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400009",
+		"o": "http://en.wikipedia.org/wiki/Arc_lamp"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000790",
+		"o": "http://en.wikipedia.org/wiki/Bacterial_artificial_chromosome"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400013",
+		"o": "http://en.wikipedia.org/wiki/Band_pass_filter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001046",
+		"o": "http://en.wikipedia.org/wiki/Bioreactor"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0500008",
+		"o": "http://en.wikipedia.org/wiki/Block_design and http://www.stat.psu.edu/~jglenn/stat503/05_factorial/02_factorial_IBD.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001132",
+		"o": "http://en.wikipedia.org/wiki/Capillary_electrophoresis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001053",
+		"o": "http://en.wikipedia.org/wiki/Category:Electrophoresis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001121",
+		"o": "http://en.wikipedia.org/wiki/Category:Electrophoresis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400106",
+		"o": "http://en.wikipedia.org/wiki/Centrifuge"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001258",
+		"o": "http://en.wikipedia.org/wiki/Chip-Sequencing"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000048",
+		"o": "http://en.wikipedia.org/wiki/Chromatography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000038",
+		"o": "http://en.wikipedia.org/wiki/Column_chromatography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400107",
+		"o": "http://en.wikipedia.org/wiki/Computer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001125",
+		"o": "http://en.wikipedia.org/wiki/Confocal_laser_scanning_microscopy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001079",
+		"o": "http://en.wikipedia.org/wiki/Confocal_microscopy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000800",
+		"o": "http://en.wikipedia.org/wiki/Cross-link"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000792",
+		"o": "http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001074",
+		"o": "http://en.wikipedia.org/wiki/Cryofixation"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001072",
+		"o": "http://en.wikipedia.org/wiki/Cryostat"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000803",
+		"o": "http://en.wikipedia.org/wiki/Denaturation_%28biochemistry%29"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0302835",
+		"o": "http://en.wikipedia.org/wiki/Denaturation_%28biochemistry%29"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001062",
+		"o": "http://en.wikipedia.org/wiki/Densitometer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400030",
+		"o": "http://en.wikipedia.org/wiki/Dichroic_filter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400031",
+		"o": "http://en.wikipedia.org/wiki/Dichroic_mirror"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001122",
+		"o": "http://en.wikipedia.org/wiki/Diffractometer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001048",
+		"o": "http://en.wikipedia.org/wiki/Digital_camera"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001126",
+		"o": "http://en.wikipedia.org/wiki/Digital_microscope"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001117",
+		"o": "http://en.wikipedia.org/wiki/DNA_extraction"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001102",
+		"o": "http://en.wikipedia.org/wiki/Electron_paramagnetic_resonance"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400044",
+		"o": "http://en.wikipedia.org/wiki/Flow_cytometer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001087",
+		"o": "http://en.wikipedia.org/wiki/Freeze_drying"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000817",
+		"o": "http://en.wikipedia.org/wiki/Fucoidan"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000059",
+		"o": "http://en.wikipedia.org/wiki/Gamma_counter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400047",
+		"o": "http://en.wikipedia.org/wiki/Gas_laser"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001084",
+		"o": "http://en.wikipedia.org/wiki/Glass_transition"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000795",
+		"o": "http://en.wikipedia.org/wiki/Glucose_meter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000814",
+		"o": "http://en.wikipedia.org/wiki/Guar_gum"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000442",
+		"o": "http://en.wikipedia.org/wiki/Heart"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001057",
+		"o": "http://en.wikipedia.org/wiki/High_performance_liquid_chromatography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400067",
+		"o": "http://en.wikipedia.org/wiki/high-pass_filter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400109",
+		"o": "http://en.wikipedia.org/wiki/Homogenizer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000725",
+		"o": "http://en.wikipedia.org/wiki/Host_(biology)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0200091",
+		"o": "http://en.wikipedia.org/wiki/Inter-rater_reliability"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400060",
+		"o": "http://en.wikipedia.org/wiki/Ion_laser"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0200088",
+		"o": "http://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001100",
+		"o": "http://en.wikipedia.org/wiki/Laboratory_centrifuge"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400064",
+		"o": "http://en.wikipedia.org/wiki/Laser"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400010",
+		"o": "http://en.wikipedia.org/wiki/Laser#Gas_lasers"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400052",
+		"o": "http://en.wikipedia.org/wiki/Laser#Gas_lasers"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400053",
+		"o": "http://en.wikipedia.org/wiki/Laser#Gas_lasers"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400095",
+		"o": "http://en.wikipedia.org/wiki/Low-pass_filter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000049",
+		"o": "http://en.wikipedia.org/wiki/Mass_spectrometry"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000364",
+		"o": "http://en.wikipedia.org/wiki/Mass_spectrometry#Detector"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000361",
+		"o": "http://en.wikipedia.org/wiki/Mass_spectrometry#Ion_source"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000345",
+		"o": "http://en.wikipedia.org/wiki/Mass_spectrometry#Mass_analyzer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001085",
+		"o": "http://en.wikipedia.org/wiki/Medical_radiography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000935",
+		"o": "http://en.wikipedia.org/wiki/Micromanipulator"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001124",
+		"o": "http://en.wikipedia.org/wiki/Micropipette"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000192",
+		"o": "http://en.wikipedia.org/wiki/Microtiter_plate"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001061",
+		"o": "http://en.wikipedia.org/wiki/Microwave_chemistry"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000791",
+		"o": "http://en.wikipedia.org/wiki/Multiple_Testing_Correction"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001055",
+		"o": "http://en.wikipedia.org/wiki/Nipkow_disk"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0200097",
+		"o": "http://en.wikipedia.org/wiki/Non-negative_matrix_factorization"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400079",
+		"o": "http://en.wikipedia.org/wiki/Optical_filter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001065",
+		"o": "http://en.wikipedia.org/wiki/Optical_microscope#Stereo_microscope"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000948",
+		"o": "http://en.wikipedia.org/wiki/Oscilloscope"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001080",
+		"o": "http://en.wikipedia.org/wiki/Patch_clamp"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000868",
+		"o": "http://en.wikipedia.org/wiki/Pattern_matching"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001047",
+		"o": "http://en.wikipedia.org/wiki/PH_meter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001058",
+		"o": "http://en.wikipedia.org/wiki/Plate_reader"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000933",
+		"o": "http://en.wikipedia.org/wiki/Positron_emission_tomography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001106",
+		"o": "http://en.wikipedia.org/wiki/Pulsed_field_gel_electrophoresis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001110",
+		"o": "http://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0200034",
+		"o": "http://en.wikipedia.org/wiki/Resampling_%28statistics%29"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001105",
+		"o": "http://en.wikipedia.org/wiki/Scanning_probe_microscopy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001070",
+		"o": "http://en.wikipedia.org/wiki/Scintillation_counter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001068",
+		"o": "http://en.wikipedia.org/wiki/Single_photon_emission_computed_tomography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400096",
+		"o": "http://en.wikipedia.org/wiki/Solid-state_laser"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001098",
+		"o": "http://en.wikipedia.org/wiki/Sonography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001136",
+		"o": "http://en.wikipedia.org/wiki/Surface_plasmon_resonance"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0200083",
+		"o": "http://en.wikipedia.org/wiki/Survival_analysis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000836",
+		"o": "http://en.wikipedia.org/wiki/Test_tube"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001052",
+		"o": "http://en.wikipedia.org/wiki/Two-photon_excitation_microscopy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001129",
+		"o": "http://en.wikipedia.org/wiki/Voltage_clamp"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400118",
+		"o": "http://en.wikipedia.org/wiki/Vortex_mixer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001104",
+		"o": "http://en.wikipedia.org/wiki/Weighing_scale"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001135",
+		"o": "http://en.wikipedia.org/wiki/Weighing_scale"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000982",
+		"o": "http://en.wikipedia.org/wiki/X-ray_computed_tomography"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001138",
+		"o": "http://en.wikipedia.org/wiki/X-ray_generator"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400101",
+		"o": "http://en.wiktionary.org/wiki/amplifier"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400007",
+		"o": "http://en.wiktionary.org/wiki/Analog-to-Digital_Converter"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000955",
+		"o": "http://faculty.plattsburgh.edu/donald.slish/Puller1.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001088",
+		"o": "http://goldbook.iupac.org/T06250.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002663",
+		"o": "http://healthlibrary.epnet.com/GetContent.aspx?token=b93d114e-5009-4f6a-9917-6c594254fcc7&chunkiid=14861"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001044",
+		"o": "http://medical-dictionary.thefreedictionary.com/angiograph"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001123",
+		"o": "http://medical-dictionary.thefreedictionary.com/microdissection"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400137",
+		"o": "http://medical.merriam-webster.com/medical/cytometer"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000481",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01012"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000542",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01030"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000507",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01033"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000550",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01034"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000608",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01035"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000638",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01036"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000554",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01039"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000633",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01040"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000619",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01041"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000497",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01044"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000589",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01046"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000627",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01047"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000557",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01048"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000556",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01049"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000573",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01050"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000546",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01051"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000474",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01052"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000495",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01053"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000549",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01054"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000532",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01055"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000504",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01057"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000610",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01058"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000525",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01060"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000494",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01061"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000526",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01062"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000500",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01063"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000476",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01064"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000551",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01065"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000496",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01066"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000545",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01068"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000605",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01069"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000602",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01070"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000469",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01072"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000536",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01073"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000463",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01077"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000505",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01078"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000501",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01079"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000563",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01080"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000583",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01081"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000547",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01082"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000637",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01083"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000466",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01084"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000509",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01085"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000642",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01086"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000617",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01087"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000598",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01088"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000489",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01089"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000506",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01090"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000588",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01091"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000533",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01094"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000584",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01095"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000490",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01096"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000482",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01097"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000465",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01099"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000618",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01100"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000609",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01101"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000493",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01102"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000622",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01103"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000535",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01104"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000560",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01105"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000510",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01106"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000628",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01107"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000586",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01108"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000528",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01110"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000614",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01111"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000594",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01113"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000601",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01115"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000568",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01116"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000522",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01117"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000511",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01118"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000604",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01119"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000592",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01121"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000543",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01122"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000538",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01123"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000521",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01197"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000569",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01198"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000515",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01209"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000448",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01218"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000606",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01219"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000603",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01227"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000570",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01232"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000574",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01233"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000621",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01234"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000572",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01235"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000478",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01236"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000581",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01237"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000468",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01238"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000565",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01239"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000595",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01240"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000518",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01261"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000485",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01262"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000508",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01276"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000562",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01277"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000593",
+		"o": "http://msi-ontology.sourceforge.net/ontology/CHROM.owl#msi_01278"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000555",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400002"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000636",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400013"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000516",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400014"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000499",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400015"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000566",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400059"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000523",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400130"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000519",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400131"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000578",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400132"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000517",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400185"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000597",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400186"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000567",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400187"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000575",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400188"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000467",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400189"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000530",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400190"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000531",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400191"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000607",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400192"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000629",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400193"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000590",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400194"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000527",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400195"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000580",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400197"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000596",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400198"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000632",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400199"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000473",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400203"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000498",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400204"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000475",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400205"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000591",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400206"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000544",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400207"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000624",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400208"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000464",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400209"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000492",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400210"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000612",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400211"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000484",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400212"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000480",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400223"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000616",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400224"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000620",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400225"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000600",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400226"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000625",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400227"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000641",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400228"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000561",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400231"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000529",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400232"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000635",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400233"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000611",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400234"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000631",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400235"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000558",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400236"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000579",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400237"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000524",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400238"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000477",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400239"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000514",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400240"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000541",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400241"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000559",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400242"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000479",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400243"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000539",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400244"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000599",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400246"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000513",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400247"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000564",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400248"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000483",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400249"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000534",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400250"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000503",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400276"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000582",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400277"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000613",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400278"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000553",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400279"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000491",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400280"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000640",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400281"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000486",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400283"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000487",
+		"o": "http://msi-ontology.sourceforge.net/ontology/NMR.owl#msi_400284"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002996",
+		"o": "http://purl.obolibrary.org/obo/EUPATH_0000791"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002652",
+		"o": "http://purl.obolibrary.org/obo/NCIT_C137909"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002005",
+		"o": "http://res.illumina.com/documents/products/datasheets/datasheet_dna_methylation_analysis.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002027",
+		"o": "http://res.illumina.com/documents/products/datasheets/datasheet_genome_analyzer_iie.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002001",
+		"o": "http://res.illumina.com/documents/products/datasheets/datasheet_hiseq_systems.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002022",
+		"o": "http://res.illumina.com/documents/products/datasheets/datasheet_hiseq_systems.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002002",
+		"o": "http://res.illumina.com/documents/products/datasheets/datasheet_hiseq2500.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002003",
+		"o": "http://res.illumina.com/documents/products/datasheets/datasheet_miseq.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002021",
+		"o": "http://systems.illumina.com/systems/nextseq-sequencer.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002661",
+		"o": "http://web.jhu.edu/animalcare/policies/Tail%20Biopsy%20of%20Mice.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400135",
+		"o": "http://web.mit.edu/solab/Research/ImageCytometry.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002025",
+		"o": "http://www.affymetrix.com/catalog/131453/AFFY/Human+Gene+ST+Arrays#1_1"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002026",
+		"o": "http://www.affymetrix.com/estore/esearch/search.jsp?pd=131441&N=4294967292"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002023",
+		"o": "http://www.affymetrix.com/estore/esearch/search.jsp?pd=131455&N=4294967292"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400063",
+		"o": "http://www.aicompanies.com/DeltaCD/lacto_ftir_auto.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400098",
+		"o": "http://www.aicompanies.com/DeltaCD/soma_auto_adv.htm, 2007-05-10"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400054",
+		"o": "http://www.amnis.com/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400146",
+		"o": "http://www.amnis.com/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001096",
+		"o": "http://www.answers.com/topic/laser-capture-microdissection-microscope-in-medicine"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001128",
+		"o": "http://www.answers.com/topic/micropipette"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400100",
+		"o": "http://www.answers.com/topic/syringe, 2007-05-11"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400005",
+		"o": "http://www.apogeeflow.com/flow_cytometry_products.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400006",
+		"o": "http://www.apogeeflow.com/flow_cytometry_products.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002024",
+		"o": "http://www.appliedbiosystems.com/absite/us/en/home/applications-technologies/solid-next-generation-sequencing/next-generation-systems/solid-4-system.html?CID=FL-091411_solid4"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001113",
+		"o": "http://www.articlesnatch.com/Article/Microplate-Readers-And-Washers-For-Laboratories/948037"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400038",
+		"o": "http://www.bdbiosciences.com/cgi-bin/literature/view?part_num=23-8786-01"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400068",
+		"o": "http://www.bdbiosciences.com/external_files/is/doc/mkt_lit/brochures/live/web_enabled/SJ-0142-00LSR2.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400040",
+		"o": "http://www.bdbiosciences.com/external_files/is/doc/mkt_lit/brochures/SJ-0003-00Aria.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400041",
+		"o": "http://www.bdbiosciences.com/features/products/display_product.php?keyID=42"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400036",
+		"o": "http://www.bdbiosciences.com/immunocytometry_systems/products/display_product.php?keyID=45, 2007-05-11"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001871",
+		"o": "http://www.bdbiosciences.com/instruments/lsrx20/index.jsp?WT.srch=1&gclid=CJjJ8JTR5LoCFXBo7AodZycAbg"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400037",
+		"o": "http://www.bdbiosciences.com/pdfs/brochures/23-8742-00.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400018",
+		"o": "http://www.beckmancoulter.com/cell-lab"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400086",
+		"o": "http://www.beckmancoulter.com/literature/Bioresearch/P-10202A.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400042",
+		"o": "http://www.beckmancoulter.com/products/instrument/flowcytometry/fc500series.asp"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400097",
+		"o": "http://www.bentleyinstruments.com/somacount.html#Anchor-Bentley-49575"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001045",
+		"o": "http://www.biometra.de/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002762",
+		"o": "http://www.biorxiv.org/content/early/2017/07/06/159137"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400039",
+		"o": "http://www.brc.ubc.ca/brc/facs.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001091",
+		"o": "http://www.britannica.com/EBchecked/topic/49765/balance"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400012",
+		"o": "http://www.chemunex.com/products/chemframe.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400027",
+		"o": "http://www.cytobuoy.com/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400028",
+		"o": "http://www.cytobuoy.com/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400029",
+		"o": "http://www.cytobuoy.com/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400055",
+		"o": "http://www.cytopeia.com/analyzer.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400056",
+		"o": "http://www.cytopeia.com/sorter.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400075",
+		"o": "http://www.dakousa.com/index/prod_search/prod_groups.htm?productareaid=16"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400022",
+		"o": "http://www.dakousa.com/prod_productrelatedinformation?url=gprod_cyan_index.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400074",
+		"o": "http://www.eio.com/repairfaq/sam/laserarg.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001083",
+		"o": "http://www.faqs.org/patents/app/20090196797"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001101",
+		"o": "http://www.faqs.org/patents/app/20090196797"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400008",
+		"o": "http://www.flocyte.com/FRTP/Resources/flow_cytometry_glossary.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400043",
+		"o": "http://www.flocyte.com/FRTP/Resources/flow_cytometry_glossary.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400088",
+		"o": "http://www.flocyte.com/FRTP/Resources/flow_cytometry_glossary.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400099",
+		"o": "http://www.flocyte.com/FRTP/Resources/flow_cytometry_glossary.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001056",
+		"o": "http://www.globalspec.com/LearnMore/Labware_Scientific_Instruments/Clinical_Research_Labware/DNA_Synthesizers"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000798",
+		"o": "http://www.golovchenko.org/cgi-bin/wnsearch?q=capsule#2n"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000821",
+		"o": "http://www.golovchenko.org/cgi-bin/wnsearch?q=capsule#2n"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000844",
+		"o": "http://www.golovchenko.org/cgi-bin/wnsearch?q=hospital#2n"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000827",
+		"o": "http://www.golovchenko.org/cgi-bin/wnsearch?q=pill#2n"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400049",
+		"o": "http://www.guavatechnologies.com/main/products/easycyte-new.cfm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400048",
+		"o": "http://www.guavatechnologies.com/main/products/easyCyteMini.cfm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400051",
+		"o": "http://www.guavatechnologies.com/main/products/PCA-96new.cfm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400050",
+		"o": "http://www.guavatechnologies.com/main/products/PCA-new.cfm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0500002",
+		"o": "http://www.holah.karoo.net/experimentaldesigns.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0500005",
+		"o": "http://www.holah.karoo.net/experimentaldesigns.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0500006",
+		"o": "http://www.holah.karoo.net/experimentaldesigns.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400089",
+		"o": "http://www.i-cyt.com/reflection.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002131",
+		"o": "http://www.illumina.com/content/dam/illumina-marketing/documents/products/datasheets/humanmethylationepic-data-sheet-1070-2015-008.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002130",
+		"o": "http://www.illumina.com/products/by-type/microarray-kits/infinium-omni5-exome.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002004",
+		"o": "http://www.illumina.com/products/methylation_450_beadchip_kits.ilmn"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002048",
+		"o": "http://www.illumina.com/systems/hiseq-3000-4000.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002049",
+		"o": "http://www.illumina.com/systems/hiseq-3000-4000.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002129",
+		"o": "http://www.illumina.com/systems/hiseq-x-sequencing-system/system.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002630",
+		"o": "http://www.illumina.com/systems/sequencing-platforms/novaseq.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001869",
+		"o": "http://www.illumina.com/technology/beadarray_technology.ilmn"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002006",
+		"o": "http://www.illumina.com/technology/infinium_hd_assay.ilmn"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002128",
+		"o": "http://www.illumina.com/technology/next-generation-sequencing/solexa-technology.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002686",
+		"o": "http://www.ispybio.com/search/protocols/ie%20protocol2.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0500016",
+		"o": "http://www.itl.nist.gov/div898/handbook/pri/section3/pri334.htm From ASQC (1983) Glossary & Tables for Statistical Quality Control"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400069",
+		"o": "http://www.luminexcorp.com/products/luminex_100IS.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400070",
+		"o": "http://www.luminexcorp.com/support/faqs.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002315",
+		"o": "http://www.medilexicon.com/dictionary/14371"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000136",
+		"o": "http://www.medterms.com/script/main/art.asp?articlekey=18426"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400071",
+		"o": "http://www.miltenyi.com"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002764",
+		"o": "http://www.nature.com/nature/journal/v523/n7561/full/nature14590.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000799",
+		"o": "http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.section.1611"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000824",
+		"o": "http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mcb.section.1611"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002109",
+		"o": "http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=snolquwezzwdxuj&acc=GPL18318"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002008",
+		"o": "http://www.nimblegen.com/downloads/support/05434483001_NG_CGHLOH_UGuide_v9p1.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002009",
+		"o": "http://www.nimblegen.com/downloads/support/05434483001_NG_CGHLOH_UGuide_v9p1.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002010",
+		"o": "http://www.nimblegen.com/downloads/support/05434483001_NG_CGHLOH_UGuide_v9p1.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002011",
+		"o": "http://www.nimblegen.com/downloads/support/05434483001_NG_CGHLOH_UGuide_v9p1.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002632",
+		"o": "http://www.pacb.com/products-and-services/pacbio-systems/sequel/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002633",
+		"o": "http://www.pacb.com/products-and-services/pacbio-systems/sequel/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002012",
+		"o": "http://www.pacificbiosciences.com/products/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400023",
+		"o": "http://www.partec.de/products/cyflow-ml.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400024",
+		"o": "http://www.partec.de/products/cyflow.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400025",
+		"o": "http://www.partec.de/products/cyflowsl3.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400026",
+		"o": "http://www.partec.de/products/cyflowspace.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002196",
+		"o": "http://www.sakura.eu/Our-products/item/8/Microtomy/29/Accu-Edge-Disposable-Microtome-Blades"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0500014",
+		"o": "http://www.stats.gla.ac.uk/steps/glossary/anova.html#facdes And from wikipedia (01/03/2007): http://en.wikipedia.org/wiki/Factorial_experiment)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001973",
+		"o": "http://www.thefreedictionary.com/Semiconductor+chip"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0500007",
+		"o": "http://www.tufts.edu/~gdallal/ranblock.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002194",
+		"o": "http://www.ultra-medical.com/Microm-Ergostar-HM200-Microtome/en"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400014",
+		"o": "http://www.unionbio.com/products/BioSorter.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400015",
+		"o": "http://www.unionbio.com/products/BioSorter.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400016",
+		"o": "http://www.unionbio.com/products/BioSorter.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400017",
+		"o": "http://www.unionbio.com/products/BioSorter.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002662",
+		"o": "http://www.webmd.com/cancer/bone-marrow-aspiration-and-biopsy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002007",
+		"o": "http://www3.appliedbiosystems.com/cms/groups/mcb_marketing/documents/generaldocuments/cms_072050.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002971",
+		"o": "https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-019-0926-3"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002972",
+		"o": "https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-019-0926-3"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002650",
+		"o": "https://en.wikipedia.org/wiki/Biopsy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002316",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002317",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002318",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002319",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002320",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002321",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002322",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002323",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002324",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002325",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002291",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging#Pathological_M_Categorization_.28cM_and_pM.29"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002292",
+		"o": "https://en.wikipedia.org/wiki/Cancer_staging#Pathological_M_Categorization_.28cM_and_pM.29"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002327",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002328",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002329",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002330",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002331",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002332",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002333",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002334",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002335",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002336",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002337",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002338",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002339",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002340",
+		"o": "https://en.wikipedia.org/wiki/Cervical_cancer_staging"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0003074",
+		"o": "https://en.wikipedia.org/wiki/Common_name"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002821",
+		"o": "https://en.wikipedia.org/wiki/Cotton_swab"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002190",
+		"o": "https://en.wikipedia.org/wiki/Courier"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002791",
+		"o": "https://en.wikipedia.org/wiki/Face_shield"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0003066",
+		"o": "https://en.wikipedia.org/wiki/Grid_reference_system"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0003067",
+		"o": "https://en.wikipedia.org/wiki/Grid_reference_system"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002685",
+		"o": "https://en.wikipedia.org/wiki/Immunoelectrophoresis"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002688",
+		"o": "https://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002587",
+		"o": "https://en.wikipedia.org/wiki/Machine_learning"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002803",
+		"o": "https://en.wikipedia.org/wiki/Medical_glove"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002804",
+		"o": "https://en.wikipedia.org/wiki/Medical_glove"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002796",
+		"o": "https://en.wikipedia.org/wiki/Medical_gown"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002487",
+		"o": "https://en.wikipedia.org/wiki/Microrafts"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002195",
+		"o": "https://en.wikipedia.org/wiki/Microtome"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002790",
+		"o": "https://en.wikipedia.org/wiki/N95_mask"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002684",
+		"o": "https://en.wikipedia.org/wiki/Nested_polymerase_chain_reaction"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002755",
+		"o": "https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002792",
+		"o": "https://en.wikipedia.org/wiki/Patient_gown"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002794",
+		"o": "https://en.wikipedia.org/wiki/Patient_gown"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002795",
+		"o": "https://en.wikipedia.org/wiki/Patient_gown"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002356",
+		"o": "https://en.wikipedia.org/wiki/Performance_status"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002786",
+		"o": "https://en.wikipedia.org/wiki/Personal_protective_equipment"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002488",
+		"o": "https://en.wikipedia.org/wiki/Pipette"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002693",
+		"o": "https://en.wikipedia.org/wiki/Restriction_fragment_length_polymorphism"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002793",
+		"o": "https://en.wikipedia.org/wiki/Scrubs_(clothing)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002813",
+		"o": "https://en.wikipedia.org/wiki/Scrubs_(clothing)"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002747",
+		"o": "https://en.wikipedia.org/wiki/Serial_passage"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002588",
+		"o": "https://en.wikipedia.org/wiki/Supervised_learning"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002193",
+		"o": "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002589",
+		"o": "https://en.wikipedia.org/wiki/Unsupervised_learning"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002802",
+		"o": "https://en.wikipedia.org/wiki/White_coat"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002444",
+		"o": "https://en.wiktionary.org/wiki/measurand"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002806",
+		"o": "https://en.wiktionary.org/wiki/shoecover"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002945",
+		"o": "https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1005-9_45, EFO_0001430 population based design"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002820",
+		"o": "https://medical-dictionary.thefreedictionary.com/swab"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002809",
+		"o": "https://multimedia.3m.com/mws/media/1794572O/surgical-n95-vs-standard-n95-which-to-consider.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002751",
+		"o": "https://nanoporetech.com/products/gridion"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002750",
+		"o": "https://nanoporetech.com/products/minion"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002752",
+		"o": "https://nanoporetech.com/products/promethion"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002805",
+		"o": "https://ncceh.ca/content/blog/physical-barriers-covid-19-infection-prevention-and-control-commercial-settings"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002779",
+		"o": "https://seattlechildrenslab.testcatalog.org/catalogs/185/files/11633"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002293",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002294",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002295",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002296",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002297",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002271",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002272",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002273",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002274",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002275",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002276",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002277",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002278",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002225",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002226",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002227",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002228",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002229",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002230",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002231",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/colon/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002307",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002308",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002309",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002285",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002286",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002244",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002245",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002246",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002247",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002248",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002249",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002250",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002251",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002252",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002253",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002254",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002255",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/kidney_parenchyma/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002299",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002300",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002301",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002302",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002303",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002304",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002305",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002280",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002281",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002282",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002283",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002233",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002234",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002235",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002236",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002237",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002238",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002239",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002240",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002241",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002242",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/lung/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002311",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002312",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002313",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_m/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002288",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002289",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_n/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002342",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002343",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002344",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002345",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002346",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002347",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002348",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002349",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002350",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002351",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002352",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002353",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002354",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002355",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_stage_group_direct/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002257",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002258",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002259",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002260",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002261",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002262",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002263",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002264",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002265",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002266",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002267",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002268",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002269",
+		"o": "https://staging.seer.cancer.gov/tnm/input/1.0/ovary/path_t/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002136",
+		"o": "https://www.agilent.com/cs/library/applications/5989-1165EN.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002788",
+		"o": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002789",
+		"o": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002206",
+		"o": "https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis/tumor-grade-fact-sheet"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002207",
+		"o": "https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis/tumor-grade-fact-sheet"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002208",
+		"o": "https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis/tumor-grade-fact-sheet"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002209",
+		"o": "https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis/tumor-grade-fact-sheet"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002822",
+		"o": "https://www.fda.gov/food/laboratory-methods-food/environmental-sampling-and-detection-salmonella-poultry-houses"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002651",
+		"o": "https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002657",
+		"o": "https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002654",
+		"o": "https://www.mayoclinic.org/tests-procedures/needle-biopsy/about/pac-20394749"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002747",
+		"o": "https://www.merriam-webster.com/dictionary/passage"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002013",
+		"o": "https://www.nanostring.com/products/mirna-assays/mirna-panels"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002570",
+		"o": "https://www.nanostring.com/products/mirna-assays/mirna-panels"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_2100402",
+		"o": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4049660/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002675",
+		"o": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4364389/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002655",
+		"o": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769667/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002656",
+		"o": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769667/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002745",
+		"o": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769667/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002674",
+		"o": "https://www.ncbi.nlm.nih.gov/pubmed/22213493"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002653",
+		"o": "https://www.oncolink.org/cancer-treatment/procedures-diagnostic-tests/biopsy-procedures/ultrasound-guided-needle-biopsy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002679",
+		"o": "https://www.researchgate.net/publication/330227873"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002810",
+		"o": "https://www.safeopedia.com/definition/863/disposable-coveralls"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002811",
+		"o": "https://www.safeopedia.com/definition/974/protective-sleeves"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002824",
+		"o": "https://www.science.gov/topicpages/s/surface+wipe+sampling.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002660",
+		"o": "https://www.ucsfbenioffchildrens.org/tests/003841.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000385",
+		"o": "http://en.wikipedia.org/wiki/Ionization"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000379",
+		"o": "http://en.wikipedia.org/wiki/Mechanical_work"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0000377",
+		"o": "http://en.wikipedia.org/wiki/Perturbation_biology"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001877",
+		"o": "http://en.wikipedia.org/wiki/RAM\nlast accessed: 2013-12-02"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0200008",
+		"o": "http://flowcyt.sourceforge.net/gating/latest.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002486",
+		"o": "http://kim.bio.upenn.edu/software/verse.shtml or http://biorxiv.org/content/early/2016/05/14/053306"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002123",
+		"o": "http://www.agilent.com/cs/library/technicaloverviews/public/08002_ihc_staining_methods.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110033",
+		"o": "http://www.atcc.org/ATCCAdvancedCatalogSearch/ProductDetails/tabid/452/Default.aspx?ATCCNum=CRL-11904&Template=cellBiology"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110039",
+		"o": "http://www.atcc.org/ATCCAdvancedCatalogSearch/ProductDetails/tabid/452/Default.aspx?ATCCNum=CRL-1992&Template=cellBiology"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110031",
+		"o": "http://www.biotech.ist.unige.it/cldb/cl1160.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110032",
+		"o": "http://www.biotech.ist.unige.it/cldb/cl1597.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110099",
+		"o": "http://www.biotech.ist.unige.it/cldb/cl3075.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110028",
+		"o": "http://www.biotech.ist.unige.it/cldb/cl5008.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110118",
+		"o": "http://www.biotech.ist.unige.it/cldb/cl5244.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_1110035",
+		"o": "http://www.biotech.ist.unige.it/cldb/cl5296.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002090",
+		"o": "http://www.clontech.com/US/Products/cDNA_Synthesis_and_Library_Construction/RACE_Rapid_Amplification_of_cDNA_Ends/5_Prime_RACE_and_3_Prime_RACE"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400061",
+		"o": "http://www.flocyte.com/FRTP/Resources/flow_cytometry_glossary.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400085",
+		"o": "http://www.flocyte.com/FRTP/Resources/flow_cytometry_glossary.htm"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400059",
+		"o": "http://www.flocyte.com/FRTP/Resources/flow_cytometry_glossary.htm, 2007-05-11"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002124",
+		"o": "http://www.histalim.com/accueil/activities/our-services/histology/hematoxylin-eosin-2/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0400076",
+		"o": "http://www.nuncbrand.com/page.aspx?ID=301"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002475",
+		"o": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002748",
+		"o": "https://en.wikipedia.org/wiki/Serial_passage"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002470",
+		"o": "https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002093",
+		"o": "https://tools.thermofisher.com/content/sfs/manuals/cms_056070.pdf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002463",
+		"o": "https://www.lexogen.com/sirvs/design/"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002748",
+		"o": "https://www.merriam-webster.com/dictionary/passage"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002484",
+		"o": "https://www.ncbi.nlm.nih.gov/pubmed/23104886"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002462",
+		"o": "https://www.thermofisher.com/order/catalog/product/4456740"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002092",
+		"o": "https://www.thermofisher.com/us/en/home/references/protocols/nucleic-acid-amplification-and-expression-profiling/cdna-protocol/3-race-system-for-rapid-amplification-of-cdna-ends.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002091",
+		"o": "https://www.thermofisher.com/us/en/home/references/protocols/nucleic-acid-amplification-and-expression-profiling/cdna-protocol/5-race-system-for-rapid-amplification-of-cdna-ends.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002627",
+		"o": "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4585-1"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0002785",
+		"o": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C15631"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/PCO_1000002",
+		"o": "https://en.wikipedia.org/wiki/Human_migration"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/PCO_1000003",
+		"o": "https://en.wikipedia.org/wiki/Human_migration"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/PCO_1000001",
+		"o": "https://en.wikipedia.org/wiki/Migration"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/PCO_0000020",
+		"o": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25173"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002555",
+		"o": "http://en.wikipedia.org/wiki/Allelopathy"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002553",
+		"o": "http://eol.org/schema/terms/hyperparasitoidOf"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0008501",
+		"o": "https://en.wikipedia.org/wiki/Epiphyte"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002553",
+		"o": "https://en.wikipedia.org/wiki/Hyperparasite"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0008503",
+		"o": "https://en.wikipedia.org/wiki/Kleptoparasitism"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002626",
+		"o": "https://github.com/jhpoelen/eol-globi-data/issues/143"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002243",
+		"o": "http://purl.obolibrary.org/obo/ExO_0000004"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002348",
+		"o": "http://www.geneontology.org/GO.doc.development.shtml#fate"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002349",
+		"o": "http://www.geneontology.org/GO.doc.development.shtml#fate"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002356",
+		"o": "http://www.geneontology.org/GO.doc.development.shtml#fate"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002440",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/19278549"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002441",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/19278549"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002442",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/19278549"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002443",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/19278549"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002510",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002511",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002512",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002513",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002514",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002515",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002516",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002517",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002518",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002519",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002520",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/RO_0002524",
+		"o": "http://www.ncbi.nlm.nih.gov/pubmed/20226267"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001971",
+		"o": "http://www.lifetechnologies.com/us/en/home/life-science/sequencing/next-generation-sequencing/ion-torrent-next-generation-sequencing-workflow/ion-torrent-next-generation-sequencing-run-sequence/ion-pgm-ion-proton-system-chips.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001972",
+		"o": "http://www.lifetechnologies.com/us/en/home/life-science/sequencing/next-generation-sequencing/ion-torrent-next-generation-sequencing-workflow/ion-torrent-next-generation-sequencing-run-sequence/ion-pgm-ion-proton-system-chips.html"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000119",
+		"s": "http://purl.obolibrary.org/obo/OBI_0001974",
+		"o": "http://www.lifetechnologies.com/us/en/home/life-science/sequencing/next-generation-sequencing/ion-torrent-next-generation-sequencing-workflow/ion-torrent-next-generation-sequencing-run-sequence/ion-pgm-ion-proton-system-chips.html"
+	}
+]

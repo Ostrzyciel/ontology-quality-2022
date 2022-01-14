@@ -1,0 +1,22 @@
+[
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000115",
+		"s": "t5566356",
+		"o": "http://glossary.ametsoc.org/wiki/Bora"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000115",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_183653",
+		"o": "http://purl.obolibrary.org/obo/foodon.owl/A%20fish%20of%20the%20family%20Stromateidae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000115",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00002904",
+		"o": "https://en.wikipedia.org/wiki/Caesionidae"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/IAO_0000115",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03412767",
+		"o": "http://purl.obolibrary.org/obo/foodon.owl/a%20species%20of%20flowering%20plant%20in%20the%20myrtle%20family,%20Myrtaceae%20–%20is%20native%20to%20the%20highlands%20of%20southern%20Brazil,%20eastern%20Paraguay,%20Uruguay,%20northern%20Argentina,%20and%20Colombia."
+	}
+]

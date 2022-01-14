@@ -1,0 +1,80 @@
+# Retrieved on 14 Jan 2022
+# Source: https://cso.kmi.open.ac.uk/schema/cso
+# See also: https://cso.kmi.open.ac.uk/about
+# Authors: Salatino, Angelo A., Thiviyan Thanapalasingam, Andrea Mannocci, Francesco Osborne, and Enrico Motta
+# License: Creative Commons Attribution 4.0
+
+@prefix : <http://cso.kmi.open.ac.uk/schema/cso#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@base <http://cso.kmi.open.ac.uk/schema/cso#> .
+
+<http://cso.kmi.open.ac.uk/schema/cso#> rdf:type owl:Ontology ;
+                                         owl:imports <https://www.w3.org/2009/08/skos-reference/skos.rdf> .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://cso.kmi.open.ac.uk/schema/cso#contributesTo
+:contributesTo rdf:type owl:ObjectProperty ;
+               rdfs:domain :Topic ;
+               rdfs:range :Topic ;
+               rdfs:comment "We use this relation to indicate that the research output of one topic contributes to another." ;
+               rdfs:label "contributes to"@en .
+
+
+###  http://cso.kmi.open.ac.uk/schema/cso#preferentialEquivalent
+:preferentialEquivalent rdf:type owl:ObjectProperty ;
+                        rdfs:subPropertyOf :relatedEquivalent ,
+                                           skos:related ;
+                        rdf:type owl:FunctionalProperty ;
+                        rdfs:domain :Topic ;
+                        rdfs:range :Topic ;
+                        rdfs:comment "We use this relationship to declare that the subject topic need to use the label of the object topic for presentation purposes." ;
+                        rdfs:label "preferential equivalent"@en .
+
+
+###  http://cso.kmi.open.ac.uk/schema/cso#relatedEquivalent
+:relatedEquivalent rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf skos:related ;
+                   rdf:type owl:SymmetricProperty ,
+                            owl:TransitiveProperty ;
+                   rdfs:domain :Topic ;
+                   rdfs:range :Topic ;
+                   rdfs:comment "We use this relationship to identify that two potentially distinct research concepts are treated as equivalent in the context of the CSO." ;
+                   rdfs:label "related equivalent"@en ;
+                   skos:note "Different from skos:exactMatch" .
+
+
+###  http://cso.kmi.open.ac.uk/schema/cso#subTopicOf
+:subTopicOf rdf:type owl:ObjectProperty ;
+            owl:inverseOf :superTopicOf ;
+            rdf:type owl:TransitiveProperty ;
+            rdfs:domain :Topic ;
+            rdfs:range :Topic ;
+            rdfs:comment "We use this relation to indicate that a :Topic is a sub-area of another one. This is the inverse of :superTopicOf" ;
+            rdfs:label "sub-topic of"@en .
+
+
+###  http://cso.kmi.open.ac.uk/schema/cso#superTopicOf
+:superTopicOf rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf skos:narrower ;
+              rdf:type owl:TransitiveProperty ;
+              rdfs:domain :Topic ;
+              rdfs:range :Topic ;
+              rdfs:comment "We use this relation to indicate that a :Topic is a super-area of another one." ;
+              rdfs:label "super-topic of"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://cso.kmi.open.ac.uk/schema/cso#Topic
+:Topic rdf:type owl:Class ;
+       rdfs:subClassOf skos:Concept .

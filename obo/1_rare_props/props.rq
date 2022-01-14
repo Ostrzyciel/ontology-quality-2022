@@ -1,0 +1,18 @@
+# Retrieve a list of all properties in the KB, sorted by use count
+
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT 
+	?p
+	(sample(?pLabel) as ?l)
+	(count(*) as ?c)
+	(sample(?pType) as ?type)
+	(sample(?s) as ?s1)
+	(sample(?o) as ?o1)
+WHERE {
+  ?s ?p ?o .
+  OPTIONAL { ?p a ?pType . }
+  OPTIONAL { ?p rdfs:label ?pLabel }
+}
+group by ?p
+order by DESC(?c)

@@ -1,0 +1,47 @@
+[
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002163",
+		"o": "https://github.com/obophenotype/uberon/wiki/Part-disjointness-Design-Pattern"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002375",
+		"o": "https://github.com/obophenotype/uberon/issues/170"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002170",
+		"o": "https://github.com/obophenotype/uberon/wiki/Connectivity-Design-Pattern"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002176",
+		"o": "https://github.com/obophenotype/uberon/wiki/Connectivity-Design-Pattern"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002170",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-articulations-Design-Pattern"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002176",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-articulations-Design-Pattern"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002434",
+		"o": "https://github.com/oborel/obo-relations/wiki/InteractionRelations"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0002563",
+		"o": "https://github.com/oborel/obo-relations/wiki/InteractionRelations"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/page",
+		"s": "http://purl.obolibrary.org/obo/RO_0001900",
+		"o": "https://github.com/oborel/obo-relations/wiki/ROAndTime"
+	}
+]

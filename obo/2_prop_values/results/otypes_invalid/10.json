@@ -1,0 +1,72 @@
+[
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5553974",
+		"o": "http://orcid.org/0000-0002-4366-3088"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5568026",
+		"o": "http://orcid.org/0000-0002-4366-3088"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5555879",
+		"o": "https://orcid.org/0000-0003-4808-4736"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5557880",
+		"o": "https://orcid.org/0000-0003-4808-4736"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5559979",
+		"o": "https://orcid.org/0000-0003-4808-4736"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5563525",
+		"o": "https://orcid.org/0000-0003-4808-4736"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5569155",
+		"o": "https://orcid.org/0000-0003-4808-4736"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t2695650",
+		"o": "http://purl.obolibrary.org/obo/ECO_0007636"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t2778484",
+		"o": "http://purl.obolibrary.org/obo/ECO_0007636"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5562594",
+		"o": "http://www.gesamp.org/publications/guidelines-for-the-monitoring-and-assessment-of-plastic-litter-in-the-ocean"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5564810",
+		"o": "https://en.wikipedia.org/wiki/Shore"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t5554249",
+		"o": "https://www.merriam-webster.com/dictionary/vibration"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t14528639",
+		"o": "http://purl.obolibrary.org/obo/NCIT_C88214"
+	},
+	{
+		"p": "http://www.w3.org/2000/01/rdf-schema#comment",
+		"s": "t14528639",
+		"o": "http://www.ebi.ac.uk/efo/EFO_0000507"
+	}
+]

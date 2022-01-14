@@ -1,0 +1,417 @@
+[
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001817",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002080",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002084",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002118",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002119",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002078",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002079",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002167",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002168",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001119",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001120",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001222",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001223",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001233",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001234",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001302",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001303",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002812",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0002813",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004533",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004534",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004538",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004539",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004548",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004549",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005457",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005459",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005460",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005469",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005471",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005472",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0006616",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0006617",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0008255",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0008256",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0011092",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0011093",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013161",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013162",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013637",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013772",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013773",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8300001",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8300002",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8300003",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_8300004",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013683",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013684",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014889",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014890",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0003907",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0003908",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009139",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013124",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014766",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014767",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0015120",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0015121",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009020",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009022",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009771",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009772",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009897",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009898",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009140",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009868",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0009869",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013125",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0013523",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014690",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014691",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014787",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0014788",
+		"o": "https://github.com/obophenotype/uberon/wiki/Modeling-paired-structures-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001442",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0001445",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004247",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004248",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004249",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004250",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0004251",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005897",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0005899",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	},
+	{
+		"p": "http://purl.obolibrary.org/obo/UBPROP_0000006",
+		"s": "http://purl.obolibrary.org/obo/UBERON_0011250",
+		"o": "https://github.com/obophenotype/uberon/wiki/Skeleton-partonomy-Design-Pattern"
+	}
+]

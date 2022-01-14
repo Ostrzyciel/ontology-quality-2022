@@ -1,0 +1,8 @@
+select *
+where {
+  BIND(<http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym> as ?p)
+  
+  ?s ?p ?o .
+  
+  FILTER(!isLiteral(?o))
+}

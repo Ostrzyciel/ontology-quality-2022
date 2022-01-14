@@ -1,0 +1,8 @@
+select *
+where {
+  BIND(<http://xmlns.com/foaf/0.1/page> as ?p)
+  
+  ?s ?p ?o .
+  
+  FILTER(isLiteral(?o))
+}

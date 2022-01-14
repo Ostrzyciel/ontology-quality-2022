@@ -1,0 +1,578 @@
+uri,cluster,i,std,mean,median,is_main_label,label,i_agg,mean_agg,std_agg,score
+https://cso.kmi.open.ac.uk/topics/case_retrieval,848,0,0.09391521,0.5088721,0.5626242,False,case retrieval,4,0.50046927,0.071524404,0.6435181
+https://cso.kmi.open.ac.uk/topics/case_based_reasoning_systems,848,1,0.0944808,0.5318481,0.5871775,False,case based reasoning systems,4,0.50046927,0.071524404,0.6435181
+https://cso.kmi.open.ac.uk/topics/case_base,848,2,0.038769837,0.41450095,0.39885566,True,case base,4,0.50046927,0.071524404,0.6435181
+https://cso.kmi.open.ac.uk/topics/case_based,848,3,0.058931775,0.54665595,0.5626242,False,case based,4,0.50046927,0.071524404,0.6435181
+https://cso.kmi.open.ac.uk/topics/genetic_association_studies,2168,0,0.02647976,0.55207306,0.55939174,False,genetic association studies,4,0.571098,0.05734168,0.68578136
+https://cso.kmi.open.ac.uk/topics/genetic_risk,2168,1,0.07423071,0.6146639,0.56500816,False,genetic risk,4,0.571098,0.05734168,0.68578136
+https://cso.kmi.open.ac.uk/topics/genetic_screening,2168,2,0.032612998,0.5224618,0.5166082,True,genetic screening,4,0.571098,0.05734168,0.68578136
+https://cso.kmi.open.ac.uk/topics/genetic_susceptibility,2168,3,0.09604326,0.5951934,0.5802193,False,genetic susceptibility,4,0.571098,0.05734168,0.68578136
+https://cso.kmi.open.ac.uk/topics/chromosome_breakage,2182,0,0.05196951,0.6452505,0.66220486,False,chromosome breakage,4,0.6324785,0.033871654,0.7002218
+https://cso.kmi.open.ac.uk/topics/chromosome_analysis,2182,1,0.02408005,0.6065982,0.6118297,True,chromosome analysis,4,0.6324785,0.033871654,0.7002218
+https://cso.kmi.open.ac.uk/topics/chromosome_rearrangement,2182,2,0.036220867,0.6486652,0.63312435,False,chromosome rearrangement,4,0.6324785,0.033871654,0.7002218
+https://cso.kmi.open.ac.uk/topics/chromosome_banding,2182,3,0.023216186,0.6293999,0.6141652,False,chromosome banding,4,0.6324785,0.033871654,0.7002218
+https://cso.kmi.open.ac.uk/topics/gene_mapping,1981,0,0.12102386,0.56155235,0.60669005,False,gene mapping,7,0.5312102,0.08471538,0.7006409
+https://cso.kmi.open.ac.uk/topics/gene_product,1981,1,0.031158539,0.5214095,0.5325836,False,gene product,7,0.5312102,0.08471538,0.7006409
+https://cso.kmi.open.ac.uk/topics/genetic_conservation,1981,2,0.07669617,0.4081614,0.41253167,False,genetic conservation,7,0.5312102,0.08471538,0.7006409
+https://cso.kmi.open.ac.uk/topics/genetic_analysis,1981,3,0.06856491,0.54450315,0.5170873,True,genetic analysis,7,0.5312102,0.08471538,0.7006409
+https://cso.kmi.open.ac.uk/topics/gene_locus,1981,4,0.13421662,0.5604249,0.5527127,False,gene locus,7,0.5312102,0.08471538,0.7006409
+https://cso.kmi.open.ac.uk/topics/genetic_code,1981,5,0.035167757,0.56316954,0.5565682,False,genetic code,7,0.5312102,0.08471538,0.7006409
+https://cso.kmi.open.ac.uk/topics/gene_location,1981,6,0.12617978,0.55925053,0.53651667,False,gene location,7,0.5312102,0.08471538,0.7006409
+https://cso.kmi.open.ac.uk/topics/social_support,2202,0,0.04722852,0.5416604,0.50970536,False,social support,4,0.59715503,0.056032114,0.7092193
+https://cso.kmi.open.ac.uk/topics/social_status,2202,1,0.07279247,0.5971966,0.59396255,False,social status,4,0.59715503,0.056032114,0.7092193
+https://cso.kmi.open.ac.uk/topics/social_psychology,2202,2,0.06909381,0.5922906,0.59396255,False,social psychology,4,0.59715503,0.056032114,0.7092193
+https://cso.kmi.open.ac.uk/topics/social_aspect,2202,3,0.03501365,0.6574725,0.6760645,True,social aspect,4,0.59715503,0.056032114,0.7092193
+https://cso.kmi.open.ac.uk/topics/reasoning_algorithms,133,0,0.16120829,0.54740274,0.53604585,False,reasoning algorithms,6,0.52730966,0.11448004,0.75626975
+https://cso.kmi.open.ac.uk/topics/reasoning_tasks,133,1,0.111295655,0.5999936,0.6538732,False,reasoning tasks,6,0.52730966,0.11448004,0.75626975
+https://cso.kmi.open.ac.uk/topics/reasoner,133,2,0.081755444,0.38995212,0.41239822,False,reasoner,6,0.52730966,0.11448004,0.75626975
+https://cso.kmi.open.ac.uk/topics/reasoning_system,133,3,0.12847298,0.6012151,0.55971986,False,reasoning system,6,0.52730966,0.11448004,0.75626975
+https://cso.kmi.open.ac.uk/topics/reasoning,133,4,0.05855206,0.50092906,0.49629173,True,reasoning,6,0.52730966,0.11448004,0.75626975
+https://cso.kmi.open.ac.uk/topics/reasoning_problems,133,5,0.14559583,0.5243655,0.55971986,False,reasoning problems,6,0.52730966,0.11448004,0.75626975
+https://cso.kmi.open.ac.uk/topics/correlation_analysis,2196,0,0.07695569,0.5570564,0.55242544,True,correlation analysis,5,0.60533243,0.0767769,0.7588862
+https://cso.kmi.open.ac.uk/topics/regression_analysis,2196,1,0.076310895,0.5845674,0.5836873,False,regression analysis,5,0.60533243,0.0767769,0.7588862
+https://cso.kmi.open.ac.uk/topics/statistical_analysis,2196,2,0.035418548,0.7024692,0.693449,False,statistical analysis,5,0.60533243,0.0767769,0.7588862
+https://cso.kmi.open.ac.uk/topics/statistics,2196,3,0.11007748,0.5939193,0.5689668,False,statistics,5,0.60533243,0.0767769,0.7588862
+https://cso.kmi.open.ac.uk/topics/statistical_model,2196,4,0.085121885,0.58864987,0.60022867,False,statistical model,5,0.60533243,0.0767769,0.7588862
+https://cso.kmi.open.ac.uk/topics/sensor_systems,2103,0,0.030470246,0.69526035,0.6739733,False,sensor systems,4,0.6625421,0.05731181,0.7771657
+https://cso.kmi.open.ac.uk/topics/sensor_device,2103,1,0.07486723,0.63262707,0.58471894,False,sensor device,4,0.6625421,0.05731181,0.7771657
+https://cso.kmi.open.ac.uk/topics/sensor_readings,2103,2,0.05980354,0.66287774,0.6739733,False,sensor readings,4,0.6625421,0.05731181,0.7771657
+https://cso.kmi.open.ac.uk/topics/sensor_data,2103,3,0.064106226,0.6594032,0.67345697,True,sensor data,4,0.6625421,0.05731181,0.7771657
+https://cso.kmi.open.ac.uk/topics/teaching_practices,1206,0,0.07969226,0.70940447,0.6777569,True,teaching practices,5,0.66338027,0.06273475,0.7888498
+https://cso.kmi.open.ac.uk/topics/teaching_process,1206,1,0.080776855,0.72649753,0.7122894,False,teaching process,5,0.66338027,0.06273475,0.7888498
+https://cso.kmi.open.ac.uk/topics/teaching_quality,1206,2,0.035461776,0.6135127,0.6106588,False,teaching quality,5,0.66338027,0.06273475,0.7888498
+https://cso.kmi.open.ac.uk/topics/new_teaching,1206,3,0.03945024,0.613599,0.60738134,False,new teaching,5,0.66338027,0.06273475,0.7888498
+https://cso.kmi.open.ac.uk/topics/teaching_model,1206,4,0.07829264,0.6538877,0.6401584,False,teaching model,5,0.66338027,0.06273475,0.7888498
+https://cso.kmi.open.ac.uk/topics/x_chromosome_linkage,2204,0,0.08688495,0.6418149,0.5815344,False,x chromosome linkage,4,0.6995925,0.06702022,0.83363295
+https://cso.kmi.open.ac.uk/topics/x_chromosome,2204,1,0.014988983,0.7751697,0.7646816,False,x chromosome,4,0.6995925,0.06702022,0.83363295
+https://cso.kmi.open.ac.uk/topics/y_chromosome,2204,2,0.08833458,0.69639474,0.71128285,False,y chromosome,4,0.6995925,0.06702022,0.83363295
+https://cso.kmi.open.ac.uk/topics/chromosomes,2204,3,0.07787238,0.6849907,0.71128285,True,chromosomes,4,0.6995925,0.06702022,0.83363295
+https://cso.kmi.open.ac.uk/topics/linux_kernel,1766,0,0.026116941,0.7238946,0.7308687,False,linux kernel,4,0.76827735,0.03861864,0.84551466
+https://cso.kmi.open.ac.uk/topics/linux_systems,1766,1,0.062045418,0.776431,0.81375813,False,linux systems,4,0.76827735,0.03861864,0.84551466
+https://cso.kmi.open.ac.uk/topics/linux-_operating_system,1766,2,0.026243411,0.7877534,0.7976835,False,linux- operating system,4,0.76827735,0.03861864,0.84551466
+https://cso.kmi.open.ac.uk/topics/linux,1766,3,0.040068787,0.7850303,0.7976835,True,linux,4,0.76827735,0.03861864,0.84551466
+https://cso.kmi.open.ac.uk/topics/classification_methods,2075,0,0.08235447,0.6620045,0.63884926,True,classification methods,6,0.6518097,0.09791936,0.8476484
+https://cso.kmi.open.ac.uk/topics/classification_results,2075,1,0.06221353,0.67785794,0.6821625,False,classification results,6,0.6518097,0.09791936,0.8476484
+https://cso.kmi.open.ac.uk/topics/classification_system,2075,2,0.09511432,0.63462865,0.6141807,False,classification system,6,0.6518097,0.09791936,0.8476484
+https://cso.kmi.open.ac.uk/topics/classification_performances,2075,3,0.15028468,0.6919924,0.60444057,False,classification performances,6,0.6518097,0.09791936,0.8476484
+https://cso.kmi.open.ac.uk/topics/classification_tasks,2075,4,0.039434955,0.58658946,0.58709997,False,classification tasks,6,0.6518097,0.09791936,0.8476484
+https://cso.kmi.open.ac.uk/topics/classification_performance,2075,5,0.1581142,0.6577853,0.5743414,False,classification performance,6,0.6518097,0.09791936,0.8476484
+https://cso.kmi.open.ac.uk/topics/facial_feature_points,1423,0,0.03833914,0.6916186,0.7171859,False,facial feature points,4,0.72683865,0.0675342,0.86190706
+https://cso.kmi.open.ac.uk/topics/facial_features,1423,1,0.08908874,0.7822462,0.72133875,False,facial features,4,0.72683865,0.0675342,0.86190706
+https://cso.kmi.open.ac.uk/topics/facial_images,1423,2,0.035897415,0.6717966,0.65662366,True,facial images,4,0.72683865,0.0675342,0.86190706
+https://cso.kmi.open.ac.uk/topics/facial_feature,1423,3,0.1068115,0.76169324,0.72024226,False,facial feature,4,0.72683865,0.0675342,0.86190706
+https://cso.kmi.open.ac.uk/topics/security_threats,1926,0,0.11299603,0.63039523,0.58329856,False,security threats,7,0.5897669,0.13638014,0.8625272
+https://cso.kmi.open.ac.uk/topics/security_problems,1926,1,0.19445121,0.6221747,0.5262816,False,security problems,7,0.5897669,0.13638014,0.8625272
+https://cso.kmi.open.ac.uk/topics/security_issues,1926,2,0.19506642,0.6215313,0.52528495,True,security issues,7,0.5897669,0.13638014,0.8625272
+https://cso.kmi.open.ac.uk/topics/security_mechanisms,1926,3,0.14146727,0.6189128,0.56540054,False,security mechanisms,7,0.5897669,0.13638014,0.8625272
+https://cso.kmi.open.ac.uk/topics/security_services,1926,4,0.08669968,0.5080821,0.49112904,False,security services,7,0.5897669,0.13638014,0.8625272
+https://cso.kmi.open.ac.uk/topics/security_solutions,1926,5,0.061769832,0.56095093,0.5391164,False,security solutions,7,0.5897669,0.13638014,0.8625272
+https://cso.kmi.open.ac.uk/topics/security_mechanism,1926,6,0.16221055,0.56632143,0.49829167,False,security mechanism,7,0.5897669,0.13638014,0.8625272
+https://cso.kmi.open.ac.uk/topics/spam_emails,1952,0,0.033860814,0.7467481,0.744343,False,spam emails,6,0.7235194,0.07050658,0.86453253
+https://cso.kmi.open.ac.uk/topics/spam,1952,1,0.04488384,0.72096676,0.7225635,True,spam,6,0.7235194,0.07050658,0.86453253
+https://cso.kmi.open.ac.uk/topics/spam_detection,1952,2,0.069591865,0.7171442,0.73433095,False,spam detection,6,0.7235194,0.07050658,0.86453253
+https://cso.kmi.open.ac.uk/topics/spam_filtering,1952,3,0.09884489,0.7797309,0.76473796,False,spam filtering,6,0.7235194,0.07050658,0.86453253
+https://cso.kmi.open.ac.uk/topics/spam_filter,1952,4,0.12164211,0.7332121,0.7225635,False,spam filter,6,0.7235194,0.07050658,0.86453253
+https://cso.kmi.open.ac.uk/topics/spammers,1952,5,0.054215964,0.6433142,0.64653003,False,spammers,6,0.7235194,0.07050658,0.86453253
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_pair_1,2161,0,0.023055531,0.81408376,0.8071584,False,"chromosomes, human, pair 1",7,0.80819523,0.028940657,0.8660765
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_pair_13,2161,1,0.029631615,0.8176201,0.8089353,False,"chromosomes, human, pair 13",7,0.80819523,0.028940657,0.8660765
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_pair_11,2161,2,0.027151316,0.7955408,0.7945386,True,"chromosomes, human, pair 11",7,0.80819523,0.028940657,0.8660765
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_pair_18,2161,3,0.031131633,0.80234283,0.803433,False,"chromosomes, human, pair 18",7,0.80819523,0.028940657,0.8660765
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_pair_8,2161,4,0.03166975,0.8103983,0.8083065,False,"chromosomes, human, pair 8",7,0.80819523,0.028940657,0.8660765
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_pair_17,2161,5,0.028742399,0.8023843,0.7926842,False,"chromosomes, human, pair 17",7,0.80819523,0.028940657,0.8660765
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_pair_14,2161,6,0.03120236,0.8149967,0.80059814,False,"chromosomes, human, pair 14",7,0.80819523,0.028940657,0.8660765
+https://cso.kmi.open.ac.uk/topics/software_development_process,832,0,0.05622058,0.75737613,0.7498873,False,software development process,4,0.72844726,0.06884761,0.8661425
+https://cso.kmi.open.ac.uk/topics/software_development_life_cycle,832,1,0.08771842,0.70747954,0.6649276,False,software development life cycle,4,0.72844726,0.06884761,0.8661425
+https://cso.kmi.open.ac.uk/topics/software_development,832,2,0.05791195,0.7402005,0.7498873,True,software development,4,0.72844726,0.06884761,0.8661425
+https://cso.kmi.open.ac.uk/topics/software_development_projects,832,3,0.07353948,0.7087328,0.69257075,False,software development projects,4,0.72844726,0.06884761,0.8661425
+https://cso.kmi.open.ac.uk/topics/agile_development,635,0,0.1186752,0.7433131,0.7376492,False,agile development,4,0.67301893,0.09792826,0.86887544
+https://cso.kmi.open.ac.uk/topics/extreme_programming,635,1,0.035298124,0.5594211,0.5627692,False,extreme programming,4,0.67301893,0.09792826,0.86887544
+https://cso.kmi.open.ac.uk/topics/agile_methods,635,2,0.13417804,0.7283234,0.73079175,True,agile methods,4,0.67301893,0.09792826,0.86887544
+https://cso.kmi.open.ac.uk/topics/agile,635,3,0.10356168,0.6610181,0.73079175,False,agile,4,0.67301893,0.09792826,0.86887544
+https://cso.kmi.open.ac.uk/topics/web_content,1305,0,0.116960816,0.67972153,0.63174546,True,web content,6,0.64800453,0.111790426,0.87158537
+https://cso.kmi.open.ac.uk/topics/web_users,1305,1,0.041177418,0.5156452,0.50670683,False,web users,6,0.64800453,0.111790426,0.87158537
+https://cso.kmi.open.ac.uk/topics/web-page,1305,2,0.11816803,0.7094168,0.68273664,False,web-page,6,0.64800453,0.111790426,0.87158537
+https://cso.kmi.open.ac.uk/topics/web_contents,1305,3,0.14027436,0.6451805,0.62314177,False,web contents,6,0.64800453,0.111790426,0.87158537
+https://cso.kmi.open.ac.uk/topics/web_pages,1305,4,0.10801159,0.65029925,0.62769794,False,web pages,6,0.64800453,0.111790426,0.87158537
+https://cso.kmi.open.ac.uk/topics/web_page,1305,5,0.14615034,0.68776375,0.63174546,False,web page,6,0.64800453,0.111790426,0.87158537
+https://cso.kmi.open.ac.uk/topics/learning_activities,2058,0,0.18006927,0.55692685,0.5174962,False,learning activities,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/learning_outcomes,2058,1,0.17300032,0.50940335,0.48462194,False,learning outcomes,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/learning_environments,2058,2,0.1440655,0.6417501,0.61454165,True,learning environments,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/e-learning_environment,2058,3,0.19632149,0.5338458,0.4588679,False,e-learning environment,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/learning_experiences,2058,4,0.07925149,0.57824194,0.59431994,False,learning experiences,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/learning_environment,2058,5,0.13925955,0.65136313,0.61777943,False,learning environment,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/learning_activity,2058,6,0.16164984,0.5696107,0.53524524,False,learning activity,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/e-learning_platforms,2058,7,0.16925195,0.48887488,0.46857935,False,e-learning platforms,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/learning_outcome,2058,8,0.19355026,0.44960403,0.43108466,False,learning outcome,9,0.5532912,0.15960218,0.87249553
+https://cso.kmi.open.ac.uk/topics/encryption_algorithms,1927,0,0.110601686,0.76164174,0.8044108,False,encryption algorithms,7,0.72354686,0.07518074,0.87390834
+https://cso.kmi.open.ac.uk/topics/encryption_methods,1927,1,0.105372176,0.754292,0.7588171,False,encryption methods,7,0.72354686,0.07518074,0.87390834
+https://cso.kmi.open.ac.uk/topics/encryption,1927,2,0.019334618,0.75679976,0.7588,True,encryption,7,0.72354686,0.07518074,0.87390834
+https://cso.kmi.open.ac.uk/topics/encryption_schemes,1927,3,0.122752704,0.7320562,0.7354708,False,encryption schemes,7,0.72354686,0.07518074,0.87390834
+https://cso.kmi.open.ac.uk/topics/encryption_algorithm,1927,4,0.0636038,0.75059956,0.7287091,False,encryption algorithm,7,0.72354686,0.07518074,0.87390834
+https://cso.kmi.open.ac.uk/topics/encryption_and_decryption,1927,5,0.040882915,0.68196815,0.66485614,False,encryption and decryption,7,0.72354686,0.07518074,0.87390834
+https://cso.kmi.open.ac.uk/topics/encryption_key,1927,6,0.06371725,0.6274708,0.62605536,False,encryption key,7,0.72354686,0.07518074,0.87390834
+https://cso.kmi.open.ac.uk/topics/3-d_virtual_environment,1963,0,0.066721864,0.72000146,0.7592399,False,3-d virtual environment,4,0.70475614,0.08458585,0.87392783
+https://cso.kmi.open.ac.uk/topics/virtual_reality_technology,1963,1,0.02562429,0.6019342,0.6132814,False,virtual reality technology,4,0.70475614,0.08458585,0.87392783
+https://cso.kmi.open.ac.uk/topics/virtual_environments,1963,2,0.112544626,0.7537723,0.7592399,True,virtual environments,4,0.70475614,0.08458585,0.87392783
+https://cso.kmi.open.ac.uk/topics/virtual_environment,1963,3,0.13345262,0.7433167,0.7746989,False,virtual environment,4,0.70475614,0.08458585,0.87392783
+https://cso.kmi.open.ac.uk/topics/retrieval_systems,1464,0,0.070642255,0.75678813,0.7770196,False,retrieval systems,6,0.74924546,0.062442895,0.87413126
+https://cso.kmi.open.ac.uk/topics/retrieval_methods,1464,1,0.060111355,0.79566944,0.7882161,False,retrieval methods,6,0.74924546,0.062442895,0.87413126
+https://cso.kmi.open.ac.uk/topics/retrieval_performance,1464,2,0.06626118,0.7236842,0.71140754,True,retrieval performance,6,0.74924546,0.062442895,0.87413126
+https://cso.kmi.open.ac.uk/topics/retrieval_models,1464,3,0.033043314,0.7505097,0.7525929,False,retrieval models,6,0.74924546,0.062442895,0.87413126
+https://cso.kmi.open.ac.uk/topics/retrieval_accuracy,1464,4,0.065629624,0.7343699,0.7322649,False,retrieval accuracy,6,0.74924546,0.062442895,0.87413126
+https://cso.kmi.open.ac.uk/topics/retrieval_process,1464,5,0.07896964,0.7344516,0.7147825,False,retrieval process,6,0.74924546,0.062442895,0.87413126
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_11,2170,0,0.015811449,0.83975905,0.84078574,False,chromosome translocation 11,5,0.83350444,0.027586745,0.88867795
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_4,2170,1,0.02311806,0.8646105,0.87175035,False,chromosome translocation 4,5,0.83350444,0.027586745,0.88867795
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_19,2170,2,0.022769965,0.8099166,0.8152595,False,chromosome translocation 19,5,0.83350444,0.027586745,0.88867795
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation,2170,3,0.040957365,0.8198632,0.8084974,True,chromosome translocation,5,0.83350444,0.027586745,0.88867795
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_14,2170,4,0.035276882,0.8333727,0.82523,False,chromosome translocation 14,5,0.83350444,0.027586745,0.88867795
+https://cso.kmi.open.ac.uk/topics/semantic_relations,186,0,0.14452016,0.6875356,0.66232026,False,semantic relations,7,0.68454313,0.10267839,0.8898999
+https://cso.kmi.open.ac.uk/topics/semantic_information,186,1,0.035097726,0.71194893,0.6979455,True,semantic information,7,0.68454313,0.10267839,0.8898999
+https://cso.kmi.open.ac.uk/topics/semantic_annotation,186,2,0.14197381,0.6845143,0.64509207,False,semantic annotation,7,0.68454313,0.10267839,0.8898999
+https://cso.kmi.open.ac.uk/topics/semantic_analysis,186,3,0.055972558,0.66169167,0.65368795,False,semantic analysis,7,0.68454313,0.10267839,0.8898999
+https://cso.kmi.open.ac.uk/topics/semantic_relationships,186,4,0.13599437,0.7062045,0.69192183,False,semantic relationships,7,0.68454313,0.10267839,0.8898999
+https://cso.kmi.open.ac.uk/topics/semantic_features,186,5,0.0567734,0.66629905,0.66085076,False,semantic features,7,0.68454313,0.10267839,0.8898999
+https://cso.kmi.open.ac.uk/topics/semantic_annotations,186,6,0.1484167,0.6736078,0.63562965,False,semantic annotations,7,0.68454313,0.10267839,0.8898999
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_17,2173,0,0.013626788,0.84574586,0.84258235,False,chromosome translocation 17,5,0.8598105,0.017438555,0.8946876
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_15,2173,1,0.013702827,0.873042,0.87157196,True,chromosome translocation 15,5,0.8598105,0.017438555,0.8946876
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_3,2173,2,0.017205425,0.8623658,0.8563528,False,chromosome translocation 3,5,0.8598105,0.017438555,0.8946876
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_5,2173,3,0.02570945,0.8665643,0.8666792,False,chromosome translocation 5,5,0.8598105,0.017438555,0.8946876
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_12,2173,4,0.016948288,0.85133433,0.8495984,False,chromosome translocation 12,5,0.8598105,0.017438555,0.8946876
+https://cso.kmi.open.ac.uk/topics/segmentation_algorithms,1413,0,0.09268789,0.7882711,0.7786807,False,segmentation algorithms,7,0.7640563,0.06844929,0.9009549
+https://cso.kmi.open.ac.uk/topics/segmentation_process,1413,1,0.053288516,0.7829735,0.8004741,False,segmentation process,7,0.7640563,0.06844929,0.9009549
+https://cso.kmi.open.ac.uk/topics/segmentation_accuracy,1413,2,0.03593131,0.6900048,0.67900896,False,segmentation accuracy,7,0.7640563,0.06844929,0.9009549
+https://cso.kmi.open.ac.uk/topics/segmented_images,1413,3,0.03564305,0.7285325,0.74060094,False,segmented images,7,0.7640563,0.06844929,0.9009549
+https://cso.kmi.open.ac.uk/topics/segmentation_techniques,1413,4,0.10891331,0.80567116,0.7840291,False,segmentation techniques,7,0.7640563,0.06844929,0.9009549
+https://cso.kmi.open.ac.uk/topics/segmentation_results,1413,5,0.04751263,0.7369469,0.7368726,False,segmentation results,7,0.7640563,0.06844929,0.9009549
+https://cso.kmi.open.ac.uk/topics/segmentation_methods,1413,6,0.105168305,0.81599426,0.7969105,True,segmentation methods,7,0.7640563,0.06844929,0.9009549
+https://cso.kmi.open.ac.uk/topics/internet_of_things_%28iot%29,557,0,0.08514935,0.83171004,0.7867028,False,internet of things (iot),4,0.79990166,0.052690774,0.9052832
+https://cso.kmi.open.ac.uk/topics/iot,557,1,0.012784483,0.7505184,0.7574853,False,iot,4,0.79990166,0.052690774,0.9052832
+https://cso.kmi.open.ac.uk/topics/internet_of_things,557,2,0.032500558,0.77649975,0.7867028,True,internet of things,4,0.79990166,0.052690774,0.9052832
+https://cso.kmi.open.ac.uk/topics/internet_of_thing_%28iot%29,557,3,0.08032871,0.8408785,0.8102099,False,internet of thing (iot),4,0.79990166,0.052690774,0.9052832
+https://cso.kmi.open.ac.uk/topics/program_debugging,1098,0,0.059702404,0.8350627,0.8582728,True,program debugging,4,0.83069205,0.038754374,0.9082008
+https://cso.kmi.open.ac.uk/topics/debugging,1098,1,0.01191328,0.8527892,0.8582728,False,debugging,4,0.83069205,0.038754374,0.9082008
+https://cso.kmi.open.ac.uk/topics/testing_and_debugging,1098,2,0.034735505,0.78942496,0.77886933,False,testing and debugging,4,0.83069205,0.038754374,0.9082008
+https://cso.kmi.open.ac.uk/topics/software_debugging,1098,3,0.048666313,0.84549123,0.8638437,False,software debugging,4,0.83069205,0.038754374,0.9082008
+https://cso.kmi.open.ac.uk/topics/e-commerce,40,0,0.07777766,0.81784916,0.86629695,True,e-commerce,4,0.78596395,0.06138562,0.9087352
+https://cso.kmi.open.ac.uk/topics/electronic_commerce,40,1,0.08790605,0.7939923,0.8298567,False,electronic commerce,4,0.78596395,0.06138562,0.9087352
+https://cso.kmi.open.ac.uk/topics/e-commerce_systems,40,2,0.03548983,0.71349496,0.7081053,False,e-commerce systems,4,0.78596395,0.06138562,0.9087352
+https://cso.kmi.open.ac.uk/topics/e_commerces,40,3,0.04436894,0.81851935,0.8298567,False,e commerces,4,0.78596395,0.06138562,0.9087352
+https://cso.kmi.open.ac.uk/topics/authentication_protocol,1933,0,0.10130803,0.77359444,0.7818961,False,authentication protocol,7,0.78138906,0.063819155,0.90902734
+https://cso.kmi.open.ac.uk/topics/authentication_scheme,1933,1,0.046247084,0.7964838,0.7968272,False,authentication scheme,7,0.78138906,0.063819155,0.90902734
+https://cso.kmi.open.ac.uk/topics/authentication_methods,1933,2,0.0528212,0.8217017,0.80954766,False,authentication methods,7,0.78138906,0.063819155,0.90902734
+https://cso.kmi.open.ac.uk/topics/authentication_mechanisms,1933,3,0.059111495,0.82376593,0.8227421,False,authentication mechanisms,7,0.78138906,0.063819155,0.90902734
+https://cso.kmi.open.ac.uk/topics/user_authentication,1933,4,0.04022957,0.7246952,0.7288584,False,user authentication,7,0.78138906,0.063819155,0.90902734
+https://cso.kmi.open.ac.uk/topics/authentication_protocols,1933,5,0.091654345,0.7986338,0.80296457,True,authentication protocols,7,0.78138906,0.063819155,0.90902734
+https://cso.kmi.open.ac.uk/topics/authentication_systems,1933,6,0.055362385,0.7308484,0.7231968,False,authentication systems,7,0.78138906,0.063819155,0.90902734
+https://cso.kmi.open.ac.uk/topics/snp,2183,0,0.07468473,0.32648543,0.32315898,False,snp,5,0.5610647,0.17444459,0.9099539
+https://cso.kmi.open.ac.uk/topics/single_nucleotide_polymorphism,2183,1,0.19760711,0.65015835,0.6168871,True,single nucleotide polymorphism,5,0.5610647,0.17444459,0.9099539
+https://cso.kmi.open.ac.uk/topics/polymorphism,2183,2,0.18602043,0.52870274,0.5686086,False,polymorphism,5,0.5610647,0.17444459,0.9099539
+https://cso.kmi.open.ac.uk/topics/polymorphism%2C_single_nucleotide,2183,3,0.21084923,0.6749609,0.6930511,False,"polymorphism, single nucleotide",5,0.5610647,0.17444459,0.9099539
+https://cso.kmi.open.ac.uk/topics/polymorphism%2C_genetic,2183,4,0.2030614,0.6250162,0.7256378,False,"polymorphism, genetic",5,0.5610647,0.17444459,0.9099539
+https://cso.kmi.open.ac.uk/topics/software_processes,1096,0,0.16049182,0.68010014,0.607672,False,software processes,5,0.67971104,0.11832712,0.91636527
+https://cso.kmi.open.ac.uk/topics/software_products,1096,1,0.045337815,0.60209304,0.59333694,False,software products,5,0.67971104,0.11832712,0.91636527
+https://cso.kmi.open.ac.uk/topics/software_project,1096,2,0.123821214,0.69856286,0.64613605,True,software project,5,0.67971104,0.11832712,0.91636527
+https://cso.kmi.open.ac.uk/topics/software_projects,1096,3,0.11639589,0.70677066,0.65130746,False,software projects,5,0.67971104,0.11832712,0.91636527
+https://cso.kmi.open.ac.uk/topics/software_process,1096,4,0.14558885,0.7110285,0.656542,False,software process,5,0.67971104,0.11832712,0.91636527
+https://cso.kmi.open.ac.uk/topics/k-means_clustering,1486,0,0.012572005,0.8700332,0.8650864,False,k-means clustering,4,0.8734455,0.021734422,0.91691434
+https://cso.kmi.open.ac.uk/topics/k-means,1486,1,0.027464341,0.8610094,0.8650864,False,k-means,4,0.8734455,0.021734422,0.91691434
+https://cso.kmi.open.ac.uk/topics/k-means_algorithms,1486,2,0.010937235,0.8974499,0.8924219,False,k-means algorithms,4,0.8734455,0.021734422,0.91691434
+https://cso.kmi.open.ac.uk/topics/k-means_algorithm,1486,3,0.035964105,0.8652895,0.85771704,True,k-means algorithm,4,0.8734455,0.021734422,0.91691434
+https://cso.kmi.open.ac.uk/topics/computational_time,2203,0,0.05949674,0.7652358,0.7412563,False,computational time,5,0.7479502,0.084637016,0.9172242
+https://cso.kmi.open.ac.uk/topics/computational_costs,2203,1,0.050741702,0.6638341,0.67331433,False,computational costs,5,0.7479502,0.084637016,0.9172242
+https://cso.kmi.open.ac.uk/topics/computation_efficiency,2203,2,0.117226236,0.7757299,0.75546545,False,computation efficiency,5,0.7479502,0.084637016,0.9172242
+https://cso.kmi.open.ac.uk/topics/computation_time,2203,3,0.09819701,0.7450032,0.76027095,False,computation time,5,0.7479502,0.084637016,0.9172242
+https://cso.kmi.open.ac.uk/topics/computational_efficiency,2203,4,0.09752338,0.78994787,0.7460618,True,computational efficiency,5,0.7479502,0.084637016,0.9172242
+https://cso.kmi.open.ac.uk/topics/data_mining_algorithm,868,0,0.0659644,0.7816788,0.80742705,False,data mining algorithm,6,0.76479405,0.07650171,0.91779745
+https://cso.kmi.open.ac.uk/topics/data_mining_applications,868,1,0.07105631,0.75179416,0.7787798,False,data mining applications,6,0.76479405,0.07650171,0.91779745
+https://cso.kmi.open.ac.uk/topics/data_mining_technology,868,2,0.07792962,0.8052455,0.8396184,False,data mining technology,6,0.76479405,0.07650171,0.91779745
+https://cso.kmi.open.ac.uk/topics/mining_algorithms,868,3,0.019869648,0.63724816,0.63127255,False,mining algorithms,6,0.76479405,0.07650171,0.91779745
+https://cso.kmi.open.ac.uk/topics/data_mining_techniques,868,4,0.11472558,0.80672014,0.8185749,True,data mining techniques,6,0.76479405,0.07650171,0.91779745
+https://cso.kmi.open.ac.uk/topics/data_mining_methods,868,5,0.10946472,0.8060775,0.80742705,False,data mining methods,6,0.76479405,0.07650171,0.91779745
+https://cso.kmi.open.ac.uk/topics/multicast_protocol,523,0,0.09731136,0.7945929,0.7755289,False,multicast protocol,7,0.7547731,0.08236462,0.9195023
+https://cso.kmi.open.ac.uk/topics/multicast_transmissions,523,1,0.07174677,0.7631158,0.7609967,False,multicast transmissions,7,0.7547731,0.08236462,0.9195023
+https://cso.kmi.open.ac.uk/topics/multicast_protocols,523,2,0.10362515,0.7843857,0.7749053,False,multicast protocols,7,0.7547731,0.08236462,0.9195023
+https://cso.kmi.open.ac.uk/topics/multicast_groups,523,3,0.02994282,0.70784825,0.7163305,False,multicast groups,7,0.7547731,0.08236462,0.9195023
+https://cso.kmi.open.ac.uk/topics/multicast_services,523,4,0.05963063,0.7691582,0.77936804,False,multicast services,7,0.7547731,0.08236462,0.9195023
+https://cso.kmi.open.ac.uk/topics/multicast_trees,523,5,0.1085649,0.72859997,0.68304,False,multicast trees,7,0.7547731,0.08236462,0.9195023
+https://cso.kmi.open.ac.uk/topics/multicast_tree,523,6,0.10573073,0.7357107,0.6926826,True,multicast tree,7,0.7547731,0.08236462,0.9195023
+https://cso.kmi.open.ac.uk/topics/xml_databases,886,0,0.103785165,0.8234218,0.772269,False,xml databases,4,0.7944498,0.06263425,0.9197183
+https://cso.kmi.open.ac.uk/topics/xml_documents,886,1,0.014516107,0.7339833,0.7298571,False,xml documents,4,0.7944498,0.06263425,0.9197183
+https://cso.kmi.open.ac.uk/topics/xml_database,886,2,0.102256246,0.8370369,0.8243407,False,xml database,4,0.7944498,0.06263425,0.9197183
+https://cso.kmi.open.ac.uk/topics/xml_data,886,3,0.029979493,0.7833573,0.772269,True,xml data,4,0.7944498,0.06263425,0.9197183
+https://cso.kmi.open.ac.uk/topics/commonsense_reasoning,39,0,0.10205924,0.7119167,0.72303325,False,commonsense reasoning,7,0.7314442,0.09458713,0.9206184
+https://cso.kmi.open.ac.uk/topics/common-sense_computing,39,1,0.08942848,0.65217346,0.6588057,False,common-sense computing,7,0.7314442,0.09458713,0.9206184
+https://cso.kmi.open.ac.uk/topics/common-sense_reasoning,39,2,0.05165667,0.79534215,0.7883048,False,common-sense reasoning,7,0.7314442,0.09458713,0.9206184
+https://cso.kmi.open.ac.uk/topics/commonsense,39,3,0.09326514,0.7526544,0.78368413,False,commonsense,7,0.7314442,0.09458713,0.9206184
+https://cso.kmi.open.ac.uk/topics/common-sense,39,4,0.12056282,0.7639821,0.7449437,True,common-sense,7,0.7314442,0.09458713,0.9206184
+https://cso.kmi.open.ac.uk/topics/commonsense_computing,39,5,0.074563056,0.69452304,0.7318666,False,commonsense computing,7,0.7314442,0.09458713,0.9206184
+https://cso.kmi.open.ac.uk/topics/common_sense,39,6,0.13057451,0.74951726,0.7492768,False,common sense,7,0.7314442,0.09458713,0.9206184
+https://cso.kmi.open.ac.uk/topics/quality_of_experiences,1842,0,0.2427207,0.63209,0.5984986,False,quality of experiences,5,0.6152274,0.15277141,0.9207702
+https://cso.kmi.open.ac.uk/topics/quality_of_experience,1842,1,0.22514847,0.6664656,0.641726,False,quality of experience,5,0.6152274,0.15277141,0.9207702
+https://cso.kmi.open.ac.uk/topics/qoe,1842,2,0.13678078,0.52863145,0.50261027,False,qoe,5,0.6152274,0.15277141,0.9207702
+https://cso.kmi.open.ac.uk/topics/quality_of_experience_%28qoe%29,1842,3,0.081235275,0.7343199,0.75578964,False,quality of experience (qoe),5,0.6152274,0.15277141,0.9207702
+https://cso.kmi.open.ac.uk/topics/qos,1842,4,0.07797186,0.5146302,0.51893055,True,qos,5,0.6152274,0.15277141,0.9207702
+https://cso.kmi.open.ac.uk/topics/stochastic_systems,2052,0,0.063021556,0.82604444,0.8077822,False,stochastic systems,5,0.80064756,0.06059917,0.9218459
+https://cso.kmi.open.ac.uk/topics/stochastic_model,2052,1,0.03957793,0.8095678,0.79684037,False,stochastic model,5,0.80064756,0.06059917,0.9218459
+https://cso.kmi.open.ac.uk/topics/stochastic_models,2052,2,0.07907408,0.76762474,0.7716452,False,stochastic models,5,0.80064756,0.06059917,0.9218459
+https://cso.kmi.open.ac.uk/topics/stochastic_system,2052,3,0.095318384,0.7945233,0.8028264,False,stochastic system,5,0.80064756,0.06059917,0.9218459
+https://cso.kmi.open.ac.uk/topics/stochastic_processes,2052,4,0.026003914,0.8054774,0.80028075,True,stochastic processes,5,0.80064756,0.06059917,0.9218459
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_21-22_and_y,2174,0,0.044661075,0.796235,0.78421867,False,"chromosomes, human, 21-22 and y",7,0.82998127,0.04631126,0.9226038
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_1-3,2174,1,0.047531255,0.83830076,0.8455574,False,"chromosomes, human, 1-3",7,0.82998127,0.04631126,0.9226038
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_4-5,2174,2,0.047653634,0.83141327,0.84491396,False,"chromosomes, human, 4-5",7,0.82998127,0.04631126,0.9226038
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_6-12_and_x,2174,3,0.027303755,0.77257305,0.7854735,True,"chromosomes, human, 6-12 and x",7,0.82998127,0.04631126,0.9226038
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_16-18,2174,4,0.044242177,0.872534,0.8613919,False,"chromosomes, human, 16-18",7,0.82998127,0.04631126,0.9226038
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_19-20,2174,5,0.060830075,0.8430398,0.848524,False,"chromosomes, human, 19-20",7,0.82998127,0.04631126,0.9226038
+https://cso.kmi.open.ac.uk/topics/chromosomes%2C_human%2C_13-15,2174,6,0.051956832,0.85577303,0.8672663,False,"chromosomes, human, 13-15",7,0.82998127,0.04631126,0.9226038
+https://cso.kmi.open.ac.uk/topics/clustering_analysis,1414,0,0.027254274,0.78624105,0.7758889,False,clustering analysis,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/clustering_approach,1414,1,0.07221629,0.82695735,0.8512087,False,clustering approach,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/clustering_process,1414,2,0.040631898,0.8179983,0.82196176,False,clustering process,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/clustering_results,1414,3,0.038207613,0.73812824,0.7195121,False,clustering results,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/clustering_methods,1414,4,0.10088598,0.8172446,0.8233865,True,clustering methods,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/clustering_problems,1414,5,0.034939997,0.7329332,0.73425674,False,clustering problems,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/clustering_method,1414,6,0.089644074,0.83698446,0.8829474,False,clustering method,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/clustering_techniques,1414,7,0.0979502,0.8216993,0.82196176,False,clustering techniques,8,0.79727334,0.06271629,0.9227059
+https://cso.kmi.open.ac.uk/topics/bayesian_networks,29,0,0.08331193,0.7073214,0.68556297,False,bayesian networks,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_frameworks,29,1,0.08845281,0.7058463,0.6876409,False,bayesian frameworks,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_model,29,2,0.06780607,0.7753962,0.78754264,False,bayesian model,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_framework,29,3,0.060207307,0.7882725,0.7966747,False,bayesian framework,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_models,29,4,0.054329794,0.79603714,0.79534626,False,bayesian models,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_approach,29,5,0.11188806,0.7821193,0.811593,False,bayesian approach,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_methods,29,6,0.08182552,0.8192078,0.8357362,True,bayesian methods,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian,29,7,0.06743343,0.7668578,0.7808002,False,bayesian,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_method,29,8,0.106488675,0.7753592,0.7997276,False,bayesian method,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_approaches,29,9,0.08997904,0.7791654,0.79193836,False,bayesian approaches,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/bayesian_network,29,10,0.08605852,0.68593913,0.66944224,False,bayesian network,11,0.7619566,0.08161647,0.9251895
+https://cso.kmi.open.ac.uk/topics/smartphone,1003,0,0.03155058,0.8232344,0.8121073,False,smartphone,4,0.8351358,0.046252377,0.92764056
+https://cso.kmi.open.ac.uk/topics/smartphones,1003,1,0.05448492,0.82360536,0.8121073,False,smartphones,4,0.8351358,0.046252377,0.92764056
+https://cso.kmi.open.ac.uk/topics/smart_phones,1003,2,0.0462609,0.85637265,0.88240314,True,smart phones,4,0.8351358,0.046252377,0.92764056
+https://cso.kmi.open.ac.uk/topics/smart_phone,1003,3,0.05271312,0.837331,0.86621857,False,smart phone,4,0.8351358,0.046252377,0.92764056
+https://cso.kmi.open.ac.uk/topics/back_propagation_neural_networks,645,0,0.115776464,0.757802,0.71470976,False,back propagation neural networks,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/back-propagation_neural_networks,645,1,0.120529875,0.7502341,0.7112504,False,back-propagation neural networks,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/back-propagation_neural_network,645,2,0.112570584,0.7221618,0.7035134,False,back-propagation neural network,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/neural_networks,645,3,0.09793467,0.72789055,0.7154424,True,neural networks,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/artificial_neural_networks,645,4,0.09814676,0.74945515,0.7167069,False,artificial neural networks,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/artificial_neural_network,645,5,0.08863167,0.7431312,0.7154424,False,artificial neural network,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/neural_network_model,645,6,0.065136366,0.687252,0.65209943,False,neural network model,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/neural_network,645,7,0.06713708,0.78010756,0.8028446,False,neural network,8,0.7397543,0.095732935,0.9312202
+https://cso.kmi.open.ac.uk/topics/robotic_manipulators,326,0,0.07739491,0.8028591,0.80550855,True,robotic manipulators,4,0.76439005,0.08367422,0.9317385
+https://cso.kmi.open.ac.uk/topics/manipulators,326,1,0.091317065,0.75285023,0.80550855,False,manipulators,4,0.76439005,0.08367422,0.9317385
+https://cso.kmi.open.ac.uk/topics/manipulator,326,2,0.053720884,0.7533784,0.7247207,False,manipulator,4,0.76439005,0.08367422,0.9317385
+https://cso.kmi.open.ac.uk/topics/robotic_manipulator,326,3,0.112264015,0.74847245,0.7247207,False,robotic manipulator,4,0.76439005,0.08367422,0.9317385
+https://cso.kmi.open.ac.uk/topics/watermark_embedding,1576,0,0.011721533,0.80583614,0.8087495,False,watermark embedding,7,0.83546764,0.048196062,0.93185973
+https://cso.kmi.open.ac.uk/topics/watermarking_schemes,1576,1,0.08046896,0.85196155,0.8299288,False,watermarking schemes,7,0.83546764,0.048196062,0.93185973
+https://cso.kmi.open.ac.uk/topics/watermark_extraction,1576,2,0.052774,0.8038669,0.7873287,False,watermark extraction,7,0.83546764,0.048196062,0.93185973
+https://cso.kmi.open.ac.uk/topics/watermarking_algorithms,1576,3,0.061377086,0.86020356,0.84031904,True,watermarking algorithms,7,0.83546764,0.048196062,0.93185973
+https://cso.kmi.open.ac.uk/topics/watermarking_techniques,1576,4,0.0685775,0.8606805,0.83083975,False,watermarking techniques,7,0.83546764,0.048196062,0.93185973
+https://cso.kmi.open.ac.uk/topics/watermark_detection,1576,5,0.04164063,0.83198136,0.82248074,False,watermark detection,7,0.83546764,0.048196062,0.93185973
+https://cso.kmi.open.ac.uk/topics/watermarked_images,1576,6,0.020812739,0.8337436,0.84252656,False,watermarked images,7,0.83546764,0.048196062,0.93185973
+https://cso.kmi.open.ac.uk/topics/visualization_system,1658,0,0.029889349,0.75586826,0.7625365,False,visualization system,7,0.7675822,0.082428634,0.93243945
+https://cso.kmi.open.ac.uk/topics/visualization_method,1658,1,0.10657981,0.7998906,0.753219,False,visualization method,7,0.7675822,0.082428634,0.93243945
+https://cso.kmi.open.ac.uk/topics/visualization_technique,1658,2,0.11285242,0.7885334,0.7398583,False,visualization technique,7,0.7675822,0.082428634,0.93243945
+https://cso.kmi.open.ac.uk/topics/visualization_tools,1658,3,0.0443564,0.7160966,0.7060715,True,visualization tools,7,0.7675822,0.082428634,0.93243945
+https://cso.kmi.open.ac.uk/topics/visualization_techniques,1658,4,0.09640998,0.7778001,0.72030795,False,visualization techniques,7,0.7675822,0.082428634,0.93243945
+https://cso.kmi.open.ac.uk/topics/interactive_visualization,1658,5,0.09459362,0.7666826,0.73820364,False,interactive visualization,7,0.7675822,0.082428634,0.93243945
+https://cso.kmi.open.ac.uk/topics/interactive_visualizations,1658,6,0.092318855,0.7682037,0.7264949,False,interactive visualizations,7,0.7675822,0.082428634,0.93243945
+https://cso.kmi.open.ac.uk/topics/wlan,1889,0,0.058419865,0.7501341,0.7786795,False,wlan,6,0.809346,0.061612997,0.932572
+https://cso.kmi.open.ac.uk/topics/wireless_local_area_networks_%28wlan%29,1889,1,0.06194538,0.8575262,0.8405368,True,wireless local area networks (wlan),6,0.809346,0.061612997,0.932572
+https://cso.kmi.open.ac.uk/topics/wireless_local_area_networks,1889,2,0.06611774,0.77923346,0.7907491,False,wireless local area networks,6,0.809346,0.061612997,0.932572
+https://cso.kmi.open.ac.uk/topics/wireless_lans,1889,3,0.06663484,0.81470555,0.82203746,False,wireless lans,6,0.809346,0.061612997,0.932572
+https://cso.kmi.open.ac.uk/topics/wireless_local_area_network_%28wlan%29,1889,4,0.067653924,0.8407707,0.81259423,False,wireless local area network (wlan),6,0.809346,0.061612997,0.932572
+https://cso.kmi.open.ac.uk/topics/wireless_lan,1889,5,0.048906233,0.8137062,0.8080883,False,wireless lan,6,0.809346,0.061612997,0.932572
+https://cso.kmi.open.ac.uk/topics/svm,22,0,0.0066136867,0.8493944,0.8526267,True,svm,4,0.8822397,0.025659274,0.9335582
+https://cso.kmi.open.ac.uk/topics/svm_classification,22,1,0.03703175,0.88984996,0.90031636,False,svm classification,4,0.8822397,0.025659274,0.9335582
+https://cso.kmi.open.ac.uk/topics/svm_classifier,22,2,0.03208054,0.90010595,0.9158823,False,svm classifier,4,0.8822397,0.025659274,0.9335582
+https://cso.kmi.open.ac.uk/topics/svm_classifiers,22,3,0.026911119,0.88960844,0.90031636,False,svm classifiers,4,0.8822397,0.025659274,0.9335582
+https://cso.kmi.open.ac.uk/topics/access_control_models,1898,0,0.04438325,0.7620597,0.75076765,False,access control models,4,0.81051785,0.06389463,0.9383071
+https://cso.kmi.open.ac.uk/topics/access_control_policy,1898,1,0.10741197,0.829361,0.8011024,False,access control policy,4,0.81051785,0.06389463,0.9383071
+https://cso.kmi.open.ac.uk/topics/access_control_policies,1898,2,0.09474988,0.8421977,0.80307937,True,access control policies,4,0.81051785,0.06389463,0.9383071
+https://cso.kmi.open.ac.uk/topics/access_control_mechanism,1898,3,0.009033412,0.8084529,0.80307937,False,access control mechanism,4,0.81051785,0.06389463,0.9383071
+https://cso.kmi.open.ac.uk/topics/voice_over_ip,1838,0,0.13600068,0.79308724,0.84513474,False,voice over ip,4,0.75161433,0.093546376,0.9387071
+https://cso.kmi.open.ac.uk/topics/voice_over_internet_protocol,1838,1,0.10298239,0.7586708,0.816933,False,voice over internet protocol,4,0.75161433,0.093546376,0.9387071
+https://cso.kmi.open.ac.uk/topics/voip,1838,2,0.042161245,0.64006776,0.61394477,True,voip,4,0.75161433,0.093546376,0.9387071
+https://cso.kmi.open.ac.uk/topics/voice_over_ip_%28voip%29,1838,3,0.09304118,0.8146314,0.816933,False,voice over ip (voip),4,0.75161433,0.093546376,0.9387071
+https://cso.kmi.open.ac.uk/topics/gaussian_processes,1878,0,0.034756415,0.8991373,0.9077816,True,gaussian processes,4,0.8700665,0.034795545,0.9396576
+https://cso.kmi.open.ac.uk/topics/gaussian_process_regression,1878,1,0.017755587,0.85070163,0.85291094,False,gaussian process regression,4,0.8700665,0.034795545,0.9396576
+https://cso.kmi.open.ac.uk/topics/gaussian_process_models,1878,2,0.034385078,0.8676111,0.8712587,False,gaussian process models,4,0.8700665,0.034795545,0.9396576
+https://cso.kmi.open.ac.uk/topics/gaussian_process,1878,3,0.052285105,0.8628159,0.8279352,False,gaussian process,4,0.8700665,0.034795545,0.9396576
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_22,2171,0,0.035671145,0.86812806,0.85930824,False,chromosome translocation 22,7,0.87415034,0.033176754,0.94050384
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_2,2171,1,0.037350923,0.896113,0.8913597,False,chromosome translocation 2,7,0.87415034,0.033176754,0.94050384
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_21,2171,2,0.040970735,0.85570973,0.85025156,False,chromosome translocation 21,7,0.87415034,0.033176754,0.94050384
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_9,2171,3,0.028298594,0.8539214,0.86338073,False,chromosome translocation 9,7,0.87415034,0.033176754,0.94050384
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_1,2171,4,0.039100822,0.89054704,0.87857985,False,chromosome translocation 1,7,0.87415034,0.033176754,0.94050384
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_8,2171,5,0.022351982,0.88116914,0.8917128,True,chromosome translocation 8,7,0.87415034,0.033176754,0.94050384
+https://cso.kmi.open.ac.uk/topics/chromosome_translocation_6,2171,6,0.028493086,0.87346405,0.8844346,False,chromosome translocation 6,7,0.87415034,0.033176754,0.94050384
+https://cso.kmi.open.ac.uk/topics/relational_data,842,0,0.040185343,0.8136869,0.8343572,False,relational data,4,0.84824514,0.04616714,0.9405794
+https://cso.kmi.open.ac.uk/topics/relational_data_models,842,1,0.055006314,0.8723771,0.8343572,True,relational data models,4,0.84824514,0.04616714,0.9405794
+https://cso.kmi.open.ac.uk/topics/relational_data_model,842,2,0.04423222,0.8883316,0.865636,False,relational data model,4,0.84824514,0.04616714,0.9405794
+https://cso.kmi.open.ac.uk/topics/relational_model,842,3,0.045244675,0.8185849,0.8326129,False,relational model,4,0.84824514,0.04616714,0.9405794
+https://cso.kmi.open.ac.uk/topics/recurrent_neural_network_%28rnn%29,653,0,0.059511658,0.83165675,0.7949907,False,recurrent neural network (rnn),4,0.7930074,0.074297436,0.94160223
+https://cso.kmi.open.ac.uk/topics/rnn,653,1,0.062337916,0.72528714,0.73718005,False,rnn,4,0.7930074,0.074297436,0.94160223
+https://cso.kmi.open.ac.uk/topics/recurrent_neural_network,653,2,0.07744465,0.8449932,0.8822035,False,recurrent neural network,4,0.7930074,0.074297436,0.94160223
+https://cso.kmi.open.ac.uk/topics/recurrent_neural_networks,653,3,0.09789552,0.77009255,0.7843838,True,recurrent neural networks,4,0.7930074,0.074297436,0.94160223
+https://cso.kmi.open.ac.uk/topics/regression_modeling,2198,0,0.055493727,0.87108755,0.8796872,False,regression modeling,4,0.83663744,0.053589635,0.9438167
+https://cso.kmi.open.ac.uk/topics/regression_models,2198,1,0.07044969,0.8235924,0.8668526,False,regression models,4,0.83663744,0.053589635,0.9438167
+https://cso.kmi.open.ac.uk/topics/regression_method,2198,2,0.039737396,0.7796469,0.7992313,False,regression method,4,0.83663744,0.053589635,0.9438167
+https://cso.kmi.open.ac.uk/topics/regression_model,2198,3,0.048677724,0.87222284,0.8668526,True,regression model,4,0.83663744,0.053589635,0.9438167
+https://cso.kmi.open.ac.uk/topics/homozygosity,2184,0,0.06972622,0.76861715,0.7505069,False,homozygosity,4,0.7753191,0.08542162,0.94616234
+https://cso.kmi.open.ac.uk/topics/homozygote,2184,1,0.10123128,0.76770896,0.7505069,False,homozygote,4,0.7753191,0.08542162,0.94616234
+https://cso.kmi.open.ac.uk/topics/heterozygote,2184,2,0.08397573,0.79552174,0.79344285,True,heterozygote,4,0.7753191,0.08542162,0.94616234
+https://cso.kmi.open.ac.uk/topics/heterozygosity,2184,3,0.086753264,0.76942843,0.79344285,False,heterozygosity,4,0.7753191,0.08542162,0.94616234
+https://cso.kmi.open.ac.uk/topics/online_social_networks_%28osns%29,1057,0,0.014606079,0.81379575,0.8191978,False,online social networks (osns),4,0.8643309,0.041465927,0.94726276
+https://cso.kmi.open.ac.uk/topics/online_social_network,1057,1,0.052078445,0.8854912,0.8908506,False,online social network,4,0.8643309,0.041465927,0.94726276
+https://cso.kmi.open.ac.uk/topics/online_social_networks,1057,2,0.049106583,0.8940361,0.9073222,True,online social networks,4,0.8643309,0.041465927,0.94726276
+https://cso.kmi.open.ac.uk/topics/on-line_social_networks,1057,3,0.050072595,0.8640005,0.8908506,False,on-line social networks,4,0.8643309,0.041465927,0.94726276
+https://cso.kmi.open.ac.uk/topics/smart_transportation_systems,2211,0,0.052186858,0.83646715,0.8374871,False,smart transportation systems,6,0.86053336,0.04349789,0.94752914
+https://cso.kmi.open.ac.uk/topics/smart_transportation_solutions,2211,1,0.03609759,0.8706875,0.8588125,False,smart transportation solutions,6,0.86053336,0.04349789,0.94752914
+https://cso.kmi.open.ac.uk/topics/smart_transportation,2211,2,0.031619377,0.8726915,0.8637345,False,smart transportation,6,0.86053336,0.04349789,0.94752914
+https://cso.kmi.open.ac.uk/topics/smart_transportation_system,2211,3,0.039752193,0.87048566,0.85592765,False,smart transportation system,6,0.86053336,0.04349789,0.94752914
+https://cso.kmi.open.ac.uk/topics/smart_transportation_solution,2211,4,0.045370586,0.8754304,0.8637345,False,smart transportation solution,6,0.86053336,0.04349789,0.94752914
+https://cso.kmi.open.ac.uk/topics/smart_transport,2211,5,0.05596074,0.83743775,0.8305208,True,smart transport,6,0.86053336,0.04349789,0.94752914
+https://cso.kmi.open.ac.uk/topics/haptic_interface,296,0,0.05182003,0.8523178,0.831136,False,haptic interface,7,0.86057067,0.043659277,0.9478892
+https://cso.kmi.open.ac.uk/topics/haptic_systems,296,1,0.030914968,0.8682072,0.8628576,True,haptic systems,7,0.86057067,0.043659277,0.9478892
+https://cso.kmi.open.ac.uk/topics/haptic_interfaces,296,2,0.049336296,0.86303306,0.85276794,False,haptic interfaces,7,0.86057067,0.043659277,0.9478892
+https://cso.kmi.open.ac.uk/topics/haptic_device,296,3,0.047869604,0.85138434,0.8375623,False,haptic device,7,0.86057067,0.043659277,0.9478892
+https://cso.kmi.open.ac.uk/topics/haptics,296,4,0.03563307,0.8756725,0.8724203,False,haptics,7,0.86057067,0.043659277,0.9478892
+https://cso.kmi.open.ac.uk/topics/haptic,296,5,0.040431786,0.84449846,0.83782864,False,haptic,7,0.86057067,0.043659277,0.9478892
+https://cso.kmi.open.ac.uk/topics/haptic_devices,296,6,0.0496092,0.86888146,0.86673695,False,haptic devices,7,0.86057067,0.043659277,0.9478892
+https://cso.kmi.open.ac.uk/topics/eigen-value,2137,0,0.05617644,0.8633239,0.88462025,False,eigen-value,4,0.8652884,0.04155146,0.9483913
+https://cso.kmi.open.ac.uk/topics/eigen_values,2137,1,0.03413718,0.8723652,0.8600109,False,eigen values,4,0.8652884,0.04155146,0.9483913
+https://cso.kmi.open.ac.uk/topics/eigenvalues,2137,2,0.048378985,0.8500085,0.8600109,True,eigenvalues,4,0.8652884,0.04155146,0.9483913
+https://cso.kmi.open.ac.uk/topics/eigenvalue,2137,3,0.027513236,0.87545604,0.88462025,False,eigenvalue,4,0.8652884,0.04155146,0.9483913
+https://cso.kmi.open.ac.uk/topics/back_propagation_algorithm,651,0,0.038585868,0.834906,0.8401894,False,back propagation algorithm,6,0.85775346,0.045561932,0.94887733
+https://cso.kmi.open.ac.uk/topics/backpropagation_algorithms,651,1,0.035271678,0.8586992,0.8559133,False,backpropagation algorithms,6,0.85775346,0.045561932,0.94887733
+https://cso.kmi.open.ac.uk/topics/back_propagation,651,2,0.05479128,0.8670453,0.85292685,False,back propagation,6,0.85775346,0.045561932,0.94887733
+https://cso.kmi.open.ac.uk/topics/back-propagation,651,3,0.055522136,0.86464846,0.8559133,False,back-propagation,6,0.85775346,0.045561932,0.94887733
+https://cso.kmi.open.ac.uk/topics/backpropagation,651,4,0.041633703,0.86280143,0.8701365,False,backpropagation,6,0.85775346,0.045561932,0.94887733
+https://cso.kmi.open.ac.uk/topics/backpropagation_algorithm,651,5,0.047566924,0.85842025,0.89433527,True,backpropagation algorithm,6,0.85775346,0.045561932,0.94887733
+https://cso.kmi.open.ac.uk/topics/peer-to-peer_network,1336,0,0.10980615,0.8043116,0.82667,False,peer-to-peer network,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer-to-peer_networks,1336,1,0.095217034,0.8135547,0.83121526,False,peer-to-peer networks,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/p2p_networks,1336,2,0.071887515,0.7823425,0.804082,False,p2p networks,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer-to-peer,1336,3,0.09857084,0.7744511,0.80617857,True,peer-to-peer,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/p2p_systems,1336,4,0.07652997,0.7834532,0.7833003,False,p2p systems,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer-to-peer_systems,1336,5,0.093125746,0.8111845,0.823565,False,peer-to-peer systems,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/p2p_applications,1336,6,0.08577443,0.6908179,0.6633276,False,p2p applications,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer_to_peer_%28p2p%29_network,1336,7,0.071171395,0.8177177,0.825104,False,peer to peer (p2p) network,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer-to-peer_technologies,1336,8,0.0919462,0.77258456,0.7702272,False,peer-to-peer technologies,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer-to-peer_%28p2p%29,1336,9,0.037670318,0.8292702,0.8352639,False,peer-to-peer (p2p),16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/p2p_network,1336,10,0.072907194,0.8021754,0.78747755,False,p2p network,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/p2p,1336,11,0.07769485,0.6911991,0.6763423,False,p2p,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer_to_peer_networks,1336,12,0.0855809,0.8262549,0.8477069,False,peer to peer networks,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer-to-peer_system,1336,13,0.094630934,0.8180979,0.84862804,False,peer-to-peer system,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/peer_to_peer,1336,14,0.09679219,0.737201,0.73720753,False,peer to peer,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/p2p_system,1336,15,0.07562512,0.78673995,0.789403,False,p2p system,16,0.78383476,0.08343317,0.9507011
+https://cso.kmi.open.ac.uk/topics/fuzzy_clustering_method,665,0,0.06511942,0.8724682,0.90179956,False,fuzzy clustering method,4,0.8650559,0.043495875,0.95204765
+https://cso.kmi.open.ac.uk/topics/fuzzy_clusters,665,1,0.038841445,0.8183236,0.8005468,False,fuzzy clusters,4,0.8650559,0.043495875,0.95204765
+https://cso.kmi.open.ac.uk/topics/fuzzy_clustering_techniques,665,2,0.056449637,0.8780373,0.9001614,False,fuzzy clustering techniques,4,0.8650559,0.043495875,0.95204765
+https://cso.kmi.open.ac.uk/topics/fuzzy_clustering,665,3,0.013572993,0.8913946,0.9001614,True,fuzzy clustering,4,0.8650559,0.043495875,0.95204765
+https://cso.kmi.open.ac.uk/topics/wireless_communication_technology,1792,0,0.0011380324,0.8908456,0.8913313,False,wireless communication technology,4,0.8744575,0.03890399,0.95226544
+https://cso.kmi.open.ac.uk/topics/wireless_communication,1792,1,0.062013485,0.88233596,0.89193165,False,wireless communication,4,0.8744575,0.03890399,0.95226544
+https://cso.kmi.open.ac.uk/topics/wireless_technologies,1792,2,0.03774349,0.8368163,0.81913155,False,wireless technologies,4,0.8744575,0.03890399,0.95226544
+https://cso.kmi.open.ac.uk/topics/wireless_communications,1792,3,0.054720953,0.8878319,0.8913313,True,wireless communications,4,0.8744575,0.03890399,0.95226544
+https://cso.kmi.open.ac.uk/topics/proxy_signature_scheme,1273,0,0.06005833,0.855464,0.89301825,False,proxy signature scheme,4,0.8596744,0.047408756,0.9544919
+https://cso.kmi.open.ac.uk/topics/proxy_signatures,1273,1,0.051432554,0.888791,0.89301825,False,proxy signatures,4,0.8596744,0.047408756,0.9544919
+https://cso.kmi.open.ac.uk/topics/proxy_signature,1273,2,0.054310568,0.89017487,0.9026624,True,proxy signature,4,0.8596744,0.047408756,0.9544919
+https://cso.kmi.open.ac.uk/topics/proxy_signer,1273,3,0.023833578,0.8042677,0.81829953,False,proxy signer,4,0.8596744,0.047408756,0.9544919
+https://cso.kmi.open.ac.uk/topics/microelectromechanical_systems_%28mems%29,1506,0,0.06113447,0.8314236,0.8372792,False,microelectromechanical systems (mems),5,0.8386488,0.058116604,0.954882
+https://cso.kmi.open.ac.uk/topics/micro-electrical-mechanical_systems,1506,1,0.034220994,0.8280468,0.81779313,False,micro-electrical-mechanical systems,5,0.8386488,0.058116604,0.954882
+https://cso.kmi.open.ac.uk/topics/microelectromechanical_system,1506,2,0.07283868,0.8593121,0.83456683,True,microelectromechanical system,5,0.8386488,0.058116604,0.954882
+https://cso.kmi.open.ac.uk/topics/micro_electro_mechanical_system,1506,3,0.04970055,0.8015864,0.7888074,False,micro electro mechanical system,5,0.8386488,0.058116604,0.954882
+https://cso.kmi.open.ac.uk/topics/microelectromechanical_systems,1506,4,0.072688326,0.8728752,0.86873466,False,microelectromechanical systems,5,0.8386488,0.058116604,0.954882
+https://cso.kmi.open.ac.uk/topics/machine_learning,30,0,0.07013644,0.8061676,0.7820697,True,machine learning,6,0.80003595,0.07759689,0.95522976
+https://cso.kmi.open.ac.uk/topics/machine_learning_algorithms,30,1,0.05517932,0.8198266,0.7834323,False,machine learning algorithms,6,0.80003595,0.07759689,0.95522976
+https://cso.kmi.open.ac.uk/topics/machine_learnings,30,2,0.044452604,0.7839592,0.7834323,False,machine learnings,6,0.80003595,0.07759689,0.95522976
+https://cso.kmi.open.ac.uk/topics/machine_learning_methods,30,3,0.0959488,0.81606925,0.75739384,False,machine learning methods,6,0.80003595,0.07759689,0.95522976
+https://cso.kmi.open.ac.uk/topics/machine_learning_techniques,30,4,0.11020048,0.7930975,0.7279502,False,machine learning techniques,6,0.80003595,0.07759689,0.95522976
+https://cso.kmi.open.ac.uk/topics/machine-learning,30,5,0.089663684,0.7810955,0.76076365,False,machine-learning,6,0.80003595,0.07759689,0.95522976
+https://cso.kmi.open.ac.uk/topics/intelligent_environments,764,0,0.06584444,0.80984116,0.82628906,False,intelligent environments,4,0.83920735,0.058147572,0.9555025
+https://cso.kmi.open.ac.uk/topics/intelligent_environment,764,1,0.025891919,0.85063106,0.8531782,False,intelligent environment,4,0.83920735,0.058147572,0.9555025
+https://cso.kmi.open.ac.uk/topics/smart_environment,764,2,0.08755846,0.8367467,0.8531782,True,smart environment,4,0.83920735,0.058147572,0.9555025
+https://cso.kmi.open.ac.uk/topics/smart_environments,764,3,0.05329546,0.85961056,0.82628906,False,smart environments,4,0.83920735,0.058147572,0.9555025
+https://cso.kmi.open.ac.uk/topics/neuro-fuzzy_systems,573,0,0.11400599,0.82820255,0.85066617,False,neuro-fuzzy systems,5,0.78990906,0.08281164,0.9555323
+https://cso.kmi.open.ac.uk/topics/neuro-fuzzy_approach,573,1,0.12238124,0.795028,0.8426948,False,neuro-fuzzy approach,5,0.78990906,0.08281164,0.9555323
+https://cso.kmi.open.ac.uk/topics/neuro-fuzzy_system,573,2,0.085380994,0.8542422,0.86699235,False,neuro-fuzzy system,5,0.78990906,0.08281164,0.9555323
+https://cso.kmi.open.ac.uk/topics/neurofuzzy_system,573,3,0.057480432,0.679525,0.6902691,True,neurofuzzy system,5,0.78990906,0.08281164,0.9555323
+https://cso.kmi.open.ac.uk/topics/neuro-fuzzy,573,4,0.034809552,0.7925476,0.79668283,False,neuro-fuzzy,5,0.78990906,0.08281164,0.9555323
+https://cso.kmi.open.ac.uk/topics/architecture_evaluation,1174,0,0.03126562,0.8502431,0.83538187,True,architecture evaluation,4,0.83138126,0.062115714,0.95561266
+https://cso.kmi.open.ac.uk/topics/architecture_assessment,1174,1,0.045682166,0.77501017,0.76474243,False,architecture assessment,4,0.83138126,0.062115714,0.95561266
+https://cso.kmi.open.ac.uk/topics/software_architecture_assessment,1174,2,0.0765476,0.8447537,0.821609,False,software architecture assessment,4,0.83138126,0.062115714,0.95561266
+https://cso.kmi.open.ac.uk/topics/software_architecture_evaluation,1174,3,0.09496747,0.8555181,0.8937385,False,software architecture evaluation,4,0.83138126,0.062115714,0.95561266
+https://cso.kmi.open.ac.uk/topics/gis,1681,0,0.039118897,0.748461,0.72209257,False,gis,4,0.825301,0.06520246,0.9557059
+https://cso.kmi.open.ac.uk/topics/geographical_information_systems,1681,1,0.08772759,0.8403122,0.8761618,False,geographical information systems,4,0.825301,0.06520246,0.9557059
+https://cso.kmi.open.ac.uk/topics/geographical_information_system_%28gis%29,1681,2,0.042590227,0.8616462,0.8761618,False,geographical information system (gis),4,0.825301,0.06520246,0.9557059
+https://cso.kmi.open.ac.uk/topics/geographic_information_system,1681,3,0.09137314,0.85078454,0.9050131,True,geographic information system,4,0.825301,0.06520246,0.9557059
+https://cso.kmi.open.ac.uk/topics/on-line_algorithms,2004,0,0.035623457,0.8671081,0.87105304,True,on-line algorithms,4,0.8697112,0.043980397,0.957672
+https://cso.kmi.open.ac.uk/topics/online_algorithm,2004,1,0.043715537,0.878561,0.8861273,False,online algorithm,4,0.8697112,0.043980397,0.957672
+https://cso.kmi.open.ac.uk/topics/on-line_algorithm,2004,2,0.045475736,0.8658862,0.8861273,False,on-line algorithm,4,0.8697112,0.043980397,0.957672
+https://cso.kmi.open.ac.uk/topics/online_algorithms,2004,3,0.051106866,0.86728954,0.87105304,False,online algorithms,4,0.8697112,0.043980397,0.957672
+https://cso.kmi.open.ac.uk/topics/semantic_technology,203,0,0.073927745,0.8536167,0.8461464,False,semantic technology,6,0.86550486,0.04702604,0.95955694
+https://cso.kmi.open.ac.uk/topics/semantic_technologies,203,1,0.06424648,0.8753333,0.86728716,False,semantic technologies,6,0.86550486,0.04702604,0.95955694
+https://cso.kmi.open.ac.uk/topics/semantic_web_technologies,203,2,0.036885943,0.882897,0.87095785,False,semantic web technologies,6,0.86550486,0.04702604,0.95955694
+https://cso.kmi.open.ac.uk/topics/semantic_web_applications,203,3,0.051527184,0.8202275,0.8535128,False,semantic web applications,6,0.86550486,0.04702604,0.95955694
+https://cso.kmi.open.ac.uk/topics/semantic_web,203,4,0.021197354,0.8711146,0.86592627,True,semantic web,6,0.86550486,0.04702604,0.95955694
+https://cso.kmi.open.ac.uk/topics/semantic_web_technology,203,5,0.034371514,0.8898398,0.86728716,False,semantic web technology,6,0.86550486,0.04702604,0.95955694
+https://cso.kmi.open.ac.uk/topics/video_surveillance_systems,1532,0,0.11323963,0.7725307,0.7939558,False,video surveillance systems,6,0.781231,0.089231245,0.9596935
+https://cso.kmi.open.ac.uk/topics/surveillance_systems,1532,1,0.11211007,0.8043173,0.8190335,False,surveillance systems,6,0.781231,0.089231245,0.9596935
+https://cso.kmi.open.ac.uk/topics/video_surveillance,1532,2,0.03974444,0.818755,0.7939558,True,video surveillance,6,0.781231,0.089231245,0.9596935
+https://cso.kmi.open.ac.uk/topics/surveillance_cameras,1532,3,0.04997423,0.80027616,0.8190335,False,surveillance cameras,6,0.781231,0.089231245,0.9596935
+https://cso.kmi.open.ac.uk/topics/surveillance_system,1532,4,0.10145698,0.7929154,0.78454155,False,surveillance system,6,0.781231,0.089231245,0.9596935
+https://cso.kmi.open.ac.uk/topics/surveillance_video,1532,5,0.11886213,0.6985914,0.62565345,False,surveillance video,6,0.781231,0.089231245,0.9596935
+https://cso.kmi.open.ac.uk/topics/differential_evolution_algorithm,712,0,0.049444117,0.88473123,0.879229,False,differential evolution algorithm,4,0.88273495,0.03874075,0.96021646
+https://cso.kmi.open.ac.uk/topics/differential_evolution,712,1,0.041823056,0.861821,0.8376981,True,differential evolution,4,0.88273495,0.03874075,0.96021646
+https://cso.kmi.open.ac.uk/topics/differential_evolution_%28de%29,712,2,0.018530466,0.89458233,0.8838667,False,differential evolution (de),4,0.88273495,0.03874075,0.96021646
+https://cso.kmi.open.ac.uk/topics/differential_evolution_algorithms,712,3,0.045165364,0.8898053,0.8838667,False,differential evolution algorithms,4,0.88273495,0.03874075,0.96021646
+https://cso.kmi.open.ac.uk/topics/localization_method,546,0,0.1285943,0.7245784,0.6986839,False,localization method,6,0.6565302,0.15239224,0.9613147
+https://cso.kmi.open.ac.uk/topics/localization_errors,546,1,0.17248456,0.5296993,0.4489568,False,localization errors,6,0.6565302,0.15239224,0.9613147
+https://cso.kmi.open.ac.uk/topics/localization_algorithm,546,2,0.17779693,0.71896875,0.7335782,True,localization algorithm,6,0.6565302,0.15239224,0.9613147
+https://cso.kmi.open.ac.uk/topics/localization_algorithms,546,3,0.17244056,0.70186377,0.7439009,False,localization algorithms,6,0.6565302,0.15239224,0.9613147
+https://cso.kmi.open.ac.uk/topics/localization_problems,546,4,0.119916745,0.6497717,0.5993805,False,localization problems,6,0.6565302,0.15239224,0.9613147
+https://cso.kmi.open.ac.uk/topics/localization_accuracy,546,5,0.1431203,0.6142992,0.6986839,False,localization accuracy,6,0.6565302,0.15239224,0.9613147
+https://cso.kmi.open.ac.uk/topics/compression_techniques,1566,0,0.074589655,0.8826101,0.87237793,False,compression techniques,4,0.8616146,0.049917627,0.96144986
+https://cso.kmi.open.ac.uk/topics/compression_rates,1566,1,0.0072802594,0.8014485,0.7968037,False,compression rates,4,0.8616146,0.049917627,0.96144986
+https://cso.kmi.open.ac.uk/topics/compression_methods,1566,2,0.0687388,0.9015641,0.91431516,True,compression methods,4,0.8616146,0.049917627,0.96144986
+https://cso.kmi.open.ac.uk/topics/compression_scheme,1566,3,0.04906179,0.8608355,0.87237793,False,compression scheme,4,0.8616146,0.049917627,0.96144986
+https://cso.kmi.open.ac.uk/topics/spline,2093,0,0.07389398,0.8126732,0.80052054,False,spline,5,0.8406475,0.06115744,0.9629624
+https://cso.kmi.open.ac.uk/topics/b_splines,2093,1,0.06230696,0.85654616,0.863407,False,b splines,5,0.8406475,0.06115744,0.9629624
+https://cso.kmi.open.ac.uk/topics/b-spline,2093,2,0.05088442,0.8579383,0.8556484,False,b-spline,5,0.8406475,0.06115744,0.9629624
+https://cso.kmi.open.ac.uk/topics/splines,2093,3,0.04934203,0.8413069,0.82374394,True,splines,5,0.8406475,0.06115744,0.9629624
+https://cso.kmi.open.ac.uk/topics/b-splines,2093,4,0.06935981,0.83477294,0.85425586,False,b-splines,5,0.8406475,0.06115744,0.9629624
+https://cso.kmi.open.ac.uk/topics/medium_access_control_%28mac%29,558,0,0.11659592,0.850344,0.835468,False,medium access control (mac),4,0.8196065,0.07242877,0.964464
+https://cso.kmi.open.ac.uk/topics/medium_access_control,558,1,0.009377702,0.8288369,0.835468,True,medium access control,4,0.8196065,0.07242877,0.964464
+https://cso.kmi.open.ac.uk/topics/medium_access_control%28mac%29,558,2,0.11659592,0.850344,0.835468,False,medium access control(mac),4,0.8196065,0.07242877,0.964464
+https://cso.kmi.open.ac.uk/topics/medium_access_control_protocols,558,3,0.04714555,0.74890095,0.7155641,False,medium access control protocols,4,0.8196065,0.07242877,0.964464
+https://cso.kmi.open.ac.uk/topics/heterogeneous_network_%28hetnet%29,426,0,0.08700605,0.8180602,0.8569926,False,heterogeneous network (hetnet),4,0.8265757,0.06937238,0.96532047
+https://cso.kmi.open.ac.uk/topics/heterogeneous_network_environments,426,1,0.03534919,0.7474887,0.771564,False,heterogeneous network environments,4,0.8265757,0.06937238,0.96532047
+https://cso.kmi.open.ac.uk/topics/heterogeneous_networks,426,2,0.0764523,0.86356735,0.8569926,True,heterogeneous networks,4,0.8265757,0.06937238,0.96532047
+https://cso.kmi.open.ac.uk/topics/heterogeneous_network,426,3,0.078681976,0.87718654,0.89967954,False,heterogeneous network,4,0.8265757,0.06937238,0.96532047
+https://cso.kmi.open.ac.uk/topics/mobile_robotics,1488,0,0.0071950583,0.9265415,0.9268105,False,mobile robotics,4,0.93016636,0.017609717,0.9653858
+https://cso.kmi.open.ac.uk/topics/mobile_robot,1488,1,0.02717302,0.93531364,0.9175979,False,mobile robot,4,0.93016636,0.017609717,0.9653858
+https://cso.kmi.open.ac.uk/topics/mobile_robots,1488,2,0.01010049,0.92096186,0.9146388,True,mobile robots,4,0.93016636,0.017609717,0.9653858
+https://cso.kmi.open.ac.uk/topics/mobile_robotic,1488,3,0.025970299,0.9378485,0.9268105,False,mobile robotic,4,0.93016636,0.017609717,0.9653858
+https://cso.kmi.open.ac.uk/topics/optimization_techniques,704,0,0.07066689,0.88714576,0.90257376,False,optimization techniques,5,0.8491167,0.05864773,0.9664121
+https://cso.kmi.open.ac.uk/topics/optimization_problems,704,1,0.027424393,0.76826847,0.7740709,True,optimization problems,5,0.8491167,0.05864773,0.9664121
+https://cso.kmi.open.ac.uk/topics/optimization_methods,704,2,0.07181091,0.89096916,0.9103509,False,optimization methods,5,0.8491167,0.05864773,0.9664121
+https://cso.kmi.open.ac.uk/topics/optimization_algorithms,704,3,0.07407958,0.8391769,0.8635157,False,optimization algorithms,5,0.8491167,0.05864773,0.9664121
+https://cso.kmi.open.ac.uk/topics/optimization_method,704,4,0.049256876,0.86002326,0.8620675,False,optimization method,5,0.8491167,0.05864773,0.9664121
+https://cso.kmi.open.ac.uk/topics/architecture_description_language,1130,0,0.09597729,0.8552909,0.8538083,False,architecture description language,4,0.7926563,0.08689955,0.9664554
+https://cso.kmi.open.ac.uk/topics/architecture_description_languages,1130,1,0.115589775,0.8393884,0.8531503,True,architecture description languages,4,0.7926563,0.08689955,0.9664554
+https://cso.kmi.open.ac.uk/topics/architecture_notation,1130,2,0.03797556,0.6918021,0.691442,False,architecture notation,4,0.7926563,0.08689955,0.9664554
+https://cso.kmi.open.ac.uk/topics/architectural_language,1130,3,0.09805556,0.78414375,0.8531503,False,architectural language,4,0.7926563,0.08689955,0.9664554
+https://cso.kmi.open.ac.uk/topics/graphical_user_interface,2089,0,0.09367909,0.85723114,0.88300824,False,graphical user interface,4,0.8258932,0.070353836,0.9666009
+https://cso.kmi.open.ac.uk/topics/gui,2089,1,0.0365007,0.74240726,0.7318023,False,gui,4,0.8258932,0.070353836,0.9666009
+https://cso.kmi.open.ac.uk/topics/graphical_user_interfaces_%28gui%29,2089,2,0.04444234,0.85423833,0.88300824,False,graphical user interfaces (gui),4,0.8258932,0.070353836,0.9666009
+https://cso.kmi.open.ac.uk/topics/graphical_user_interfaces,2089,3,0.10679321,0.84969616,0.88824654,True,graphical user interfaces,4,0.8258932,0.070353836,0.9666009
+https://cso.kmi.open.ac.uk/topics/cognitive_models,97,0,0.003105191,0.9211886,0.9233376,False,cognitive models,4,0.9250693,0.021773674,0.9686166
+https://cso.kmi.open.ac.uk/topics/cognitive_modelling,97,1,0.038144924,0.9329555,0.9167975,False,cognitive modelling,4,0.9250693,0.021773674,0.9686166
+https://cso.kmi.open.ac.uk/topics/cognitive_model,97,2,0.011276114,0.9082244,0.90478086,True,cognitive model,4,0.9250693,0.021773674,0.9686166
+https://cso.kmi.open.ac.uk/topics/cognitive_modeling,97,3,0.034568463,0.93790865,0.9233376,False,cognitive modeling,4,0.9250693,0.021773674,0.9686166
+https://cso.kmi.open.ac.uk/topics/spectrum_holes,416,0,0.0905122,0.39324185,0.369649,False,spectrum holes,7,0.6440207,0.16239667,0.968814
+https://cso.kmi.open.ac.uk/topics/spectrum_allocation,416,1,0.21501674,0.71737623,0.8452201,False,spectrum allocation,7,0.6440207,0.16239667,0.968814
+https://cso.kmi.open.ac.uk/topics/spectrum_management,416,2,0.19456807,0.7174365,0.82246125,False,spectrum management,7,0.6440207,0.16239667,0.968814
+https://cso.kmi.open.ac.uk/topics/spectrum_usage,416,3,0.18642914,0.7410349,0.8100445,False,spectrum usage,7,0.6440207,0.16239667,0.968814
+https://cso.kmi.open.ac.uk/topics/spectrum_sharing,416,4,0.19525358,0.6512539,0.7671926,True,spectrum sharing,7,0.6440207,0.16239667,0.968814
+https://cso.kmi.open.ac.uk/topics/spectrum_utilization,416,5,0.20389853,0.739208,0.8250879,False,spectrum utilization,7,0.6440207,0.16239667,0.968814
+https://cso.kmi.open.ac.uk/topics/spectrum_bands,416,6,0.05109837,0.5485935,0.55843854,False,spectrum bands,7,0.6440207,0.16239667,0.968814
+https://cso.kmi.open.ac.uk/topics/language_models,172,0,0.007925042,0.9165589,0.9139462,False,language models,4,0.9135555,0.027809314,0.96917415
+https://cso.kmi.open.ac.uk/topics/language_model,172,1,0.027521197,0.89602405,0.9004416,True,language model,4,0.9135555,0.027809314,0.96917415
+https://cso.kmi.open.ac.uk/topics/language_modelling,172,2,0.030527718,0.9284253,0.9139462,False,language modelling,4,0.9135555,0.027809314,0.96917415
+https://cso.kmi.open.ac.uk/topics/language_modeling,172,3,0.0452633,0.91321373,0.9084264,False,language modeling,4,0.9135555,0.027809314,0.96917415
+https://cso.kmi.open.ac.uk/topics/frequency_selective_fading,1800,0,0.11644485,0.84111327,0.8538404,True,frequency selective fading,4,0.7844121,0.09286819,0.97014844
+https://cso.kmi.open.ac.uk/topics/frequency-selective_fading,1800,1,0.1232379,0.84176296,0.86944884,False,frequency-selective fading,4,0.7844121,0.09286819,0.97014844
+https://cso.kmi.open.ac.uk/topics/frequency-selective,1800,2,0.024656432,0.6687483,0.67890155,False,frequency-selective,4,0.7844121,0.09286819,0.97014844
+https://cso.kmi.open.ac.uk/topics/frequency-selective_fading_channels,1800,3,0.10713356,0.78602386,0.8538404,False,frequency-selective fading channels,4,0.7844121,0.09286819,0.97014844
+https://cso.kmi.open.ac.uk/topics/radiofrequency_identification,2080,0,0.16754483,0.63026804,0.6431805,False,radiofrequency identification,5,0.7116177,0.12958482,0.97078735
+https://cso.kmi.open.ac.uk/topics/radio_frequency_identification_technology,2080,1,0.10475257,0.7591195,0.7626328,False,radio frequency identification technology,5,0.7116177,0.12958482,0.97078735
+https://cso.kmi.open.ac.uk/topics/rfid,2080,2,0.16068237,0.6149359,0.6134074,True,rfid,5,0.7116177,0.12958482,0.97078735
+https://cso.kmi.open.ac.uk/topics/radio_frequency_identification,2080,3,0.108685784,0.7893011,0.8288704,False,radio frequency identification,5,0.7116177,0.12958482,0.97078735
+https://cso.kmi.open.ac.uk/topics/radio_frequency_identification_%28rfid%29,2080,4,0.10625854,0.76446396,0.8163711,False,radio frequency identification (rfid),5,0.7116177,0.12958482,0.97078735
+https://cso.kmi.open.ac.uk/topics/partial_differential_equations,2207,0,0.07528206,0.8752673,0.91766703,True,partial differential equations,4,0.83316606,0.06886171,0.97088945
+https://cso.kmi.open.ac.uk/topics/partial_differential_equation,2207,1,0.07337056,0.8690464,0.90089893,False,partial differential equation,4,0.83316606,0.06886171,0.97088945
+https://cso.kmi.open.ac.uk/topics/partial_differential,2207,2,0.030108716,0.74726295,0.7675986,False,partial differential,4,0.83316606,0.06886171,0.97088945
+https://cso.kmi.open.ac.uk/topics/partial_differential_equations_%28pde%29,2207,3,0.096685484,0.8410876,0.90089893,False,partial differential equations (pde),4,0.83316606,0.06886171,0.97088945
+https://cso.kmi.open.ac.uk/topics/3d_modeling,1412,0,0.06994054,0.8877086,0.8519539,False,3d modeling,4,0.87134415,0.050416872,0.97217786
+https://cso.kmi.open.ac.uk/topics/3d_models,1412,1,0.024324028,0.864676,0.8519539,False,3d models,4,0.87134415,0.050416872,0.97217786
+https://cso.kmi.open.ac.uk/topics/3d_model,1412,2,0.03510294,0.8490999,0.82571906,False,3d model,4,0.87134415,0.050416872,0.97217786
+https://cso.kmi.open.ac.uk/topics/3d_modelling,1412,3,0.07229999,0.8838921,0.8433586,True,3d modelling,4,0.87134415,0.050416872,0.97217786
+https://cso.kmi.open.ac.uk/topics/multi-core_processors,1760,0,0.041157085,0.9145996,0.92586344,False,multi-core processors,4,0.9191688,0.027214441,0.97359765
+https://cso.kmi.open.ac.uk/topics/multicore_processors,1760,1,0.012260587,0.9234438,0.92586344,False,multicore processors,4,0.9191688,0.027214441,0.97359765
+https://cso.kmi.open.ac.uk/topics/multicore_processor,1760,2,0.03439575,0.9077875,0.926746,False,multicore processor,4,0.9191688,0.027214441,0.97359765
+https://cso.kmi.open.ac.uk/topics/multi-core_processor,1760,3,0.021044344,0.9308441,0.926746,True,multi-core processor,4,0.9191688,0.027214441,0.97359765
+https://cso.kmi.open.ac.uk/topics/rbf,654,0,0.12841675,0.34541145,0.28825915,False,rbf,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/radial_basis_function_neural_network,654,1,0.20349552,0.6646206,0.7315098,False,radial basis function neural network,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/radial_basis,654,2,0.27760553,0.53036845,0.6126467,False,radial basis,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/radial_basis_function,654,3,0.29308242,0.5985761,0.7039939,False,radial basis function,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/rbf_neural_network,654,4,0.19031362,0.56536496,0.52576125,False,rbf neural network,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/radial_basis_functions,654,5,0.2912999,0.5959705,0.73520696,True,radial basis functions,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/radial_basis_function%28rbf%29,654,6,0.19506106,0.6609648,0.7403024,False,radial basis function(rbf),10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/rbfnn,654,7,0.14280502,0.353173,0.3407827,False,rbfnn,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/rbf_neural_networks,654,8,0.20246316,0.5334213,0.5088383,False,rbf neural networks,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/radial_basis_function_neural_networks,654,9,0.20416902,0.64899135,0.7297468,False,radial basis function neural networks,10,0.54968625,0.2128712,0.97542864
+https://cso.kmi.open.ac.uk/topics/system_on_chip,1118,0,0.046309263,0.90018475,0.9147613,False,system on chip,6,0.8762412,0.05048422,0.9772096
+https://cso.kmi.open.ac.uk/topics/systems-on-chip,1118,1,0.038148828,0.89451534,0.8845421,False,systems-on-chip,6,0.8762412,0.05048422,0.9772096
+https://cso.kmi.open.ac.uk/topics/systems_on_chips,1118,2,0.064352274,0.8567976,0.86426866,False,systems on chips,6,0.8762412,0.05048422,0.9772096
+https://cso.kmi.open.ac.uk/topics/system-on-chip_%28soc%29,1118,3,0.045498975,0.81718457,0.82308584,False,system-on-chip (soc),6,0.8762412,0.05048422,0.9772096
+https://cso.kmi.open.ac.uk/topics/system_on_chips,1118,4,0.06344574,0.8892067,0.8845421,True,system on chips,6,0.8762412,0.05048422,0.9772096
+https://cso.kmi.open.ac.uk/topics/system-on-chip,1118,5,0.045150243,0.8995582,0.8838769,False,system-on-chip,6,0.8762412,0.05048422,0.9772096
+https://cso.kmi.open.ac.uk/topics/space_time_block_codes,953,0,0.061090518,0.87259877,0.8934644,False,space time block codes,8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/space-time_block_codes,953,1,0.043025684,0.8872661,0.8784473,True,space-time block codes,8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/space-time_block_coding,953,2,0.058082,0.8600349,0.864002,False,space-time block coding,8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/space_time_block_coding,953,3,0.03943574,0.88669425,0.8769731,False,space time block coding,8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/space-time_block_coding_%28stbc%29,953,4,0.047856074,0.8157669,0.8040175,False,space-time block coding (stbc),8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/space-time_block_code,953,5,0.058485135,0.8922985,0.8978605,False,space-time block code,8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/space-time_block_coded,953,6,0.04509878,0.89356434,0.8983966,False,space-time block coded,8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/space_time_block_code,953,7,0.075417645,0.866511,0.87609375,False,space time block code,8,0.87184185,0.05356145,0.97896475
+https://cso.kmi.open.ac.uk/topics/multiagent_system,34,0,0.044402312,0.8965504,0.8981948,True,multiagent system,7,0.9021408,0.038471233,0.97908324
+https://cso.kmi.open.ac.uk/topics/multi_agent_system,34,1,0.037485078,0.9194593,0.90869343,False,multi agent system,7,0.9021408,0.038471233,0.97908324
+https://cso.kmi.open.ac.uk/topics/multi-agent_systems,34,2,0.04134304,0.89215034,0.888543,False,multi-agent systems,7,0.9021408,0.038471233,0.97908324
+https://cso.kmi.open.ac.uk/topics/multi_agent_system_%28mas%29,34,3,0.032230534,0.86769795,0.86320233,False,multi agent system (mas),7,0.9021408,0.038471233,0.97908324
+https://cso.kmi.open.ac.uk/topics/multi-agent_system,34,4,0.036525555,0.9213662,0.90964884,False,multi-agent system,7,0.9021408,0.038471233,0.97908324
+https://cso.kmi.open.ac.uk/topics/multiagent_systems,34,5,0.046929885,0.89266676,0.88179207,False,multiagent systems,7,0.9021408,0.038471233,0.97908324
+https://cso.kmi.open.ac.uk/topics/multi_agent_systems,34,6,0.030382218,0.92509454,0.93082935,False,multi agent systems,7,0.9021408,0.038471233,0.97908324
+https://cso.kmi.open.ac.uk/topics/orthogonal_frequency_division_multiple_access_%28ofd,565,0,0.06189004,0.9068245,0.8889994,False,orthogonal frequency division multiple access (ofd,4,0.89547694,0.04187951,0.97923595
+https://cso.kmi.open.ac.uk/topics/orthogonal_frequency_division_multiple_access,565,1,0.01051169,0.8997633,0.89626557,True,orthogonal frequency division multiple access,4,0.89547694,0.04187951,0.97923595
+https://cso.kmi.open.ac.uk/topics/orthogonal_frequency_division_multiple_access_syst,565,2,0.034042303,0.8658829,0.84209764,False,orthogonal frequency division multiple access syst,4,0.89547694,0.04187951,0.97923595
+https://cso.kmi.open.ac.uk/topics/orthogonal_frequency-division_multiple_access_%28ofd,565,3,0.061074007,0.909437,0.89626557,False,orthogonal frequency-division multiple access (ofd,4,0.89547694,0.04187951,0.97923595
+https://cso.kmi.open.ac.uk/topics/biometric_template,1428,0,0.06966242,0.53118896,0.53118896,True,biometric template,3,0.44418097,0.11022884,0.66463864
+https://cso.kmi.open.ac.uk/topics/template_protection,1428,1,0.09568083,0.36584574,0.36584574,False,template protection,3,0.44418097,0.11022884,0.66463864
+https://cso.kmi.open.ac.uk/topics/cancelable_biometrics,1428,2,0.16534325,0.43550816,0.43550816,False,cancelable biometrics,3,0.44418097,0.11022884,0.66463864
+https://cso.kmi.open.ac.uk/topics/reverse_engineering,1146,0,0.033833638,0.4337088,0.4337088,True,reverse engineering,3,0.5242955,0.10186461,0.7280247
+https://cso.kmi.open.ac.uk/topics/architecture_reconstruction,1146,1,0.15279692,0.5526721,0.5526721,False,architecture reconstruction,3,0.5242955,0.10186461,0.7280247
+https://cso.kmi.open.ac.uk/topics/architecture_recovery,1146,2,0.11896329,0.5865057,0.5865057,False,architecture recovery,3,0.5242955,0.10186461,0.7280247
+https://cso.kmi.open.ac.uk/topics/robust_speech_recognition,987,0,0.0012401342,0.66282713,0.66282713,False,robust speech recognition,3,0.68827313,0.025859395,0.7399919
+https://cso.kmi.open.ac.uk/topics/speech_recognition_systems,987,1,0.038789093,0.7003761,0.7003761,True,speech recognition systems,3,0.68827313,0.025859395,0.7399919
+https://cso.kmi.open.ac.uk/topics/speech_recognizer,987,2,0.03754896,0.7016162,0.7016162,False,speech recognizer,3,0.68827313,0.025859395,0.7399919
+https://cso.kmi.open.ac.uk/topics/robotic_applications,300,0,0.050599843,0.69633746,0.69633746,False,robotic applications,3,0.6891514,0.03373323,0.75661784
+https://cso.kmi.open.ac.uk/topics/robotic_systems,300,1,0.03607899,0.7108583,0.7108583,True,robotic systems,3,0.6891514,0.03373323,0.75661784
+https://cso.kmi.open.ac.uk/topics/robotic_platforms,300,2,0.014520854,0.6602584,0.6602584,False,robotic platforms,3,0.6891514,0.03373323,0.75661784
+https://cso.kmi.open.ac.uk/topics/ws-bpel,1334,0,0.1376127,0.6191441,0.6191441,False,ws-bpel,3,0.5576162,0.10739878,0.77241373
+https://cso.kmi.open.ac.uk/topics/business_process_execution_language,1334,1,0.023485467,0.4580459,0.4580459,False,business process execution language,3,0.5576162,0.10739878,0.77241373
+https://cso.kmi.open.ac.uk/topics/bpel,1334,2,0.16109817,0.5956586,0.5956586,True,bpel,3,0.5576162,0.10739878,0.77241373
+https://cso.kmi.open.ac.uk/topics/spectral_signature,983,0,0.1949212,0.31192774,0.31192774,True,spectral signature,3,0.42215315,0.17519915,0.7725514
+https://cso.kmi.open.ac.uk/topics/unmixing,983,1,0.26279873,0.37980527,0.37980527,False,unmixing,3,0.42215315,0.17519915,0.7725514
+https://cso.kmi.open.ac.uk/topics/spectral_unmixing,983,2,0.06787753,0.57472646,0.57472646,False,spectral unmixing,3,0.42215315,0.17519915,0.7725514
+https://cso.kmi.open.ac.uk/topics/asian_continental_ancestry_group,2175,0,0.23617032,0.52940416,0.52940416,True,asian continental ancestry group,3,0.44255748,0.16557008,0.7736976
+https://cso.kmi.open.ac.uk/topics/european_continental_ancestry_group,2175,1,0.24835512,0.5172193,0.5172193,False,european continental ancestry group,3,0.44255748,0.16557008,0.7736976
+https://cso.kmi.open.ac.uk/topics/race,2175,2,0.012184799,0.281049,0.281049,False,race,3,0.44255748,0.16557008,0.7736976
+https://cso.kmi.open.ac.uk/topics/forecasting_accuracy,646,0,0.019318938,0.6548172,0.6548172,False,forecasting accuracy,3,0.6967242,0.04834658,0.79341733
+https://cso.kmi.open.ac.uk/topics/forecasting_models,646,1,0.05320093,0.7273371,0.7273371,True,forecasting models,3,0.6967242,0.04834658,0.79341733
+https://cso.kmi.open.ac.uk/topics/forecasting_methods,646,2,0.07251987,0.7080182,0.7080182,False,forecasting methods,3,0.6967242,0.04834658,0.79341733
+https://cso.kmi.open.ac.uk/topics/genetic_association,2187,0,0.008303851,0.5796211,0.5796211,True,genetic association,3,0.6519415,0.0750883,0.80211806
+https://cso.kmi.open.ac.uk/topics/genetic_predisposition_to_disease,2187,1,0.11263245,0.6839497,0.6839497,False,genetic predisposition to disease,3,0.6519415,0.0750883,0.80211806
+https://cso.kmi.open.ac.uk/topics/genetic_predisposition,2187,2,0.1043286,0.6922536,0.6922536,False,genetic predisposition,3,0.6519415,0.0750883,0.80211806
+https://cso.kmi.open.ac.uk/topics/wyner-ziv_video_coding,583,0,0.11336267,0.66151595,0.66151595,False,wyner-ziv video coding,3,0.6532162,0.07557511,0.8043664
+https://cso.kmi.open.ac.uk/topics/wyner-ziv,583,1,0.044231623,0.59238493,0.59238493,True,wyner-ziv,3,0.6532162,0.07557511,0.8043664
+https://cso.kmi.open.ac.uk/topics/wyner-ziv_coding,583,2,0.06913105,0.7057476,0.7057476,False,wyner-ziv coding,3,0.6532162,0.07557511,0.8043664
+https://cso.kmi.open.ac.uk/topics/gpu_computing,1988,0,0.15112847,0.6087753,0.6087753,False,gpu computing,3,0.6091508,0.10075232,0.8106555
+https://cso.kmi.open.ac.uk/topics/gpu,1988,1,0.075001,0.6849028,0.6849028,True,gpu,3,0.6091508,0.10075232,0.8106555
+https://cso.kmi.open.ac.uk/topics/computer_graphics_equipment,1988,2,0.07612747,0.5337743,0.5337743,False,computer graphics equipment,3,0.6091508,0.10075232,0.8106555
+https://cso.kmi.open.ac.uk/topics/ontology_alignment,56,0,0.039919376,0.78566056,0.78566056,False,ontology alignment,3,0.78544724,0.026612917,0.83867306
+https://cso.kmi.open.ac.uk/topics/ontology_matching,56,1,0.020279646,0.8053003,0.8053003,True,ontology matching,3,0.78544724,0.026612917,0.83867306
+https://cso.kmi.open.ac.uk/topics/ontology_mapping,56,2,0.01963973,0.7653809,0.7653809,False,ontology mapping,3,0.78544724,0.026612917,0.83867306
+https://cso.kmi.open.ac.uk/topics/stock_exchange,639,0,0.0009856522,0.5697187,0.5697187,False,stock exchange,3,0.65974057,0.09035041,0.8404414
+https://cso.kmi.open.ac.uk/topics/stock_prices,639,1,0.13552561,0.7042587,0.7042587,False,stock prices,3,0.65974057,0.09035041,0.8404414
+https://cso.kmi.open.ac.uk/topics/stock_price,639,2,0.13453996,0.7052443,0.7052443,True,stock price,3,0.65974057,0.09035041,0.8404414
+https://cso.kmi.open.ac.uk/topics/electronic_business,1197,0,0.02098906,0.79565895,0.79565895,False,electronic business,3,0.8078742,0.01921159,0.8462974
+https://cso.kmi.open.ac.uk/topics/e-business,1197,1,0.007828325,0.82447636,0.82447636,False,e-business,3,0.8078742,0.01921159,0.8462974
+https://cso.kmi.open.ac.uk/topics/ebusiness,1197,2,0.028817385,0.8034873,0.8034873,True,ebusiness,3,0.8078742,0.01921159,0.8462974
+https://cso.kmi.open.ac.uk/topics/quality_characteristic,1155,0,0.0075288117,0.838547,0.838547,False,quality characteristic,3,0.8294797,0.011576891,0.8526335
+https://cso.kmi.open.ac.uk/topics/quality_properties,1155,1,0.017365336,0.8287105,0.8287105,False,quality properties,3,0.8294797,0.011576891,0.8526335
+https://cso.kmi.open.ac.uk/topics/quality_attributes,1155,2,0.009836525,0.82118165,0.82118165,True,quality attributes,3,0.8294797,0.011576891,0.8526335

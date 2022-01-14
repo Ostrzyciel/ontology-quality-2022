@@ -1,0 +1,12 @@
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+
+select *
+where {
+    VALUES ?p {
+        oboInOwl:hasAlternativeId
+        oboInOwl:hasDbXref
+    }
+    ?s ?p ?o .
+    FILTER(isBlank(?o))
+    OPTIONAL { ?o ?p2 ?o2 . }
+}

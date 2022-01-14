@@ -1,0 +1,13 @@
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix cso: <http://cso.kmi.open.ac.uk/schema/cso#>
+
+delete {
+  ?ss ?p ?s .
+}
+
+where {
+  ?s cso:preferentialEquivalent ?eq .
+  FILTER(?s != ?eq)
+  
+  ?ss ?p ?s .
+}

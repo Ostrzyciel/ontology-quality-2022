@@ -1,0 +1,64 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://cso.kmi.open.ac.uk/topics/carrier_sense_multiple_access> owl:sameAs <http://www.wikidata.org/entity/Q1045106> .
+
+<https://cso.kmi.open.ac.uk/topics/carrier_sense_multiple_access_with_collision_avoid> owl:sameAs <http://www.wikidata.org/entity/Q1045106> .
+
+<https://cso.kmi.open.ac.uk/topics/frequency-domain_equalization> owl:sameAs <http://www.wikidata.org/entity/Q596116> .
+
+<https://cso.kmi.open.ac.uk/topics/fusion_rules> owl:sameAs <http://www.wikidata.org/entity/Q28456139> .
+
+<https://cso.kmi.open.ac.uk/topics/induced_subgraphs> owl:sameAs <http://www.wikidata.org/entity/Q166507> .
+
+<https://cso.kmi.open.ac.uk/topics/insar> owl:sameAs <http://www.wikidata.org/entity/Q1666056> .
+
+<https://cso.kmi.open.ac.uk/topics/inverse_synthetic_aperture_radar> owl:sameAs <http://www.wikidata.org/entity/Q6060432> .
+
+<https://cso.kmi.open.ac.uk/topics/inverse_synthetic_aperture_radar_%28isar%29> owl:sameAs <http://www.wikidata.org/entity/Q6060432> .
+
+<https://cso.kmi.open.ac.uk/topics/level-set_method> owl:sameAs <http://www.wikidata.org/entity/Q1751397> .
+
+<https://cso.kmi.open.ac.uk/topics/level_set_method> owl:sameAs <http://www.wikidata.org/entity/Q1751397> .
+
+<https://cso.kmi.open.ac.uk/topics/multi-hop> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multi-hop_networks> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multi-hop_relay> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multi-hop_relay_networks> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multi-hop_routing> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multi-hop_wireless_mesh_networks> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multi-hop_wireless_networks> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multihop> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multihop_networks> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multihop_transmission> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multihop_wireless_network> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/multihop_wireless_networks> owl:sameAs <http://www.wikidata.org/entity/Q30688409> .
+
+<https://cso.kmi.open.ac.uk/topics/natural_language_interfaces> owl:sameAs <http://www.wikidata.org/entity/Q3816772> .
+
+<https://cso.kmi.open.ac.uk/topics/natural_language_processing> owl:sameAs <http://www.wikidata.org/entity/Q30642> .
+
+<https://cso.kmi.open.ac.uk/topics/natural_language_processing_systems> owl:sameAs <http://www.wikidata.org/entity/Q30642> .
+
+<https://cso.kmi.open.ac.uk/topics/prefetches> owl:sameAs <http://www.wikidata.org/entity/Q28455645> .
+
+<https://cso.kmi.open.ac.uk/topics/prefetching> owl:sameAs <http://www.wikidata.org/entity/Q28455645> .
+
+<https://cso.kmi.open.ac.uk/topics/pulse_amplitude_modulation> owl:sameAs <http://www.wikidata.org/entity/Q186130> .
+
+<https://cso.kmi.open.ac.uk/topics/sc-fdma> owl:sameAs <http://www.wikidata.org/entity/Q596116> .
+
+<https://cso.kmi.open.ac.uk/topics/statistical_multiplexing> owl:sameAs <http://www.wikidata.org/entity/Q5978010> .
+
+<https://cso.kmi.open.ac.uk/topics/weighted_graph> owl:sameAs <http://www.wikidata.org/entity/Q166507> .
+

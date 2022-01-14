@@ -1,0 +1,17 @@
+[
+	{
+		"p": "http://xmlns.com/foaf/0.1/homepage",
+		"s": "http://purl.obolibrary.org/obo/envo.owl",
+		"o": "http://environmentontology.org/"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/homepage",
+		"s": "http://purl.obolibrary.org/obo/ro.owl",
+		"o": "https://github.com/oborel/obo-relations/"
+	},
+	{
+		"p": "http://xmlns.com/foaf/0.1/homepage",
+		"s": "http://purl.obolibrary.org/obo/uberon.owl",
+		"o": "http://uberon.org"
+	}
+]

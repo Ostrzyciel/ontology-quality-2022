@@ -1,0 +1,167 @@
+[
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/FOODON_03411471",
+		"o": "http://purl.obolibrary.org/obo/Cucumis%20melo%20L.%20var.%20cantalupensis%20Naudin"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003512",
+		"o": "http://purl.obolibrary.org/obo/curled%20lettuce"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003512",
+		"o": "http://purl.obolibrary.org/obo/green%20coral%20lettuce"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/FOODON_00003512",
+		"o": "http://purl.obolibrary.org/obo/lactuca%20sativa%20var.%20crispa"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/NCBITaxon_7984",
+		"o": "https://en.wikipedia.org/wiki/Misgurnus_fossilis"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37339"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37701"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t37749"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37775"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37778"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37794"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37955"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37965"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0007568",
+		"o": "t37969"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t37990"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0019098",
+		"o": "t38073"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t38383"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0019098",
+		"o": "t38406"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t38417"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0033057",
+		"o": "t38588"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/UO_0000187",
+		"o": "t38617"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t38776"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t38796"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0033057",
+		"o": "t38902"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t38938"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0007568",
+		"o": "t38974"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/UO_0000187",
+		"o": "t39179"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t39368"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t39384"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t39443"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t39648"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.obolibrary.org/obo/RO_0001000",
+		"o": "t39687"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t39798"
+	}
+]

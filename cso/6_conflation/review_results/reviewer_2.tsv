@@ -1,0 +1,806 @@
+987	speech recognition systems	TRUE	definitely good
+987	speech recognizer	FALSE	definitely good
+987	robust speech recognition	FALSE	definitely wrong	is not a system, more like an algorithm
+		Overall	definitely wrong
+		
+1760	multi-core processor	TRUE	definitely good
+1760	multi-core processors	FALSE	definitely good
+1760	multicore processors	FALSE	definitely good
+1760	multicore processor	FALSE	definitely good
+		Overall	definitely good
+		
+2103	sensor data	TRUE	definitely good
+2103	sensor device	FALSE	definitely wrong	not the data, but devices, so wrong
+2103	sensor systems	FALSE	definitely wrong
+2103	sensor readings	FALSE	probably good	sensor can also send information, so data != reading in 100%
+		Overall	definitely wrong
+		
+1792	wireless communications	TRUE	definitely good
+1792	wireless communication	FALSE	definitely good
+1792	wireless communication technology	FALSE	definitely wrong
+1792	wireless technologies	FALSE	definitely wrong	https://www.techopedia.com/definition/10062/wireless-communications
+		Overall	definitely wrong	wireless communication is a type of communication, that unites wireless signals, devices, technologies, etc
+		
+1057	online social networks	TRUE	definitely good
+1057	online social network	FALSE	definitely good
+1057	on-line social networks	FALSE	definitely good
+1057	online social networks (osns)	FALSE	definitely good
+		Overall	definitely good
+		
+1766	linux	TRUE	definitely good	linux - os, based on linux kernel, so linux kernel is a part of linux system
+1766	linux systems	FALSE	definitely good
+1766	linux- operating system	FALSE	definitely good
+1766	linux kernel	FALSE	probably wrong
+		Overall	probably wrong
+		
+97	cognitive model	TRUE	definitely good
+97	cognitive modelling	FALSE	definitely wrong
+97	cognitive models	FALSE	definitely good
+97	cognitive modeling	FALSE	definitely wrong
+		Overall	definitely wrong	modelling is a bunch of activities aimed at producing a model
+		
+1952	spam	TRUE	definitely good	any undesired mass messaging
+1952	spammers	FALSE	definitely wrong	a person
+1952	spam filtering	FALSE	definitely wrong	a technology
+1952	spam detection	FALSE	definitely wrong	a tech task
+1952	spam filter	FALSE	definitely wrong	a technology
+1952	spam emails	FALSE	definitely wrong	a type of spam
+		Overall	definitely wrong
+		
+1576	watermarking algorithms	TRUE	definitely good
+1576	watermark detection	FALSE	definitely wrong
+1576	watermarked images	FALSE	definitely wrong
+1576	watermarking schemes	FALSE	definitely good
+1576	watermarking techniques	FALSE	definitely good
+1576	watermark embedding	FALSE	definitely wrong
+1576	watermark extraction	FALSE	definitely wrong
+		Overall	definitely wrong	detection, embedding and extraction are parts of algos\techniques\schemes
+		
+1146	reverse engineering	TRUE	definitely good
+1146	architecture reconstruction	FALSE	probably wrong
+1146	architecture recovery	FALSE	probably wrong
+		Overall	probably wrong	re may also be applied to design, small parts, specifications, databases and so on
+		
+1412	3d modelling	TRUE	definitely good
+1412	3d modeling	FALSE	definitely good
+1412	3d models	FALSE	definitely wrong
+1412	3d model	FALSE	definitely wrong	modelling is a bunch of activities aimed at producing a model
+		Overall	definitely wrong
+		
+1532	video surveillance	TRUE	definitely good	is a system that includes cameras
+1532	surveillance cameras	FALSE	probably wrong
+1532	surveillance video	FALSE	probably wrong
+1532	video surveillance systems	FALSE	definitely good
+1532	surveillance systems	FALSE	probably wrong	more general term than video
+1532	surveillance system	FALSE	probably wrong
+		Overall	probably wrong
+		
+1800	frequency selective fading	TRUE	definitely good
+1800	frequency-selective	FALSE	definitely wrong
+1800	frequency-selective fading channels	FALSE	definitely wrong
+1800	frequency-selective fading	FALSE	definitely good
+		Overall	definitely wrong
+		
+573	neurofuzzy system	TRUE	definitely good
+573	neuro-fuzzy approach	FALSE	definitely wrong
+573	neuro-fuzzy systems	FALSE	definitely good
+573	neuro-fuzzy	FALSE	definitely wrong
+573	neuro-fuzzy system	FALSE	definitely good
+		Overall	definitely wrong
+		
+2202	social aspect	TRUE	definitely good	applies to a social part of some event\concept\thing - a general term
+2202	social psychology	FALSE	definitely wrong
+2202	social support	FALSE	definitely wrong
+2202	social status	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1506	microelectromechanical system	TRUE	definitely good
+1506	microelectromechanical systems	FALSE	definitely good
+1506	micro electro mechanical system	FALSE	definitely good
+1506	micro-electrical-mechanical systems	FALSE	definitely good
+1506	microelectromechanical systems (mems)	FALSE	definitely good
+		Overall	definitely good
+		
+2171	chromosome translocation 8	TRUE	definitely good
+2171	chromosome translocation 6	FALSE	definitely wrong
+2171	chromosome translocation 1	FALSE	definitely wrong
+2171	chromosome translocation 21	FALSE	definitely wrong
+2171	chromosome translocation 2	FALSE	definitely wrong
+2171	chromosome translocation 9	FALSE	definitely wrong
+2171	chromosome translocation 22	FALSE	definitely wrong
+		Overall	definitely wrong	these are all diff types of translocations
+		
+546	localization algorithm	TRUE	definitely good
+546	localization problems	FALSE	definitely wrong
+546	localization errors	FALSE	definitely wrong
+546	localization method	FALSE	definitely good
+546	localization accuracy	FALSE	definitely wrong
+546	localization algorithms	FALSE	definitely good
+		Overall	definitely wrong
+		
+300	robotic systems	TRUE	definitely good
+300	robotic platforms	FALSE	probably good
+300	robotic applications	FALSE	probably wrong
+		Overall	probably wrong
+		
+645	neural networks	TRUE	definitely good
+645	artificial neural networks	FALSE	definitely good
+645	artificial neural network	FALSE	definitely good
+645	neural network model	FALSE	probably wrong
+645	back-propagation neural networks	FALSE	probably wrong
+645	neural network	FALSE	definitely good
+645	back-propagation neural network	FALSE	probably wrong
+645	back propagation neural networks	FALSE	probably wrong
+		Overall	probably wrong	we kinda have not only backprop , so it's a subset
+		
+1305	web content	TRUE	definitely good
+1305	web page	FALSE	probably wrong
+1305	web pages	FALSE	probably wrong
+1305	web-page	FALSE	probably wrong
+1305	web users	FALSE	definitely wrong
+1305	web contents	FALSE	definitely good
+		Overall	definitely wrong
+		
+764	smart environment	TRUE	definitely good
+764	intelligent environments	FALSE	probably wrong
+764	smart environments	FALSE	definitely good
+764	intelligent environment	FALSE	probably wrong	intelligent usually used for learning, analyzing and so on
+		Overall	probably wrong	smart env - mostly about devices, sensors, etc.
+		
+2173	chromosome translocation 15	TRUE	definitely good
+2173	chromosome translocation 12	FALSE	definitely wrong
+2173	chromosome translocation 17	FALSE	definitely wrong
+2173	chromosome translocation 3	FALSE	definitely wrong
+2173	chromosome translocation 5	FALSE	definitely wrong
+		Overall	definitely wrong	again marking all wrong as every translocation is described differently based on what and where happened
+		
+654	radial basis functions	TRUE	definitely good
+654	radial basis function neural network	FALSE	definitely wrong	 is an activation layer here, so diff concept
+654	radial basis function(rbf)	FALSE	definitely good
+654	rbf	FALSE	definitely good
+654	radial basis function neural networks	FALSE	definitely wrong
+654	radial basis function	FALSE	definitely good
+654	radial basis	FALSE	probably wrong
+654	rbfnn	FALSE	definitely wrong
+654	rbf neural networks	FALSE	definitely wrong
+654	rbf neural network	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+646	forecasting models	TRUE	definitely good
+646	forecasting accuracy	FALSE	definitely wrong
+646	forecasting methods	FALSE	probably wrong
+		Overall	definitely wrong
+		
+2052	stochastic processes	TRUE	definitely good
+2052	stochastic systems	FALSE	probably wrong
+2052	stochastic model	FALSE	probably wrong
+2052	stochastic models	FALSE	probably wrong
+2052	stochastic system	FALSE	probably wrong
+		Overall	probably wrong
+		
+133	reasoning	TRUE	definitely good
+133	reasoning system	FALSE	definitely wrong
+133	reasoning tasks	FALSE	definitely wrong
+133	reasoning algorithms	FALSE	definitely wrong
+133	reasoner	FALSE	definitely wrong
+133	reasoning problems	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1155	quality attributes	TRUE	definitely good
+1155	quality characteristic	FALSE	definitely good
+1155	quality properties	FALSE	definitely good
+		Overall	definitely good	all three concepts describe efficiensy, reliability, security and so on
+		
+2075	classification methods	TRUE	definitely good
+2075	classification results	FALSE	definitely wrong
+2075	classification system	FALSE	probably wrong
+2075	classification performance	FALSE	definitely wrong
+2075	classification tasks	FALSE	definitely wrong
+2075	classification performances	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1926	security issues	TRUE	definitely good
+1926	security solutions	FALSE	definitely wrong
+1926	security mechanism	FALSE	definitely wrong
+1926	security problems	FALSE	definitely good
+1926	security mechanisms	FALSE	definitely wrong
+1926	security services	FALSE	definitely wrong
+1926	security threats	FALSE	definitely good
+		Overall	definitely wrong
+		
+1334	bpel	TRUE	definitely good
+1334	ws-bpel	FALSE	definitely good	bpel was renamed into ws-bpel
+1334	business process execution language	FALSE	definitely good
+		Overall	definitely good
+		
+1098	program debugging	TRUE	definitely good
+1098	software debugging	FALSE	definitely good
+1098	testing and debugging	FALSE	definitely good
+1098	debugging	FALSE	definitely good
+		Overall	definitely good
+		
+1658	visualization tools	TRUE	definitely good
+1658	visualization techniques	FALSE	probably good
+1658	interactive visualizations	FALSE	definitely wrong
+1658	interactive visualization	FALSE	definitely wrong
+1658	visualization system	FALSE	probably good
+1658	visualization technique	FALSE	probably good
+1658	visualization method	FALSE	probably wrong
+		Overall	definitely wrong
+		
+30	machine learning	TRUE	definitely good
+30	machine learnings	FALSE	probably good
+30	machine learning techniques	FALSE	definitely wrong
+30	machine learning algorithms	FALSE	definitely wrong
+30	machine learning methods	FALSE	definitely wrong
+30	machine-learning	FALSE	definitely good
+		Overall	definitely wrong
+		
+34	multiagent system	TRUE	definitely good
+34	multi agent systems	FALSE	definitely good
+34	multi agent system (mas)	FALSE	definitely good
+34	multi-agent system	FALSE	definitely good
+34	multi-agent systems	FALSE	definitely good
+34	multiagent systems	FALSE	definitely good
+34	multi agent system	FALSE	definitely good
+		Overall	definitely good
+		
+2196	correlation analysis	TRUE	definitely good
+2196	regression analysis	FALSE	definitely wrong
+2196	statistics	FALSE	definitely wrong
+2196	statistical analysis	FALSE	definitely wrong
+2196	statistical model	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+653	recurrent neural networks	TRUE	definitely good
+653	recurrent neural network	FALSE	definitely good
+653	rnn	FALSE	definitely good
+653	recurrent neural network (rnn)	FALSE	definitely good
+		Overall	definitely good
+		
+2203	computational efficiency	TRUE	definitely good
+2203	computation efficiency	FALSE	definitely good
+2203	computational time	FALSE	probably wrong
+2203	computational costs	FALSE	probably wrong
+2203	computation time	FALSE	probably wrong
+		Overall	probably wrong
+		
+1898	access control policies	TRUE	definitely good
+1898	access control models	FALSE	probably wrong
+1898	access control policy	FALSE	definitely good
+1898	access control mechanism	FALSE	probably wrong
+		Overall	probably wrong
+		
+1838	voip	TRUE	definitely good
+1838	voice over internet protocol	FALSE	definitely good
+1838	voice over ip	FALSE	definitely good
+1838	voice over ip (voip)	FALSE	definitely good
+		Overall	definitely good
+		
+1414	clustering methods	TRUE	definitely good
+1414	clustering method	FALSE	definitely good
+1414	clustering results	FALSE	definitely wrong
+1414	clustering problems	FALSE	definitely wrong
+1414	clustering analysis	FALSE	probably wrong
+1414	clustering techniques	FALSE	definitely good
+1414	clustering process	FALSE	probably wrong
+1414	clustering approach	FALSE	definitely good
+		Overall	definitely wrong
+		
+2058	learning environments	TRUE	definitely good
+2058	e-learning environment	FALSE	definitely wrong
+2058	learning outcomes	FALSE	definitely wrong
+2058	learning outcome	FALSE	definitely wrong
+2058	learning activities	FALSE	definitely wrong
+2058	e-learning platforms	FALSE	definitely wrong
+2058	learning activity	FALSE	definitely wrong
+2058	learning environment	FALSE	definitely good
+2058	learning experiences	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1963	virtual environments	TRUE	definitely good
+1963	3-d virtual environment	FALSE	probably wrong
+1963	virtual reality technology	FALSE	definitely wrong
+1963	virtual environment	FALSE	definitely good
+		Overall	definitely wrong
+		
+2089	graphical user interfaces	TRUE	definitely good
+2089	graphical user interface	FALSE	definitely good
+2089	gui	FALSE	definitely good
+2089	graphical user interfaces (gui)	FALSE	definitely good
+		Overall	definitely good
+		
+296	haptic systems	TRUE	definitely good
+296	haptic devices	FALSE	probably good
+296	haptic interface	FALSE	probably wrong
+296	haptic interfaces	FALSE	probably wrong
+296	haptic	FALSE	definitely wrong
+296	haptics	FALSE	definitely wrong
+296	haptic device	FALSE	probably good
+		Overall	definitely wrong
+		
+1842	qos	TRUE	definitely good	s - service - mostly used for internet traffic
+1842	qoe	FALSE	probably wrong	e - experience - more general term
+1842	quality of experience (qoe)	FALSE	probably wrong
+1842	quality of experiences	FALSE	probably wrong
+1842	quality of experience	FALSE	probably wrong
+		Overall	probably wrong
+		
+557	internet of things	TRUE	definitely good
+557	iot	FALSE	definitely good
+557	internet of thing (iot)	FALSE	definitely good
+557	internet of things (iot)	FALSE	definitely good
+		Overall	definitely good
+		
+2207	partial differential equations	TRUE	definitely good
+2207	partial differential equations (pde)	FALSE	definitely good
+2207	partial differential equation	FALSE	definitely good
+2207	partial differential	FALSE	probably good	 partial differential as a single term is not used, so can only be attribute to pde
+		Overall	probably good
+		
+1206	teaching practices	TRUE	definitely good
+1206	new teaching	FALSE	definitely wrong
+1206	teaching model	FALSE	probably good
+1206	teaching quality	FALSE	definitely wrong
+1206	teaching process	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1981	genetic analysis	TRUE	definitely good
+1981	gene product	FALSE	definitely wrong
+1981	gene location	FALSE	definitely wrong
+1981	genetic code	FALSE	definitely wrong
+1981	gene locus	FALSE	definitely wrong
+1981	genetic conservation	FALSE	definitely wrong
+1981	gene mapping	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1681	geographic information system	TRUE	definitely good
+1681	geographical information system (gis)	FALSE	definitely good
+1681	gis	FALSE	definitely good
+1681	geographical information systems	FALSE	definitely good
+		Overall	definitely good
+		
+2187	genetic association	TRUE	definitely good
+2187	genetic predisposition	FALSE	definitely wrong
+2187	genetic predisposition to disease	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+2161	chromosomes, human, pair 11	TRUE	definitely good
+2161	chromosomes, human, pair 8	FALSE	definitely wrong
+2161	chromosomes, human, pair 1	FALSE	definitely wrong
+2161	chromosomes, human, pair 14	FALSE	definitely wrong
+2161	chromosomes, human, pair 18	FALSE	definitely wrong
+2161	chromosomes, human, pair 13	FALSE	definitely wrong
+2161	chromosomes, human, pair 17	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+868	data mining techniques	TRUE	definitely good
+868	data mining technology	FALSE	definitely good
+868	data mining methods	FALSE	definitely good
+868	mining algorithms	FALSE	definitely good
+868	data mining algorithm	FALSE	definitely good
+868	data mining applications	FALSE	probably wrong
+		Overall	probably wrong
+		
+1423	facial images	TRUE	definitely good
+1423	facial features	FALSE	definitely wrong
+1423	facial feature	FALSE	definitely wrong
+1423	facial feature points	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1096	software project	TRUE	definitely good
+1096	software processes	FALSE	definitely wrong
+1096	software products	FALSE	definitely wrong
+1096	software process	FALSE	definitely wrong
+1096	software projects	FALSE	definitely good
+		Overall	definitely wrong
+		
+1878	gaussian processes	TRUE	definitely good
+1878	gaussian process	FALSE	definitely good
+1878	gaussian process models	FALSE	definitely wrong
+1878	gaussian process regression	FALSE	probably wrong
+		Overall	definitely wrong
+		
+1486	k-means algorithm	TRUE	definitely good
+1486	k-means algorithms	FALSE	definitely good
+1486	k-means	FALSE	definitely good
+1486	k-means clustering	FALSE	definitely good
+		Overall	definitely good
+		
+39	common-sense	TRUE	definitely good
+39	common-sense reasoning	FALSE	definitely wrong
+39	common-sense computing	FALSE	definitely wrong
+39	common sense	FALSE	definitely good
+39	commonsense computing	FALSE	definitely wrong
+39	commonsense reasoning	FALSE	definitely wrong
+39	commonsense	FALSE	definitely good
+		Overall	definitely wrong
+		
+2170	chromosome translocation	TRUE	definitely good
+2170	chromosome translocation 11	FALSE	definitely wrong
+2170	chromosome translocation 4	FALSE	definitely wrong
+2170	chromosome translocation 19	FALSE	definitely wrong
+2170	chromosome translocation 14	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1927	encryption	TRUE	definitely good
+1927	encryption methods	FALSE	probably wrong
+1927	encryption key	FALSE	definitely wrong
+1927	encryption algorithms	FALSE	probably wrong
+1927	encryption algorithm	FALSE	probably wrong
+1927	encryption and decryption	FALSE	definitely wrong
+1927	encryption schemes	FALSE	probably wrong
+		Overall	definitely wrong
+		
+2204	chromosomes	TRUE	definitely good
+2204	x chromosome	FALSE	probably wrong
+2204	y chromosome	FALSE	probably wrong
+2204	x chromosome linkage	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1889	wireless local area networks (wlan)	TRUE	definitely good
+1889	wireless lans	FALSE	definitely good
+1889	wireless local area network (wlan)	FALSE	definitely good
+1889	wlan	FALSE	definitely good
+1889	wireless lan	FALSE	definitely good
+1889	wireless local area networks	FALSE	definitely good
+		Overall	definitely good
+		
+1413	segmentation methods	TRUE	definitely good
+1413	segmentation process	FALSE	probably wrong
+1413	segmentation results	FALSE	definitely wrong
+1413	segmented images	FALSE	definitely wrong
+1413	segmentation algorithms	FALSE	definitely good
+1413	segmentation accuracy	FALSE	definitely wrong
+1413	segmentation techniques	FALSE	definitely good
+		Overall	definitely wrong
+		
+1988	gpu	TRUE	definitely good
+1988	gpu computing	FALSE	definitely wrong
+1988	computer graphics equipment	FALSE	not sure
+		Overall	definitely wrong
+		
+558	medium access control	TRUE	definitely good
+558	medium access control(mac)	FALSE	definitely good
+558	medium access control (mac)	FALSE	definitely good
+558	medium access control protocols	FALSE	probably good
+		Overall	probably good
+		
+2174	chromosomes, human, 6-12 and x	TRUE	definitely good
+2174	chromosomes, human, 4-5	FALSE	definitely wrong
+2174	chromosomes, human, 1-3	FALSE	definitely wrong
+2174	chromosomes, human, 13-15	FALSE	definitely wrong
+2174	chromosomes, human, 16-18	FALSE	definitely wrong
+2174	chromosomes, human, 21-22 and y	FALSE	definitely wrong
+2174	chromosomes, human, 19-20	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+426	heterogeneous networks	TRUE	definitely good
+426	heterogeneous network	FALSE	definitely good
+426	heterogeneous network environments	FALSE	definitely wrong
+426	heterogeneous network (hetnet)	FALSE	definitely good
+		Overall	definitely wrong
+		
+842	relational data models	TRUE	definitely good
+842	relational model	FALSE	definitely good
+842	relational data model	FALSE	definitely good
+842	relational data	FALSE	definitely good
+		Overall	definitely good
+		
+2080	rfid	TRUE	definitely good
+2080	radio frequency identification technology	FALSE	definitely good
+2080	radio frequency identification	FALSE	definitely good
+2080	radio frequency identification (rfid)	FALSE	definitely good
+2080	radiofrequency identification	FALSE	definitely good
+		Overall	definitely good
+		
+2175	asian continental ancestry group	TRUE	definitely good
+2175	european continental ancestry group	FALSE	definitely wrong
+2175	race	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+29	bayesian methods	TRUE	definitely good
+29	bayesian framework	FALSE	probably good
+29	bayesian model	FALSE	probably wrong
+29	bayesian method	FALSE	definitely good
+29	bayesian approach	FALSE	definitely good
+29	bayesian	FALSE	probably wrong
+29	bayesian network	FALSE	definitely wrong
+29	bayesian frameworks	FALSE	probably good
+29	bayesian approaches	FALSE	definitely good
+29	bayesian models	FALSE	probably wrong
+29	bayesian networks	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+651	backpropagation algorithm	TRUE	definitely good
+651	backpropagation	FALSE	definitely good
+651	back-propagation	FALSE	definitely good
+651	back propagation algorithm	FALSE	definitely good
+651	backpropagation algorithms	FALSE	definitely good
+651	back propagation	FALSE	definitely good
+		Overall	definitely good
+		
+848	case base	TRUE	definitely good
+848	case based	FALSE	definitely good
+848	case retrieval	FALSE	probably wrong
+848	case based reasoning systems	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+56	ontology matching	TRUE	definitely good
+56	ontology mapping	FALSE	probably good
+56	ontology alignment	FALSE	definitely good
+		Overall	probably good
+		
+2211	smart transport	TRUE	definitely good
+2211	smart transportation systems	FALSE	definitely wrong
+2211	smart transportation system	FALSE	definitely wrong
+2211	smart transportation	FALSE	probably wrong
+2211	smart transportation solutions	FALSE	probably wrong
+2211	smart transportation solution	FALSE	probably wrong
+		Overall	definitely wrong
+		
+1003	smart phones	TRUE	definitely good
+1003	smartphone	FALSE	definitely good
+1003	smart phone	FALSE	definitely good
+1003	smartphones	FALSE	definitely good
+		Overall	definitely good
+		
+172	language model	TRUE	definitely good
+172	language models	FALSE	definitely good
+172	language modelling	FALSE	definitely wrong
+172	language modeling	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+2137	eigenvalues	TRUE	definitely good
+2137	eigenvalue	FALSE	definitely good
+2137	eigen-value	FALSE	definitely good
+2137	eigen values	FALSE	definitely good
+		Overall	definitely good
+		
+1273	proxy signature	TRUE	definitely good
+1273	proxy signature scheme	FALSE	probably wrong
+1273	proxy signatures	FALSE	definitely good
+1273	proxy signer	FALSE	probably wrong
+		Overall	probably wrong
+		
+2184	heterozygote	TRUE	definitely good
+2184	heterozygosity	FALSE	definitely good
+2184	homozygosity	FALSE	definitely wrong
+2184	homozygote	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+2004	on-line algorithms	TRUE	definitely good
+2004	on-line algorithm	FALSE	definitely good
+2004	online algorithms	FALSE	definitely good
+2004	online algorithm	FALSE	definitely good
+		Overall	definitely good
+		
+2093	splines	TRUE	definitely good
+2093	b-spline	FALSE	definitely wrong
+2093	b splines	FALSE	definitely wrong
+2093	spline	FALSE	definitely good
+2093	b-splines	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1336	peer-to-peer	TRUE	definitely good
+1336	peer-to-peer (p2p)	FALSE	definitely good
+1336	peer-to-peer systems	FALSE	definitely wrong
+1336	p2p applications	FALSE	definitely wrong
+1336	peer-to-peer technologies	FALSE	probably good
+1336	peer to peer (p2p) network	FALSE	definitely wrong
+1336	peer to peer	FALSE	definitely good
+1336	p2p system	FALSE	definitely wrong
+1336	p2p	FALSE	definitely good
+1336	peer-to-peer system	FALSE	definitely wrong
+1336	peer to peer networks	FALSE	definitely wrong
+1336	peer-to-peer networks	FALSE	definitely wrong
+1336	p2p systems	FALSE	definitely wrong
+1336	peer-to-peer network	FALSE	definitely wrong
+1336	p2p networks	FALSE	definitely wrong
+1336	p2p network	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1566	compression methods	TRUE	definitely good
+1566	compression rates	FALSE	definitely wrong
+1566	compression techniques	FALSE	definitely good
+1566	compression scheme	FALSE	probably wrong
+		Overall	definitely wrong
+		
+523	multicast tree	TRUE	definitely good
+523	multicast transmissions	FALSE	definitely wrong
+523	multicast protocol	FALSE	definitely wrong
+523	multicast services	FALSE	definitely wrong
+523	multicast trees	FALSE	definitely good
+523	multicast groups	FALSE	definitely wrong
+523	multicast protocols	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+326	robotic manipulators	TRUE	definitely good
+326	manipulator	FALSE	definitely wrong
+326	manipulators	FALSE	definitely wrong
+326	robotic manipulator	FALSE	definitely good
+		Overall	definitely wrong
+		
+832	software development	TRUE	definitely good
+832	software development projects	FALSE	probably wrong
+832	software development life cycle	FALSE	definitely wrong
+832	software development process	FALSE	probably good
+		Overall	definitely wrong
+		
+186	semantic information	TRUE	definitely good
+186	semantic relations	FALSE	definitely wrong
+186	semantic relationships	FALSE	definitely wrong
+186	semantic annotations	FALSE	definitely wrong
+186	semantic analysis	FALSE	definitely wrong
+186	semantic features	FALSE	probably good
+186	semantic annotation	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1197	ebusiness	TRUE	definitely good
+1197	electronic business	FALSE	definitely good
+1197	e-business	FALSE	definitely good
+		Overall	definitely good
+		
+712	differential evolution	TRUE	definitely good
+712	differential evolution (de)	FALSE	definitely good
+712	differential evolution algorithm	FALSE	definitely good
+712	differential evolution algorithms	FALSE	definitely good
+		Overall	definitely good
+		
+416	spectrum sharing	TRUE	definitely good
+416	spectrum holes	FALSE	definitely wrong
+416	spectrum bands	FALSE	definitely wrong
+416	spectrum usage	FALSE	definitely wrong
+416	spectrum allocation	FALSE	probably good
+416	spectrum utilization	FALSE	definitely wrong
+416	spectrum management	FALSE	probably wrong
+		Overall	definitely wrong
+		
+704	optimization problems	TRUE	definitely good
+704	optimization method	FALSE	definitely wrong
+704	optimization algorithms	FALSE	definitely wrong
+704	optimization techniques	FALSE	definitely wrong
+704	optimization methods	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+953	space-time block codes	TRUE	definitely good
+953	space-time block coding (stbc)	FALSE	definitely good
+953	space time block codes	FALSE	definitely good
+953	space time block code	FALSE	definitely good
+953	space-time block coding	FALSE	definitely good
+953	space-time block code	FALSE	definitely good
+953	space time block coding	FALSE	definitely good
+953	space-time block coded	FALSE	probably good
+		Overall	probably good
+		
+1464	retrieval performance	TRUE	definitely good
+1464	retrieval systems	FALSE	definitely wrong
+1464	retrieval models	FALSE	definitely wrong
+1464	retrieval process	FALSE	definitely wrong
+1464	retrieval methods	FALSE	definitely wrong
+1464	retrieval accuracy	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+2168	genetic screening	TRUE	definitely good
+2168	genetic risk	FALSE	definitely wrong
+2168	genetic association studies	FALSE	probably wrong
+2168	genetic susceptibility	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+2182	chromosome analysis	TRUE	definitely good
+2182	chromosome breakage	FALSE	definitely wrong
+2182	chromosome rearrangement	FALSE	definitely wrong
+2182	chromosome banding	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+2198	regression model	TRUE	definitely good
+2198	regression models	FALSE	definitely good
+2198	regression method	FALSE	probably wrong
+2198	regression modeling	FALSE	probably wrong
+		Overall	probably wrong
+		
+22	svm	TRUE	definitely good
+22	svm classifiers	FALSE	definitely good
+22	svm classifier	FALSE	definitely good
+22	svm classification	FALSE	definitely good
+		Overall	definitely good	regressor is called svr, so this cluster is ok, svm model is also called svm
+		
+203	semantic web	TRUE	definitely good
+203	semantic web applications	FALSE	definitely wrong
+203	semantic technology	FALSE	definitely wrong
+203	semantic technologies	FALSE	definitely wrong
+203	semantic web technology	FALSE	definitely wrong
+203	semantic web technologies	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1118	system on chips	TRUE	definitely good
+1118	system on chip	FALSE	definitely good
+1118	systems on chips	FALSE	definitely good
+1118	systems-on-chip	FALSE	definitely good
+1118	system-on-chip	FALSE	definitely good
+1118	system-on-chip (soc)	FALSE	definitely good
+		Overall	definitely good
+		
+583	wyner-ziv	TRUE	definitely good
+583	wyner-ziv coding	FALSE	definitely good
+583	wyner-ziv video coding	FALSE	probably wrong	also applied for images, so wrong
+		Overall	probably wrong
+		
+639	stock price	TRUE	definitely good
+639	stock exchange	FALSE	definitely wrong
+639	stock prices	FALSE	definitely good
+		Overall	definitely wrong
+		
+635	agile methods	TRUE	definitely good
+635	agile	FALSE	probably good
+635	extreme programming	FALSE	definitely wrong
+635	agile development	FALSE	probably good
+		Overall	definitely wrong
+		
+1488	mobile robots	TRUE	definitely good
+1488	mobile robot	FALSE	definitely good
+1488	mobile robotic	FALSE	definitely wrong
+1488	mobile robotics	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+983	spectral signature	TRUE	definitely good
+983	unmixing	FALSE	definitely wrong
+983	spectral unmixing	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+886	xml data	TRUE	definitely good
+886	xml databases	FALSE	definitely wrong
+886	xml documents	FALSE	definitely good
+886	xml database	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1130	architecture description languages	TRUE	definitely good
+1130	architecture description language	FALSE	definitely good
+1130	architecture notation	FALSE	definitely wrong
+1130	architectural language	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+40	e-commerce	TRUE	definitely good
+40	e commerces	FALSE	definitely good
+40	e-commerce systems	FALSE	probably wrong
+40	electronic commerce	FALSE	definitely good
+		Overall	probably wrong
+		
+2183	single nucleotide polymorphism	TRUE	definitely good
+2183	snp	FALSE	definitely good
+2183	polymorphism, genetic	FALSE	definitely wrong
+2183	polymorphism	FALSE	definitely wrong
+2183	polymorphism, single nucleotide	FALSE	definitely good
+		Overall	definitely wrong
+		
+1933	authentication protocols	TRUE	definitely good
+1933	authentication scheme	FALSE	probably wrong
+1933	authentication systems	FALSE	definitely wrong
+1933	authentication methods	FALSE	probably wrong
+1933	authentication mechanisms	FALSE	probably wrong
+1933	authentication protocol	FALSE	definitely good
+1933	user authentication	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+565	orthogonal frequency division multiple access	TRUE	definitely good
+565	orthogonal frequency-division multiple access (ofd	FALSE	definitely good
+565	orthogonal frequency division multiple access syst	FALSE	definitely good
+565	orthogonal frequency division multiple access (ofd	FALSE	definitely good
+		Overall	definitely good
+		
+1428	biometric template	TRUE	definitely good
+1428	cancelable biometrics	FALSE	definitely wrong
+1428	template protection	FALSE	definitely wrong
+		Overall	definitely wrong
+		
+1174	architecture evaluation	TRUE	definitely good	architecture evaluation - found software-related articles, so
+1174	software architecture evaluation	FALSE	definitely good
+1174	software architecture assessment	FALSE	definitely good
+1174	architecture assessment	FALSE	definitely good
+		Overall	definitely good
+		
+665	fuzzy clustering	TRUE	definitely good
+665	fuzzy clustering techniques	FALSE	probably good
+665	fuzzy clusters	FALSE	probably wrong
+665	fuzzy clustering method	FALSE	definitely good
+		Overall	probably wrong

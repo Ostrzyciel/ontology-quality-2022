@@ -1,0 +1,10 @@
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix cso: <http://cso.kmi.open.ac.uk/schema/cso#>
+
+delete {
+  ?s ?p ?s .
+}
+
+where {
+  ?s ?p ?s .
+}

@@ -1,0 +1,22 @@
+[
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t37530"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t38021"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t38965"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+		"s": "http://purl.org/obo/owl/OBO_REL#realized_by",
+		"o": "t39872"
+	}
+]

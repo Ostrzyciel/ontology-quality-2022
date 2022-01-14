@@ -1,0 +1,8 @@
+select *
+where {
+  BIND(<http://www.w3.org/2000/01/rdf-schema#comment> as ?p)
+  
+  ?s ?p ?o .
+  
+  FILTER(!isLiteral(?o))
+}

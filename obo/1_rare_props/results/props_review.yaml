@@ -1,0 +1,573 @@
+hasVersion:
+  comment: Should probably be "hasVersion"
+  props:
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#version",
+      "c": "10",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2599598",
+      "o1": "3"
+    }
+
+notAnUri:
+  comment: Not an URI
+  props:
+    - {
+      "p": "oboInOwl:hasRelatedSynonym",
+      "c": "9",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/UO_0000226",
+      "o1": "volt-second"
+    }
+
+hasDate:
+  comment: Should probably be "hasDate"
+  props:
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#date",
+      "l": "date",
+      "c": "8",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/aeo.owl",
+      "o1": "04:07:2013 20:24"
+    }
+
+wrongPrefixOio:
+  comment: Wrong prefix, should be "http://www.geneontology.org/formats/oboInOwl"
+  props:
+    - {
+      "p": "http://purl.obolibrary.org/obo/IAO_created_by",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/CARO_0000012",
+      "o1": "Melissa Haendel"
+    }
+    - {
+      "p": "http://geneontology.org/formats/oboInOwl#created_by",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/CL_0000118",
+      "o1": "https://orcid.org/0000-0002-2825-0621"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/cl#created_by",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/CL_0000118",
+      "o1": "https://orcid.org/0000-0002-2825-0621"
+    }
+
+uriAppendedToPrefix:
+  comment: URI appended to prefix
+  props:
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#http://purl.obolibrary.org/obo/IAO_0000233",
+      "c": "6",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2500495",
+      "o1": "https://github.com/geneontology/go-ontology/issues/13926"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#http://purl.obolibrary.org/obo/RO_0002582",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t20792",
+      "o1": "true"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#http://purl.obolibrary.org/obo/IAO_0010000",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t21914",
+      "o1": "http://purl.obolibrary.org/obo/bfo/axiom/083-003"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#http://purl.obolibrary.org/obo/RO_0002581",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t22847",
+      "o1": "true"
+    }
+
+# Wrong prefix
+wrongPrefixOther:
+  comment: Wrong prefix
+  props:
+    - {
+      "p": "http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim#has_rank",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/NCBITaxon_2759",
+      "o1": "http://purl.obolibrary.org/obo/NCBITaxon_superkingdom"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/created_by",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/NBO_0000034",
+      "o1": "George Gkoutos"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/creation_date",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/NBO_0000034",
+      "o1": "2011-04-14T01:03:39Z"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/def",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/NBO_0000034",
+      "o1": "\"Behaviour related to the activity which primary purpose is the sexual reproduction.\" [NBO:GVG]"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/namespace",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/NBO_0000034",
+      "o1": "behavior_ontology"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/depicted_by",
+      "l": "depicted by",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/CL_0008049",
+      "o1": "https://en.wikipedia.org/w/index.php?title=Betz_cell&oldid=977472330#/media/File:GolgiStainedPyramidalCell.jpg"
+    }
+
+brokenProtocol:
+  comment: Broken protocol
+  props:
+    - {
+      "p": "ttp://www.geneontology.org/formats/oboInOwl#created_by",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/CARO_0020003",
+      "o1": "dos"
+    }
+
+badPrefixFobi:
+  comment: >
+    Bad prefix, the "fobi#" part should be removed.
+    Also, there are equivalent Dublin Core properties.
+  props:
+    - {
+      "p": "http://purl.obolibrary.org/obo/fobi#FOBI_050001",
+      "l": "Contributor",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/fobi.owl",
+      "o1": "Damion Dooley"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/fobi#FOBI_050000",
+      "l": "defaultLanguage",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/fobi.owl",
+      "o1": "English"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/fobi#FOBI_050002",
+      "l": "Creator",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/fobi.owl",
+      "o1": "Pol Castellano Escuder"
+    }
+    - {
+      "p": "http://purl.obolibrary.org/obo/fobi#FOBI_050003",
+      "l": "Description",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/fobi.owl",
+      "o1": "FOBI (Food-Biomarker Ontology) is composed of two interconnected sub-ontologies. One is a ”Food Ontology” consisting of raw foods and multiple-ingredient foods while the second is a ”Biomarker Ontology” containing food intake biomarkers classified by their chemical classes. These two sub-ontologies are conceptually independent but interconnected by different properties. This allows data and information regarding foods and food biomarkers to be visualized in a bidirectional way, going from metabolomics to nutritional data or vice versa. Potential applications of this ontology include the annotation of foods and biomarkers using a well-defined and consistent nomenclature, the standardized reporting of metabolomics workflows (e.g. metabolite identification, experimental design), or the application of different enrichment analysis approaches to analyze nutrimetabolomic data."
+    }
+
+xmlSchema:
+  comment: XML Schema attributes are not valid semantic properties
+  props:
+    - {
+      "p": "http://www.w3.org/2001/XMLSchema#maxInclusive",
+      "c": "1",
+      "s1": "t14556297",
+      "o1": "100"
+    }
+    - {
+      "p": "http://www.w3.org/2001/XMLSchema#minInclusive",
+      "c": "1",
+      "s1": "t14556302",
+      "o1": "0"
+    }
+
+oboInOwlUndefined:
+  comment: >
+    These properties are not defined in the oboInOwl ontology.
+    Maybe they were translated eagerly into OWL even though there are no corresponding properties defined?
+  props:
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#saved-by",
+      "l": "saved-by",
+      "c": "10",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/aeo.owl",
+      "o1": "jonathanbard"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#is_cyclic",
+      "c": "10",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/BFO_0000051",
+      "o1": "false"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#exceptions",
+      "c": "10",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2596695",
+      "o1": "ZFA"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#inferred_by",
+      "c": "10",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2612198",
+      "o1": "cjm"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#exception",
+      "c": "10",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2618387",
+      "o1": "teleost"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#is_class_level",
+      "c": "9",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/IAO_0000233",
+      "o1": "true"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#reference",
+      "c": "9",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2624180",
+      "o1": "ISBN:0-683-40008-8"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-equivalent",
+      "l": "treat-xrefs-as-equivalent",
+      "c": "8",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/uberon.owl",
+      "o1": "GO"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#contradicted_by",
+      "c": "7",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2602655",
+      "o1": "NCBIBook:NBK53171"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#conflicts",
+      "c": "6",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8537643",
+      "o1": "ABA"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-has-subclass",
+      "l": "treat-xrefs-as-has-subclass",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/uberon.owl",
+      "o1": "NCIT"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#consistent_with",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2593485",
+      "o1": "https://github.com/obophenotype/uberon/wiki/The-neural-crest"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#modified_from",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2608408",
+      "o1": "MA"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#submitter",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2610996",
+      "o1": "michaelerice"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#gene",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2625910",
+      "o1": "Shh"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#region",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2632259",
+      "o1": "cranial part"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#todo",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2645506",
+      "o1": "PMID:16313393"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#is_entailed",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8577570",
+      "o1": "true"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#contributor",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8589977",
+      "o1": "michaelerice"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#is_about",
+      "c": "5",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8820958",
+      "o1": "UBERON:0004741"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+      "l": "auto-generated-by",
+      "c": "4",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/aeo.owl",
+      "o1": "OBO-Edit 2.1.1-beta7"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#specialization_within",
+      "c": "4",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2592001",
+      "o1": "Sarcopterygians"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#proportion",
+      "c": "4",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2601030",
+      "o1": "85"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#composition",
+      "c": "4",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2620221",
+      "o1": "0.3% in humans"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#missing_from",
+      "c": "4",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2627241",
+      "o1": "FMA"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#external_class_label",
+      "c": "4",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2642731",
+      "o1": "trophoblast layer"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#cases",
+      "c": "4",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8817618",
+      "o1": "85-100%"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#component",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2640409",
+      "o1": "maternal"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#possible_exception",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8550566",
+      "o1": "UBERON:0001985"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#ontology_class",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8552785",
+      "o1": "ZFA:0005496"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#is_indirect",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8561827",
+      "o1": "true"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#connected_by",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8566214",
+      "o1": "UBERON:0011870 or UBERON:0011869"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#conflicts_with",
+      "c": "3",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14617516",
+      "o1": "MA"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-genus-differentia",
+      "l": "treat-xrefs-as-genus-differentia",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/po.owl",
+      "o1": "CL part_of NCBITaxon:33090"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#logical-definition-view-relation",
+      "l": "logical-definition-view-relation",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/hp.owl",
+      "o1": "has_part"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#exceptions_url",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t2599117",
+      "o1": "https://github.com/obophenotype/uberon/issues/378"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#cardonality",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14692461",
+      "o1": "1"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#quote",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14693260",
+      "o1": "it is a fold in the epidermal surface hence it is an epidermal scale"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#isAbout",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14694990",
+      "o1": "GO:0035277"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#stage",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14703129",
+      "o1": "larval"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#laterality",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14729512",
+      "o1": "left"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#min_count",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8531512",
+      "o1": "2"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#taxon_notes",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8531512",
+      "o1": "some premolars may have 3 cusps"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#count",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8536182",
+      "o1": "1"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#exactly",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8539245",
+      "o1": "2"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#different_relation_from",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8820126",
+      "o1": "ZFA"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#not_supported_by",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t8946450",
+      "o1": "MA"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#min_cardinality",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14572104",
+      "o1": "2"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#src",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "t14689118",
+      "o1": "ISBN:0471888893"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#typeref",
+      "c": "1",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/aeo.owl",
+      "o1": "anatomical_entity_ontology"
+    }
+    - {
+      "p": "http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-is_a",
+      "l": "treat-xrefs-as-is_a",
+      "c": "2",
+      "type": "http://www.w3.org/2002/07/owl#AnnotationProperty",
+      "s1": "http://purl.obolibrary.org/obo/po.owl",
+      "o1": "CARO"
+    }

@@ -1,0 +1,116 @@
+cluster,verdict_1,verdict_2,verdict_3,comment_2,comment_3,wrong_count,good_count,is_wrong_one,is_wrong_majority,is_wrong_all
+56,2,1,2,,,0,3,False,False,False
+1792,-2,-2,2,"wireless communication is a type of communication, that unites wireless signals, devices, technologies, etc",,2,1,True,True,False
+1658,-2,-2,-1,,,3,0,True,True,True
+565,-2,2,1,,,1,2,True,False,False
+1927,-2,-2,-2,,,3,0,True,True,True
+2058,-2,-2,-2,,Possibly out of scope.,3,0,True,True,True
+2196,-2,-2,-2,,,3,0,True,True,True
+1464,-2,-2,-2,,,3,0,True,True,True
+953,-2,1,2,,,1,2,True,False,False
+645,-2,-1,-2,"we kinda have not only backprop , so it's a subset",,3,0,True,True,True
+2211,-2,-2,1,,,2,1,True,True,False
+186,-2,-2,-2,,A lot of conflated terms here.,3,0,True,True,True
+29,-2,-2,-1,,,3,0,True,True,True
+203,-2,-2,-2,,,3,0,True,True,True
+2103,-2,-2,-2,,,3,0,True,True,True
+2203,-2,-1,-2,,,3,0,True,True,True
+133,-2,-2,-2,,,3,0,True,True,True
+296,-2,-2,-1,,,3,0,True,True,True
+764,2,-1,2,"smart env - mostly about devices, sensors, etc.",,1,2,True,False,False
+1206,-2,-2,-2,,,3,0,True,True,True
+665,-2,-1,1,,,2,1,True,True,False
+1926,-2,-2,-2,,,3,0,True,True,True
+1838,2,2,1,,,0,3,False,False,False
+635,-2,-2,2,,,2,1,True,True,False
+842,-2,2,1,,,1,2,True,False,False
+1760,2,2,2,,,0,3,False,False,False
+832,-2,-2,-1,,,3,0,True,True,True
+1003,2,2,2,,,0,3,False,False,False
+1800,-2,-2,1,,,2,1,True,True,False
+546,-2,-2,-2,,,3,0,True,True,True
+300,-2,-1,-1,,,3,0,True,True,True
+1488,-2,-2,2,,,2,1,True,True,False
+1130,-2,-2,1,,,2,1,True,True,False
+1952,-2,-2,-2,,,3,0,True,True,True
+1566,-2,-2,-2,,,3,0,True,True,True
+1412,-2,-2,1,,,2,1,True,True,False
+2187,-2,-2,2,,Out of scope.,2,1,True,True,False
+416,-2,-2,-2,,,3,0,True,True,True
+651,2,2,2,,,0,3,False,False,False
+2170,1,-2,-1,,"Genetics, out of scope.",2,1,True,True,False
+1933,-2,-2,-2,,"There is some conflation of ""protocol"" and ""system"" here.",3,0,True,True,True
+40,-2,-1,1,,,2,1,True,True,False
+1576,-2,-2,-1,"detection, embedding and extraction are parts of algos\techniques\schemes",,3,0,True,True,True
+39,-2,-2,-1,,,3,0,True,True,True
+1197,2,2,2,,,0,3,False,False,False
+704,-2,-2,-2,,The problem is not the method to solve it.,3,0,True,True,True
+2171,-1,-2,-2,these are all diff types of translocations,Out of scope.,3,0,True,True,True
+1155,2,2,1,"all three concepts describe efficiensy, reliability, security and so on",,0,3,False,False,False
+1098,-2,2,-2,,,2,1,True,True,False
+2093,-2,-2,-2,,,3,0,True,True,True
+2183,-2,-2,-2,,Out of scope.,3,0,True,True,True
+2161,1,-2,-2,,Out of scope.,2,1,True,True,False
+1842,-2,-1,-2,,,3,0,True,True,True
+1681,2,2,2,,,0,3,False,False,False
+1146,-2,-1,-1,"re may also be applied to design, small parts, specifications, databases and so on",,3,0,True,True,True
+2089,2,2,2,,,0,3,False,False,False
+653,2,2,2,,,0,3,False,False,False
+1273,-2,-1,-1,,,3,0,True,True,True
+557,2,2,2,,,0,3,False,False,False
+1981,-2,-2,-2,,Out of scope.,3,0,True,True,True
+558,-2,1,1,,,1,2,True,False,False
+868,-2,-1,-2,,,3,0,True,True,True
+1336,-2,-2,-1,,,3,0,True,True,True
+1963,-2,-2,-2,,,3,0,True,True,True
+2137,2,2,2,,Possibly out of scope.,0,3,False,False,False
+2207,2,1,1,,,0,3,False,False,False
+1334,-2,2,2,,,1,2,True,False,False
+1506,2,2,2,,,0,3,False,False,False
+1486,2,2,2,,,0,3,False,False,False
+97,-2,-2,2,modelling is a bunch of activities aimed at producing a model,,2,1,True,True,False
+583,2,-1,2,,,1,2,True,False,False
+1428,-2,-2,-2,,,3,0,True,True,True
+2173,-1,-2,-2,again marking all wrong as every translocation is described differently based on what and where happened,Out of scope.,3,0,True,True,True
+2204,-2,-2,-2,,,3,0,True,True,True
+2198,-2,-1,2,,,2,1,True,True,False
+2080,-2,2,2,,,1,2,True,False,False
+848,-2,-2,-1,,,3,0,True,True,True
+573,-2,-2,2,,,2,1,True,True,False
+639,-2,-2,-2,,Out of scope.,3,0,True,True,True
+172,-2,-2,2,,,2,1,True,True,False
+1889,2,2,2,,,0,3,False,False,False
+1305,-2,-2,-2,,,3,0,True,True,True
+2202,-2,-2,-2,,Some of these terms may be out of scope.,3,0,True,True,True
+886,-2,-2,-1,,,3,0,True,True,True
+2168,-2,-2,-2,,Out of scope,3,0,True,True,True
+2075,-2,-2,-2,,"The conflation between ""method"" and ""result"" occurs frequently.",3,0,True,True,True
+1423,-2,-2,-2,,,3,0,True,True,True
+1118,2,2,2,,,0,3,False,False,False
+654,-2,-2,-2,,,3,0,True,True,True
+2175,-2,-2,-2,,,3,0,True,True,True
+2052,-2,-1,1,,,2,1,True,True,False
+1766,-2,-1,2,,,2,1,True,True,False
+2184,-2,-2,-2,,Out of scope.,3,0,True,True,True
+646,-2,-2,-2,,,3,0,True,True,True
+1413,-2,-2,2,,,2,1,True,True,False
+983,-2,-2,-2,,,3,0,True,True,True
+1988,-2,-2,-2,,,3,0,True,True,True
+1878,-2,-2,2,,,2,1,True,True,False
+22,-2,2,2,"regressor is called svr, so this cluster is ok, svm model is also called svm",,1,2,True,False,False
+34,2,2,2,,,0,3,False,False,False
+2182,-2,-2,-2,,"Genetics, out of scope.",3,0,True,True,True
+1414,-2,-2,-2,,,3,0,True,True,True
+1532,-2,-1,1,,,2,1,True,True,False
+2004,2,2,2,,,0,3,False,False,False
+1898,-2,-1,1,,,2,1,True,True,False
+523,-2,-2,-2,,,3,0,True,True,True
+30,-2,-2,2,,,2,1,True,True,False
+1174,-2,2,2,,,1,2,True,False,False
+1096,-2,-2,-2,,,3,0,True,True,True
+2174,-1,-2,-1,,Out of scope,3,0,True,True,True
+326,-2,-2,2,,,2,1,True,True,False
+426,-2,-2,1,,,2,1,True,True,False
+712,-2,2,2,,,1,2,True,False,False
+1057,2,2,2,,,0,3,False,False,False
+987,-2,-2,-1,,,3,0,True,True,True

@@ -1,0 +1,13 @@
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix cso: <http://cso.kmi.open.ac.uk/schema/cso#>
+
+insert {
+  ?main skos:altLabel ?otherLabel .
+}
+
+where {
+  ?main cso:preferentialEquivalent ?main ;
+        cso:relatedEquivalent ?other .
+  ?other rdfs:label ?otherLabel .
+}

@@ -1,0 +1,1014 @@
+[
+  {
+    "dbpedia": "http://dbpedia.org/resource/Academic_library",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/academic_libraries"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Vipera_berus",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/adder"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Ataxia_telangiectasia",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/ataxia-telangiectasia_mutated"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Bam_Margera",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/bam_neural_network"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Spruce_budworm",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/budworm"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Building_energy_simulation",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/building_simulation"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Cellular_manufacturing",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/cellular_manufacturing",
+      "https://cso.kmi.open.ac.uk/topics/manufacturing_cells",
+      "https://cso.kmi.open.ac.uk/topics/cellular_manufacturing_systems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Configuration_space",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/configuration_space"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Pieter_Cramer",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/cramer_rao_lower_bound"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Control_flow_graph",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/data_flow_graph"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Diamond_cutting",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/diamond_cutting_tools"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Deutsche_Presse-Agentur",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/dpa",
+      "https://cso.kmi.open.ac.uk/topics/dpa_attacks"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Armenian_dram",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/dram"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Terminal_dwell_time",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/dwell_time"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Emptiness",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/emptiness_problem"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Endemism",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/endemic_equilibrium"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Endmember",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/endmembers",
+      "https://cso.kmi.open.ac.uk/topics/endmember_extraction"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Kuznets_curve",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/environmental_kuznets_curve"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Esprit_Holdings",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/esprit",
+      "https://cso.kmi.open.ac.uk/topics/esprit_algorithm"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Shooting_sport",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/first_person_shooter"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Floating_Points",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/floating_points"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Fourier_transform_spectroscopy",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/fourier_transform_spectrometers"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Order_of_reaction",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/fractional_order"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Divine_grace",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/grace"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Grid_Systems_Corporation",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/grid_systems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Hand_model",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/hand_model"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Helmet",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/helmet_mounted_displays"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Ica_Region",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/ica_algorithms"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Kalua",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/imu"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Industrial_management",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/industrial_management"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/International",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/international_telecommunications"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Backpack",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/knapsack_problems",
+      "https://cso.kmi.open.ac.uk/topics/0%2F1_knapsack_problems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Lane",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/lane_markings"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Linear_time-invariant_theory",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/linear_time_invariant_systems",
+      "https://cso.kmi.open.ac.uk/topics/linear_time-invariant_system"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Weight_transfer",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/load_transfer"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Asteroid_family",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/mis_devices"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Mobile_application_development",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/mobile_application_development"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Mobile_service",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/mobile_service"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Ship_model_basin",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/model_tests"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Micro-Opto-Electro-Mechanical_Systems",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/moems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Metalorganic_vapour_phase_epitaxy",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/movpe"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Bargaining_problem",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/nash_bargaining_solution"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Hypodermic_needle",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/needle_insertion"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Ode",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/ode"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Sierra_Entertainment",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/online_systems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Church_of_South_India",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/partial_csi",
+      "https://cso.kmi.open.ac.uk/topics/csi",
+      "https://cso.kmi.open.ac.uk/topics/csi_feedback",
+      "https://cso.kmi.open.ac.uk/topics/imperfect_csi"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/PESQ",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/pesq"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Pharmacoeconomics",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/pharmacoeconomics"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Communist_Party_of_Indonesia",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/pki"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Physical_Medium_Dependent",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/pmd"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Queen's_Counsel",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/qc_ldpc_codes"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Rich_Internet_application",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/rich_internet_applications"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Rup_dialects",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/rup"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Smithsonian_American_Art_Museum",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/saam"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Special_drawing_rights",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/sdr"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Semantic_dementia",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/semantic_dementia"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Sequential_Circuits",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/sequential_circuits",
+      "https://cso.kmi.open.ac.uk/topics/synchronous_sequential_circuits"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Series-parallel_graph",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/series-parallel_graph"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Software_Projects",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/software_projects"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Samavesam_of_Telugu_Baptist_Churches",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/stbc"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Strain_energy_density_function",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/strain_energy_density"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Level_design",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/system_level_design"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/UMTS_(telecommunication)",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/td-scdma",
+      "https://cso.kmi.open.ac.uk/topics/td-scdma_systems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Eastman_Chemical_Company",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/tennessee_eastman_process"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Time-domain_reflectometry",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/time_domain_reflectometry",
+      "https://cso.kmi.open.ac.uk/topics/time_domain_reflectometry_%28tdr%29"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Trust_law",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/trust_evaluation",
+      "https://cso.kmi.open.ac.uk/topics/trust_relationship",
+      "https://cso.kmi.open.ac.uk/topics/trust_degree",
+      "https://cso.kmi.open.ac.uk/topics/trust_negotiations"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/UKF_Music",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/ukf"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Diver_communications",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/underwater_communication"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Variable-message_sign",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/variable_message_signs"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Vehicle-to-vehicle",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/vehicle-to-vehicle_communication",
+      "https://cso.kmi.open.ac.uk/topics/v2v_communications",
+      "https://cso.kmi.open.ac.uk/topics/v2v"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/List_of_Virtual_Boy_games",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/virtual_lab"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Von_Mises_yield_criterion",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/von_mises_stress"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Visuddhimagga",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/vsm"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Drainage_divide",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/water-shed_algorithm"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Geostrophic_wind",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/geostrophic_flow"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Anticyclone",
+    "reason": "not connected",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/anticyclone"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Autonomous_cruise_control_system",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/adaptive_cruise_control"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Health_education",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/allied_health_education"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Automotive_engine",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/automotive_engine"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Buffer_solution",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/buffer_capacity"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Chief_financial_officer",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/cfo_estimation",
+      "https://cso.kmi.open.ac.uk/topics/cfo"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Shanghai_Stock_Exchange",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/chinese_stock_market"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Commercial_bank",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/commercial_bank"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Speeds_and_feeds",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/cutting_speed",
+      "https://cso.kmi.open.ac.uk/topics/spindle_speed"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Darwin,_Northern_Territory",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/darwin"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/DFA_Records",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/dfa"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Distributed_power",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/distributed_power_control"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Ocular_dominance",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/dominance%2C_ocular"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/ECM_Records",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/ecm_proteins"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Electronic_packaging",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/electronic_packaging"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Energy_market",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/energy_market"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Enterprise_2.0",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/enterprise_2.0"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Enterprise_system",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/enterprise_systems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Expected_return",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/expected_return"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Fluidized_bed_combustion",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/fluidized_bed_combustion"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Free_rider_problem",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/free-riding",
+      "https://cso.kmi.open.ac.uk/topics/free_riding"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Graphology",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/handwriting_analysis"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Heavy_crude_oil",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/heavy_oil_production"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Hitting_time",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/hitting_time"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Human_computer",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/human_computer_interaction",
+      "https://cso.kmi.open.ac.uk/topics/human_computer_interfaces",
+      "https://cso.kmi.open.ac.uk/topics/human_computer_interface"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Winter_Music_Conference",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/idma"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Interactive_visualization",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/interactive_visualization"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Isar",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/isar",
+      "https://cso.kmi.open.ac.uk/topics/isar_imaging",
+      "https://cso.kmi.open.ac.uk/topics/isar_images"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Knowledge_building",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/knowledge_building"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Koala",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/koala"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Land_mine",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/landmine_detection"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Machine_Translations",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/machine_translations"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Market_power",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/market_power"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Maxwell_(unit)",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/maxwell_equations"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Mesoscale_meteorology",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/mesoscale_eddy",
+      "https://cso.kmi.open.ac.uk/topics/mesoscale_eddies"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Meteosat",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/meteosat"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Metro_Networks",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/metro_networks"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Mobile_Web",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/mobile_web",
+      "https://cso.kmi.open.ac.uk/topics/mobile_internet"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Motor_imagery",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/motor_imagery"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Genderqueer",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/non-binary",
+      "https://cso.kmi.open.ac.uk/topics/non-binary_ldpc_codes"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Dominating_decision_rule",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/nondominated_solutions"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Metric_map",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/nonexpansive_mappings",
+      "https://cso.kmi.open.ac.uk/topics/nonexpansive_mapping"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Perfusion",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/perfusion_weighted_imaging"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Preceptor",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/preceptorship"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Queueing_Systems",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/queueing_systems"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Rare_earth_element",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/rare_earth_ions",
+      "https://cso.kmi.open.ac.uk/topics/rare_earth_doped"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Helicopter_flight_controls",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/rate_controls"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Resource-based_view",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/resource-based_view"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Revenue_sharing",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/revenue_sharing_contracts"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Scale_factor",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/scale_factor"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/SERVQUAL",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/servqual"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Suction_cup",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/suction_cup"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Teaching_method",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/teaching_method"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Prospecting",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/telluric_prospecting"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Torque_ripple",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/torque_ripple"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Virtual_Laboratory",
+    "reason": "not connected after bridge removal",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/virtual_laboratory"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Offset_printing",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/offset_printing"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Color_printing",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/color_printing"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Coated_paper",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/paper_coating"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Tacit_knowledge",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/tacit_knowledge"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Knowledge_sharing",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/knowledge_sharing",
+      "https://cso.kmi.open.ac.uk/topics/architectural_knowledge_sharing"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Explicit_knowledge",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/explicit_knowledge"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Learning_organization",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/learning_organizations",
+      "https://cso.kmi.open.ac.uk/topics/learning_organization"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Organizational_memory",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/organizational_memory"
+    ]
+  },
+  {
+    "dbpedia": "http://dbpedia.org/resource/Organizational_learning",
+    "reason": "community",
+    "cso_topics": [
+      "https://cso.kmi.open.ac.uk/topics/organizational_learning"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+- prop: http://www.geneontology.org/formats/oboInOwl#source
+  comment: mostly literals, some URIs, investigate
+
+- prop: http://purl.obolibrary.org/obo/IAO_0100001
+  comment: mostly uris
+
+- prop: http://www.geneontology.org/formats/oboInOwl#inSubset
+  comment: mostly uris
+
+- prop: http://www.geneontology.org/formats/oboInOwl#created_by
+  comment: mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000117
+  comment: mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000412
+  comment: mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000119
+  comment: mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000233
+  comment: mostly literals
+
+- prop: http://www.geneontology.org/formats/oboInOwl#hasExactSynonym
+  comment: mostly literals, probably should be literal
+
+- prop: http://purl.obolibrary.org/obo/RO_0002175
+  comment: mostly uris
+
+- prop: http://www.w3.org/2000/01/rdf-schema#comment
+  comment: should be literal
+
+- prop: http://schema.org/image
+  comment: should be uris -- `This can be a URL or a fully described ImageObject.`
+
+- prop: http://xmlns.com/foaf/0.1/homepage
+  comment: should be foaf:Document
+
+- prop: http://www.geneontology.org/formats/oboInOwl#hasScope
+  comment: mostly literals
+
+- prop: http://purl.obolibrary.org/obo/UBPROP_0000006
+  comment: mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000115
+  comment: v. mostly literals
+
+- prop: http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym
+  comment: v. mostly literals
+
+- prop: http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym
+  comment: v. mostly literals
+
+- prop: http://xmlns.com/foaf/0.1/page
+  comment: should be foaf:Document
+
+- prop: http://www.geneontology.org/formats/oboInOwl#consider
+  comment: v. mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000231
+  comment: v. mostly uris
+
+- prop: http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym
+  comment: v. mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000112
+  comment: v. mostly literals
+
+- prop: http://purl.org/spar/cito/citesAsAuthority
+  comment: mostly uris
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000232
+  comment: mostly literals
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000600
+  comment: v. mostly literals
+
+- prop: http://www.geneontology.org/formats/oboInOwl#hasSynonymType
+  comment: v. mostly uris
+
+- prop: http://purl.obolibrary.org/obo/IAO_0000114
+  comment: v. mostly uris

@@ -1,0 +1,57 @@
+[
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/po#German",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/po#Japanese",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/po#Spanish",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/fbbt#systematic_synonym",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/go#systematic_synonym",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/gaz#ABBREVIATION",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/gaz#COLLOQUIAL_NAME",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/gaz#FORMAL_NAME",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/gaz#FORMER_NAME",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/gaz#LAPSUS",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasScope",
+		"s": "http://purl.obolibrary.org/obo/gaz#SPELLING_VARIANT",
+		"o": "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"
+	}
+]

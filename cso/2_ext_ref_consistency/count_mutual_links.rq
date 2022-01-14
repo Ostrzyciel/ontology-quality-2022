@@ -1,0 +1,31 @@
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+PREFIX cso: <http://cso.kmi.open.ac.uk/schema/cso#>
+PREFIX topic: <https://cso.kmi.open.ac.uk/topics/>
+
+PREFIX dbo: <http://dbpedia.org/ontology/>
+
+PREFIX tmp: <https://localhost/cso_dbp/>
+
+
+SELECT 
+    (GROUP_CONCAT(DISTINCT ?cso_topic ; separator=' ') as ?cso_topics)
+    ?dbpedia 
+    (COUNT(DISTINCT ?other) as ?linkCount)
+    (GROUP_CONCAT(DISTINCT ?other ; separator=' || ') as ?others)
+WHERE {
+    ?cso owl:sameAs ?dbpedia .
+    ?dbpedia tmp:usedInCSO true .
+
+    OPTIONAL {
+        ?dbpedia dbo:wikiPageWikiLink|^dbo:wikiPageWikiLink ?other .
+        ?other tmp:usedInCSO true .
+        FILTER(?dbpedia != ?other)
+    }
+
+    BIND(SUBSTR(STR(?cso), STRLEN('https://cso.kmi.open.ac.uk/topics/') + 1) as ?cso_topic)
+}
+GROUP BY ?dbpedia
+ORDER BY ?linkCount

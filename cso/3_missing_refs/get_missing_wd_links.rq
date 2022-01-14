@@ -1,0 +1,28 @@
+# RUN THIS ON THE DBPEDIA ENDPOINT
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+PREFIX dbo: <http://dbpedia.org/ontology/>
+
+SELECT *
+where {
+    VALUES ?item {
+        <http://dbpedia.org/resource/Natural-language_processing>
+        <http://dbpedia.org/resource/Natural-language_user_interface>
+        <http://dbpedia.org/resource/Multi-hop_routing>
+        <http://dbpedia.org/resource/Carrier-sense_multiple_access>
+        <http://dbpedia.org/resource/Single-carrier_FDMA>
+        <http://dbpedia.org/resource/Two-dimensional_conformal_field_theory>
+        <http://dbpedia.org/resource/Pulse-amplitude_modulation>
+        <http://dbpedia.org/resource/Inverse_synthetic-aperture_radar>
+        <http://dbpedia.org/resource/Interferometric_synthetic-aperture_radar>
+        <http://dbpedia.org/resource/Cache_prefetching>
+        <http://dbpedia.org/resource/Level-set_method>
+        <http://dbpedia.org/resource/Statistical_time-division_multiplexing>
+        <http://dbpedia.org/resource/Glossary_of_graph_theory_terms>
+    }
+
+    ?item dbo:wikiPageRedirects* ?redirTarget .
+    ?redirTarget owl:sameAs ?wd .
+    FILTER(STRSTARTS(STR(?wd), 'http://www.wikidata.org/'))
+}

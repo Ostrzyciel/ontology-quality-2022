@@ -1,0 +1,22 @@
+[
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0018991",
+		"o": "t37717"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0018991",
+		"o": "t37821"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0018991",
+		"o": "t38006"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0018991",
+		"o": "t38747"
+	}
+]

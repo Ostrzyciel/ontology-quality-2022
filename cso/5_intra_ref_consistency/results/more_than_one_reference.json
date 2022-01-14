@@ -1,0 +1,2078 @@
+[
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/human-computer_interaction",
+      "https://cso.kmi.open.ac.uk/topics/human_computer_interaction"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Human\u2013computer_interaction": [
+        "https://cso.kmi.open.ac.uk/topics/human-computer_interaction"
+      ],
+      "http://dbpedia.org/resource/Human_computer": [
+        "https://cso.kmi.open.ac.uk/topics/human_computer_interaction"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/binary_classifiers",
+      "https://cso.kmi.open.ac.uk/topics/binary_classification"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Binary_number": [
+        "https://cso.kmi.open.ac.uk/topics/binary_classifiers"
+      ],
+      "http://dbpedia.org/resource/Binary_classification": [
+        "https://cso.kmi.open.ac.uk/topics/binary_classification"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/feedforward_neural_network",
+      "https://cso.kmi.open.ac.uk/topics/feedforward_neural_networks"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Artificial_neural_network": [
+        "https://cso.kmi.open.ac.uk/topics/feedforward_neural_network"
+      ],
+      "http://dbpedia.org/resource/Feedforward_neural_network": [
+        "https://cso.kmi.open.ac.uk/topics/feedforward_neural_networks"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/bayesian_network",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_methods",
+      "https://cso.kmi.open.ac.uk/topics/bayesian",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_models",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_model",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_networks",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_method",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_approach",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_frameworks",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_approaches",
+      "https://cso.kmi.open.ac.uk/topics/bayesian_framework"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Bayesian_network": [
+        "https://cso.kmi.open.ac.uk/topics/bayesian_networks",
+        "https://cso.kmi.open.ac.uk/topics/bayesian_network"
+      ],
+      "http://dbpedia.org/resource/Bayesian_inference": [
+        "https://cso.kmi.open.ac.uk/topics/bayesian_method"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/ontology_matching",
+      "https://cso.kmi.open.ac.uk/topics/ontology_alignment",
+      "https://cso.kmi.open.ac.uk/topics/ontology_mapping"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Ontology_alignment": [
+        "https://cso.kmi.open.ac.uk/topics/ontology_matching",
+        "https://cso.kmi.open.ac.uk/topics/ontology_alignment"
+      ],
+      "http://dbpedia.org/resource/Ontology": [
+        "https://cso.kmi.open.ac.uk/topics/ontology_mapping"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/cognitive_model",
+      "https://cso.kmi.open.ac.uk/topics/cognitive_modeling",
+      "https://cso.kmi.open.ac.uk/topics/cognitive_modelling",
+      "https://cso.kmi.open.ac.uk/topics/cognitive_models"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Cognitive_model": [
+        "https://cso.kmi.open.ac.uk/topics/cognitive_model",
+        "https://cso.kmi.open.ac.uk/topics/cognitive_modeling",
+        "https://cso.kmi.open.ac.uk/topics/cognitive_modelling"
+      ],
+      "http://dbpedia.org/resource/Cognition": [
+        "https://cso.kmi.open.ac.uk/topics/cognitive_models"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/decision_rule",
+      "https://cso.kmi.open.ac.uk/topics/decision_tables",
+      "https://cso.kmi.open.ac.uk/topics/decision_table",
+      "https://cso.kmi.open.ac.uk/topics/decision_rules"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Decision_rule": [
+        "https://cso.kmi.open.ac.uk/topics/decision_rule"
+      ],
+      "http://dbpedia.org/resource/Decision_table": [
+        "https://cso.kmi.open.ac.uk/topics/decision_tables",
+        "https://cso.kmi.open.ac.uk/topics/decision_table"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/pushdown_automata",
+      "https://cso.kmi.open.ac.uk/topics/push-down_automata"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Pushdown_automaton": [
+        "https://cso.kmi.open.ac.uk/topics/pushdown_automata"
+      ],
+      "http://dbpedia.org/resource/Automaton": [
+        "https://cso.kmi.open.ac.uk/topics/push-down_automata"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/femto-second_laser",
+      "https://cso.kmi.open.ac.uk/topics/femtosecond_laser"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Laser": [
+        "https://cso.kmi.open.ac.uk/topics/femto-second_laser"
+      ],
+      "http://dbpedia.org/resource/Mode-locking": [
+        "https://cso.kmi.open.ac.uk/topics/femtosecond_laser"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/lyapunov_exponents",
+      "https://cso.kmi.open.ac.uk/topics/lyapunov_exponent"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Aleksandr_Lyapunov": [
+        "https://cso.kmi.open.ac.uk/topics/lyapunov_exponents"
+      ],
+      "http://dbpedia.org/resource/Lyapunov_exponent": [
+        "https://cso.kmi.open.ac.uk/topics/lyapunov_exponent"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/machine_translation_systems",
+      "https://cso.kmi.open.ac.uk/topics/machine_translation",
+      "https://cso.kmi.open.ac.uk/topics/machine_translations"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Machine_translation": [
+        "https://cso.kmi.open.ac.uk/topics/machine_translation_systems",
+        "https://cso.kmi.open.ac.uk/topics/machine_translation"
+      ],
+      "http://dbpedia.org/resource/Machine_Translations": [
+        "https://cso.kmi.open.ac.uk/topics/machine_translations"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/natural_language_interfaces",
+      "https://cso.kmi.open.ac.uk/topics/natural_language_interface"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Natural-language_user_interface": [
+        "https://cso.kmi.open.ac.uk/topics/natural_language_interfaces"
+      ],
+      "http://dbpedia.org/resource/Natural_language": [
+        "https://cso.kmi.open.ac.uk/topics/natural_language_interface"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/semantic_features",
+      "https://cso.kmi.open.ac.uk/topics/semantic_relationships",
+      "https://cso.kmi.open.ac.uk/topics/semantic_annotation",
+      "https://cso.kmi.open.ac.uk/topics/semantic_annotations",
+      "https://cso.kmi.open.ac.uk/topics/semantic_relations",
+      "https://cso.kmi.open.ac.uk/topics/semantic_information",
+      "https://cso.kmi.open.ac.uk/topics/semantic_analysis"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Annotation": [
+        "https://cso.kmi.open.ac.uk/topics/semantic_annotation"
+      ],
+      "http://dbpedia.org/resource/Semantics": [
+        "https://cso.kmi.open.ac.uk/topics/semantic_annotations"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/semantic_web_applications",
+      "https://cso.kmi.open.ac.uk/topics/semantic_web_technology",
+      "https://cso.kmi.open.ac.uk/topics/semantic_web_technologies",
+      "https://cso.kmi.open.ac.uk/topics/semantic_web",
+      "https://cso.kmi.open.ac.uk/topics/semantic_technologies",
+      "https://cso.kmi.open.ac.uk/topics/semantic_technology"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Semantic_Web": [
+        "https://cso.kmi.open.ac.uk/topics/semantic_web_applications",
+        "https://cso.kmi.open.ac.uk/topics/semantic_web",
+        "https://cso.kmi.open.ac.uk/topics/semantic_web_technology",
+        "https://cso.kmi.open.ac.uk/topics/semantic_web_technologies"
+      ],
+      "http://dbpedia.org/resource/Semantics": [
+        "https://cso.kmi.open.ac.uk/topics/semantic_technologies"
+      ],
+      "http://dbpedia.org/resource/Semantic_technology": [
+        "https://cso.kmi.open.ac.uk/topics/semantic_technology"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/web_services_discovery",
+      "https://cso.kmi.open.ac.uk/topics/web_service_discovery"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Web_Services_Discovery": [
+        "https://cso.kmi.open.ac.uk/topics/web_services_discovery"
+      ],
+      "http://dbpedia.org/resource/Web_service": [
+        "https://cso.kmi.open.ac.uk/topics/web_service_discovery"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/graph_transformation",
+      "https://cso.kmi.open.ac.uk/topics/graph_transformations"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Graph_rewriting": [
+        "https://cso.kmi.open.ac.uk/topics/graph_transformation"
+      ],
+      "http://dbpedia.org/resource/Graph_theory": [
+        "https://cso.kmi.open.ac.uk/topics/graph_transformations"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/platform-independent_model",
+      "https://cso.kmi.open.ac.uk/topics/platform_independent_model"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Platform-independent_model": [
+        "https://cso.kmi.open.ac.uk/topics/platform-independent_model"
+      ],
+      "http://dbpedia.org/resource/Cross-platform": [
+        "https://cso.kmi.open.ac.uk/topics/platform_independent_model"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/uml_profiles",
+      "https://cso.kmi.open.ac.uk/topics/uml_profile"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Profile_(UML)": [
+        "https://cso.kmi.open.ac.uk/topics/uml_profiles"
+      ],
+      "http://dbpedia.org/resource/Unified_Modeling_Language": [
+        "https://cso.kmi.open.ac.uk/topics/uml_profile"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/real-time_operating_systems",
+      "https://cso.kmi.open.ac.uk/topics/real-time_operating_system",
+      "https://cso.kmi.open.ac.uk/topics/real_time_operating_system"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Real-time_computing": [
+        "https://cso.kmi.open.ac.uk/topics/real-time_operating_systems"
+      ],
+      "http://dbpedia.org/resource/Real-time_operating_system": [
+        "https://cso.kmi.open.ac.uk/topics/real-time_operating_system",
+        "https://cso.kmi.open.ac.uk/topics/real_time_operating_system"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/microphone_arrays",
+      "https://cso.kmi.open.ac.uk/topics/microphone_array"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Microphone": [
+        "https://cso.kmi.open.ac.uk/topics/microphone_arrays"
+      ],
+      "http://dbpedia.org/resource/Microphone_array": [
+        "https://cso.kmi.open.ac.uk/topics/microphone_array"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/fusion_rules",
+      "https://cso.kmi.open.ac.uk/topics/fusion_rule"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Two-dimensional_conformal_field_theory": [
+        "https://cso.kmi.open.ac.uk/topics/fusion_rules"
+      ],
+      "http://dbpedia.org/resource/Nuclear_fusion": [
+        "https://cso.kmi.open.ac.uk/topics/fusion_rule"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/channel_utilization",
+      "https://cso.kmi.open.ac.uk/topics/channel_access"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Throughput": [
+        "https://cso.kmi.open.ac.uk/topics/channel_utilization"
+      ],
+      "http://dbpedia.org/resource/Channel_access_method": [
+        "https://cso.kmi.open.ac.uk/topics/channel_access"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/ieee_802.11_standards",
+      "https://cso.kmi.open.ac.uk/topics/ieee_802.11s",
+      "https://cso.kmi.open.ac.uk/topics/ieee_802.11"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/IEEE_802.11s": [
+        "https://cso.kmi.open.ac.uk/topics/ieee_802.11s"
+      ],
+      "http://dbpedia.org/resource/IEEE_802.11": [
+        "https://cso.kmi.open.ac.uk/topics/ieee_802.11"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/spectrum_usage",
+      "https://cso.kmi.open.ac.uk/topics/spectrum_utilization",
+      "https://cso.kmi.open.ac.uk/topics/spectrum_allocation",
+      "https://cso.kmi.open.ac.uk/topics/spectrum_sharing",
+      "https://cso.kmi.open.ac.uk/topics/spectrum_bands",
+      "https://cso.kmi.open.ac.uk/topics/spectrum_holes",
+      "https://cso.kmi.open.ac.uk/topics/spectrum_management"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Spectrum": [
+        "https://cso.kmi.open.ac.uk/topics/spectrum_utilization",
+        "https://cso.kmi.open.ac.uk/topics/spectrum_holes"
+      ],
+      "http://dbpedia.org/resource/Spectrum_management": [
+        "https://cso.kmi.open.ac.uk/topics/spectrum_management"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/broadband_wireless_accesss",
+      "https://cso.kmi.open.ac.uk/topics/broadband_wireless_access"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Broadband": [
+        "https://cso.kmi.open.ac.uk/topics/broadband_wireless_accesss"
+      ],
+      "http://dbpedia.org/resource/Wireless_broadband": [
+        "https://cso.kmi.open.ac.uk/topics/broadband_wireless_access"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/ip_multimedia_subsystems",
+      "https://cso.kmi.open.ac.uk/topics/ip_multimedia_subsystem_%28ims%29",
+      "https://cso.kmi.open.ac.uk/topics/ip_multimedia_subsystem"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Multimedia": [
+        "https://cso.kmi.open.ac.uk/topics/ip_multimedia_subsystems"
+      ],
+      "http://dbpedia.org/resource/IP_Multimedia_Subsystem": [
+        "https://cso.kmi.open.ac.uk/topics/ip_multimedia_subsystem_%28ims%29",
+        "https://cso.kmi.open.ac.uk/topics/ip_multimedia_subsystem"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/communication_protocols",
+      "https://cso.kmi.open.ac.uk/topics/communication_protocol"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Communication": [
+        "https://cso.kmi.open.ac.uk/topics/communication_protocols"
+      ],
+      "http://dbpedia.org/resource/Communications_protocol": [
+        "https://cso.kmi.open.ac.uk/topics/communication_protocol"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/frequency-domain_equalization",
+      "https://cso.kmi.open.ac.uk/topics/frequency_domain_equalization"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Single-carrier_FDMA": [
+        "https://cso.kmi.open.ac.uk/topics/frequency-domain_equalization"
+      ],
+      "http://dbpedia.org/resource/Frequency_domain": [
+        "https://cso.kmi.open.ac.uk/topics/frequency_domain_equalization"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/fuzzy_inference_systems",
+      "https://cso.kmi.open.ac.uk/topics/fuzzy_inference_system_%28fis%29",
+      "https://cso.kmi.open.ac.uk/topics/fuzzy_inference_system"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Inference": [
+        "https://cso.kmi.open.ac.uk/topics/fuzzy_inference_systems"
+      ],
+      "http://dbpedia.org/resource/Inference_engine": [
+        "https://cso.kmi.open.ac.uk/topics/fuzzy_inference_system_%28fis%29",
+        "https://cso.kmi.open.ac.uk/topics/fuzzy_inference_system"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/business_process_management",
+      "https://cso.kmi.open.ac.uk/topics/business_process_management_%28bpm%29"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Business_process": [
+        "https://cso.kmi.open.ac.uk/topics/business_process_management"
+      ],
+      "http://dbpedia.org/resource/Business_process_management": [
+        "https://cso.kmi.open.ac.uk/topics/business_process_management_%28bpm%29"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/agile",
+      "https://cso.kmi.open.ac.uk/topics/extreme_programming",
+      "https://cso.kmi.open.ac.uk/topics/agile_development",
+      "https://cso.kmi.open.ac.uk/topics/agile_methods"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Extreme_programming": [
+        "https://cso.kmi.open.ac.uk/topics/extreme_programming"
+      ],
+      "http://dbpedia.org/resource/Agile_software_development": [
+        "https://cso.kmi.open.ac.uk/topics/agile_methods",
+        "https://cso.kmi.open.ac.uk/topics/agile_development"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/stock_market",
+      "https://cso.kmi.open.ac.uk/topics/stock_markets"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Stock_market": [
+        "https://cso.kmi.open.ac.uk/topics/stock_market"
+      ],
+      "http://dbpedia.org/resource/Stock": [
+        "https://cso.kmi.open.ac.uk/topics/stock_markets"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/markov_chain_monte_carlo",
+      "https://cso.kmi.open.ac.uk/topics/markov_chain_monte-carlo",
+      "https://cso.kmi.open.ac.uk/topics/markov_chain_monte_carlo_%28mcmc%29"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Markov_chain_Monte_Carlo": [
+        "https://cso.kmi.open.ac.uk/topics/markov_chain_monte_carlo",
+        "https://cso.kmi.open.ac.uk/topics/markov_chain_monte_carlo_%28mcmc%29"
+      ],
+      "http://dbpedia.org/resource/Markov_chain": [
+        "https://cso.kmi.open.ac.uk/topics/markov_chain_monte-carlo"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/back_propagation_neural_networks",
+      "https://cso.kmi.open.ac.uk/topics/artificial_neural_networks",
+      "https://cso.kmi.open.ac.uk/topics/neural_network_model",
+      "https://cso.kmi.open.ac.uk/topics/neural_networks",
+      "https://cso.kmi.open.ac.uk/topics/back-propagation_neural_networks",
+      "https://cso.kmi.open.ac.uk/topics/back-propagation_neural_network",
+      "https://cso.kmi.open.ac.uk/topics/artificial_neural_network",
+      "https://cso.kmi.open.ac.uk/topics/neural_network"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Artificial_neural_network": [
+        "https://cso.kmi.open.ac.uk/topics/neural_network",
+        "https://cso.kmi.open.ac.uk/topics/artificial_neural_networks",
+        "https://cso.kmi.open.ac.uk/topics/neural_network_model",
+        "https://cso.kmi.open.ac.uk/topics/artificial_neural_network"
+      ],
+      "http://dbpedia.org/resource/Backpropagation": [
+        "https://cso.kmi.open.ac.uk/topics/back-propagation_neural_networks",
+        "https://cso.kmi.open.ac.uk/topics/back-propagation_neural_network"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/rbf_neural_networks",
+      "https://cso.kmi.open.ac.uk/topics/radial_basis_function_neural_networks",
+      "https://cso.kmi.open.ac.uk/topics/radial_basis",
+      "https://cso.kmi.open.ac.uk/topics/rbf_neural_network",
+      "https://cso.kmi.open.ac.uk/topics/radial_basis_functions",
+      "https://cso.kmi.open.ac.uk/topics/radial_basis_function%28rbf%29",
+      "https://cso.kmi.open.ac.uk/topics/radial_basis_function",
+      "https://cso.kmi.open.ac.uk/topics/radial_basis_function_neural_network",
+      "https://cso.kmi.open.ac.uk/topics/rbfnn",
+      "https://cso.kmi.open.ac.uk/topics/rbf"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Artificial_neural_network": [
+        "https://cso.kmi.open.ac.uk/topics/rbf_neural_networks",
+        "https://cso.kmi.open.ac.uk/topics/rbf_neural_network"
+      ],
+      "http://dbpedia.org/resource/Radial_basis_function_network": [
+        "https://cso.kmi.open.ac.uk/topics/radial_basis_function_neural_networks",
+        "https://cso.kmi.open.ac.uk/topics/radial_basis",
+        "https://cso.kmi.open.ac.uk/topics/radial_basis_function%28rbf%29",
+        "https://cso.kmi.open.ac.uk/topics/radial_basis_function",
+        "https://cso.kmi.open.ac.uk/topics/radial_basis_function_neural_network",
+        "https://cso.kmi.open.ac.uk/topics/radial_basis_functions"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/knapsack_problem",
+      "https://cso.kmi.open.ac.uk/topics/knapsack_problems",
+      "https://cso.kmi.open.ac.uk/topics/0-1_knapsack_problem"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Knapsack_problem": [
+        "https://cso.kmi.open.ac.uk/topics/knapsack_problem",
+        "https://cso.kmi.open.ac.uk/topics/0-1_knapsack_problem"
+      ],
+      "http://dbpedia.org/resource/Backpack": [
+        "https://cso.kmi.open.ac.uk/topics/knapsack_problems"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/tabu_search_algorithm",
+      "https://cso.kmi.open.ac.uk/topics/tabu_search_algorithms"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Search_algorithm": [
+        "https://cso.kmi.open.ac.uk/topics/tabu_search_algorithm"
+      ],
+      "http://dbpedia.org/resource/Tabu_search": [
+        "https://cso.kmi.open.ac.uk/topics/tabu_search_algorithms"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/shack-hartmann_wavefront_sensors",
+      "https://cso.kmi.open.ac.uk/topics/wave_front_sensors"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Shack\u2013Hartmann_wavefront_sensor": [
+        "https://cso.kmi.open.ac.uk/topics/shack-hartmann_wavefront_sensors"
+      ],
+      "http://dbpedia.org/resource/Wavefront": [
+        "https://cso.kmi.open.ac.uk/topics/wave_front_sensors"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/ospf",
+      "https://cso.kmi.open.ac.uk/topics/open_shortest_path_first"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Open_Shortest_Path_First": [
+        "https://cso.kmi.open.ac.uk/topics/ospf"
+      ],
+      "http://dbpedia.org/resource/Shortest_path_problem": [
+        "https://cso.kmi.open.ac.uk/topics/open_shortest_path_first"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/non-linear_control",
+      "https://cso.kmi.open.ac.uk/topics/non_linear_control",
+      "https://cso.kmi.open.ac.uk/topics/nonlinear_control"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Nonlinear_system": [
+        "https://cso.kmi.open.ac.uk/topics/non-linear_control"
+      ],
+      "http://dbpedia.org/resource/Nonlinear_control": [
+        "https://cso.kmi.open.ac.uk/topics/nonlinear_control"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/takagi_sugeno_fuzzy_systems",
+      "https://cso.kmi.open.ac.uk/topics/takagi-sugeno_fuzzy_systems"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Fuzzy_control_system": [
+        "https://cso.kmi.open.ac.uk/topics/takagi_sugeno_fuzzy_systems"
+      ],
+      "http://dbpedia.org/resource/Fuzzy_logic": [
+        "https://cso.kmi.open.ac.uk/topics/takagi-sugeno_fuzzy_systems"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/state_feedback_controller",
+      "https://cso.kmi.open.ac.uk/topics/state_feedback_controllers",
+      "https://cso.kmi.open.ac.uk/topics/state-feedback_controllers"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Control_theory": [
+        "https://cso.kmi.open.ac.uk/topics/state_feedback_controller"
+      ],
+      "http://dbpedia.org/resource/PID_controller": [
+        "https://cso.kmi.open.ac.uk/topics/state_feedback_controllers"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/betweenness_centrality",
+      "https://cso.kmi.open.ac.uk/topics/betweenness"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Betweenness_centrality": [
+        "https://cso.kmi.open.ac.uk/topics/betweenness_centrality"
+      ],
+      "http://dbpedia.org/resource/Centrality": [
+        "https://cso.kmi.open.ac.uk/topics/betweenness"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/rup",
+      "https://cso.kmi.open.ac.uk/topics/rational_unified_process"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Rup_dialects": [
+        "https://cso.kmi.open.ac.uk/topics/rup"
+      ],
+      "http://dbpedia.org/resource/Rational_Unified_Process": [
+        "https://cso.kmi.open.ac.uk/topics/rational_unified_process"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/space_time_coding",
+      "https://cso.kmi.open.ac.uk/topics/space_time_codes",
+      "https://cso.kmi.open.ac.uk/topics/space-time_codes",
+      "https://cso.kmi.open.ac.uk/topics/space_time_code",
+      "https://cso.kmi.open.ac.uk/topics/space-time_coding"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Spacetime": [
+        "https://cso.kmi.open.ac.uk/topics/space_time_code",
+        "https://cso.kmi.open.ac.uk/topics/space_time_coding",
+        "https://cso.kmi.open.ac.uk/topics/space_time_codes",
+        "https://cso.kmi.open.ac.uk/topics/space-time_codes"
+      ],
+      "http://dbpedia.org/resource/Space\u2013time_code": [
+        "https://cso.kmi.open.ac.uk/topics/space-time_coding"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/satellite_systems",
+      "https://cso.kmi.open.ac.uk/topics/satellite_system"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Satellite": [
+        "https://cso.kmi.open.ac.uk/topics/satellite_systems"
+      ],
+      "http://dbpedia.org/resource/Satellite_television": [
+        "https://cso.kmi.open.ac.uk/topics/satellite_system"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/intrinsic_mode_functions",
+      "https://cso.kmi.open.ac.uk/topics/emd",
+      "https://cso.kmi.open.ac.uk/topics/intrinsic_mode_function"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Hilbert\u2013Huang_transform": [
+        "https://cso.kmi.open.ac.uk/topics/intrinsic_mode_functions"
+      ],
+      "http://dbpedia.org/resource/Electro-Motive_Diesel": [
+        "https://cso.kmi.open.ac.uk/topics/emd"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/cell_phone",
+      "https://cso.kmi.open.ac.uk/topics/cell_phones"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Mobile_phone": [
+        "https://cso.kmi.open.ac.uk/topics/cell_phone"
+      ],
+      "http://dbpedia.org/resource/Cell_(biology)": [
+        "https://cso.kmi.open.ac.uk/topics/cell_phones"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/on-line_social_networks",
+      "https://cso.kmi.open.ac.uk/topics/online_social_network",
+      "https://cso.kmi.open.ac.uk/topics/online_social_networks_%28osns%29",
+      "https://cso.kmi.open.ac.uk/topics/online_social_networks"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Social_network": [
+        "https://cso.kmi.open.ac.uk/topics/on-line_social_networks",
+        "https://cso.kmi.open.ac.uk/topics/online_social_networks_%28osns%29",
+        "https://cso.kmi.open.ac.uk/topics/online_social_networks"
+      ],
+      "http://dbpedia.org/resource/Social_networking_service": [
+        "https://cso.kmi.open.ac.uk/topics/online_social_network"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/object-oriented_design",
+      "https://cso.kmi.open.ac.uk/topics/object_oriented_design"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Object-oriented_design": [
+        "https://cso.kmi.open.ac.uk/topics/object-oriented_design"
+      ],
+      "http://dbpedia.org/resource/Object-oriented_programming": [
+        "https://cso.kmi.open.ac.uk/topics/object_oriented_design"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/usability_evaluation",
+      "https://cso.kmi.open.ac.uk/topics/usability_testing"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Usability": [
+        "https://cso.kmi.open.ac.uk/topics/usability_evaluation"
+      ],
+      "http://dbpedia.org/resource/Usability_testing": [
+        "https://cso.kmi.open.ac.uk/topics/usability_testing"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/software_process",
+      "https://cso.kmi.open.ac.uk/topics/software_project",
+      "https://cso.kmi.open.ac.uk/topics/software_processes",
+      "https://cso.kmi.open.ac.uk/topics/software_projects",
+      "https://cso.kmi.open.ac.uk/topics/software_products"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Software_development_process": [
+        "https://cso.kmi.open.ac.uk/topics/software_process"
+      ],
+      "http://dbpedia.org/resource/Software_Projects": [
+        "https://cso.kmi.open.ac.uk/topics/software_projects"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/byzantine_fault_tolerance",
+      "https://cso.kmi.open.ac.uk/topics/byzantine_fault"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Byzantine_fault_tolerance": [
+        "https://cso.kmi.open.ac.uk/topics/byzantine_fault_tolerance"
+      ],
+      "http://dbpedia.org/resource/Byzantine_Empire": [
+        "https://cso.kmi.open.ac.uk/topics/byzantine_fault"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/architectural_style",
+      "https://cso.kmi.open.ac.uk/topics/architectural_patterns",
+      "https://cso.kmi.open.ac.uk/topics/software_architecture_patterns",
+      "https://cso.kmi.open.ac.uk/topics/architectural_pattern",
+      "https://cso.kmi.open.ac.uk/topics/architectural_styles"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Architectural_style": [
+        "https://cso.kmi.open.ac.uk/topics/architectural_style"
+      ],
+      "http://dbpedia.org/resource/Architectural_pattern": [
+        "https://cso.kmi.open.ac.uk/topics/architectural_patterns",
+        "https://cso.kmi.open.ac.uk/topics/architectural_pattern"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/java_virtual_machines",
+      "https://cso.kmi.open.ac.uk/topics/java_virtual_machine"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Virtual_machine": [
+        "https://cso.kmi.open.ac.uk/topics/java_virtual_machines"
+      ],
+      "http://dbpedia.org/resource/Java_virtual_machine": [
+        "https://cso.kmi.open.ac.uk/topics/java_virtual_machine"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/whiteboard",
+      "https://cso.kmi.open.ac.uk/topics/blackboard"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Whiteboard": [
+        "https://cso.kmi.open.ac.uk/topics/whiteboard"
+      ],
+      "http://dbpedia.org/resource/Blackboard": [
+        "https://cso.kmi.open.ac.uk/topics/blackboard"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/human_computer_interface",
+      "https://cso.kmi.open.ac.uk/topics/human-computer_interfaces",
+      "https://cso.kmi.open.ac.uk/topics/human-computer_interface",
+      "https://cso.kmi.open.ac.uk/topics/human_computer_interfaces"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Human_computer": [
+        "https://cso.kmi.open.ac.uk/topics/human_computer_interface",
+        "https://cso.kmi.open.ac.uk/topics/human_computer_interfaces"
+      ],
+      "http://dbpedia.org/resource/Human\u2013computer_interaction": [
+        "https://cso.kmi.open.ac.uk/topics/human-computer_interface"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/business_models",
+      "https://cso.kmi.open.ac.uk/topics/e-business_models",
+      "https://cso.kmi.open.ac.uk/topics/business_model"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Electronic_business": [
+        "https://cso.kmi.open.ac.uk/topics/e-business_models"
+      ],
+      "http://dbpedia.org/resource/Business_model": [
+        "https://cso.kmi.open.ac.uk/topics/business_model"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/learning_management_systems",
+      "https://cso.kmi.open.ac.uk/topics/learning_management_system"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Management_system": [
+        "https://cso.kmi.open.ac.uk/topics/learning_management_systems"
+      ],
+      "http://dbpedia.org/resource/Learning_management_system": [
+        "https://cso.kmi.open.ac.uk/topics/learning_management_system"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/semiconductor_optical_amplifier",
+      "https://cso.kmi.open.ac.uk/topics/semiconductor_optical_amplifier_%28soa%29",
+      "https://cso.kmi.open.ac.uk/topics/semiconductor_optical_amplifiers"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Optical_amplifier": [
+        "https://cso.kmi.open.ac.uk/topics/semiconductor_optical_amplifier",
+        "https://cso.kmi.open.ac.uk/topics/semiconductor_optical_amplifier_%28soa%29"
+      ],
+      "http://dbpedia.org/resource/Semiconductor": [
+        "https://cso.kmi.open.ac.uk/topics/semiconductor_optical_amplifiers"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/whispering_gallery_modes",
+      "https://cso.kmi.open.ac.uk/topics/whispering_gallery_mode"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Whispering_gallery": [
+        "https://cso.kmi.open.ac.uk/topics/whispering_gallery_modes"
+      ],
+      "http://dbpedia.org/resource/Whispering-gallery_wave": [
+        "https://cso.kmi.open.ac.uk/topics/whispering_gallery_mode"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/vertical-cavity_surface_emitting_laser",
+      "https://cso.kmi.open.ac.uk/topics/vertical_cavity_surface_emitting_laser"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Laser": [
+        "https://cso.kmi.open.ac.uk/topics/vertical-cavity_surface_emitting_laser"
+      ],
+      "http://dbpedia.org/resource/Vertical-cavity_surface-emitting_laser": [
+        "https://cso.kmi.open.ac.uk/topics/vertical_cavity_surface_emitting_laser"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/quantum_wells",
+      "https://cso.kmi.open.ac.uk/topics/quantum_well"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Quantum": [
+        "https://cso.kmi.open.ac.uk/topics/quantum_wells"
+      ],
+      "http://dbpedia.org/resource/Quantum_mechanics": [
+        "https://cso.kmi.open.ac.uk/topics/quantum_well"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/queueing_systems",
+      "https://cso.kmi.open.ac.uk/topics/queuing_system",
+      "https://cso.kmi.open.ac.uk/topics/queuing_systems",
+      "https://cso.kmi.open.ac.uk/topics/queuing_models",
+      "https://cso.kmi.open.ac.uk/topics/queueing_model",
+      "https://cso.kmi.open.ac.uk/topics/queuing_model",
+      "https://cso.kmi.open.ac.uk/topics/queueing_system",
+      "https://cso.kmi.open.ac.uk/topics/queueing_models"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Queueing_Systems": [
+        "https://cso.kmi.open.ac.uk/topics/queueing_systems"
+      ],
+      "http://dbpedia.org/resource/Queueing_theory": [
+        "https://cso.kmi.open.ac.uk/topics/queueing_system",
+        "https://cso.kmi.open.ac.uk/topics/queuing_systems",
+        "https://cso.kmi.open.ac.uk/topics/queueing_model"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/blind_signature",
+      "https://cso.kmi.open.ac.uk/topics/blind_signatures",
+      "https://cso.kmi.open.ac.uk/topics/blind_signature_scheme"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Blind_signature": [
+        "https://cso.kmi.open.ac.uk/topics/blind_signature",
+        "https://cso.kmi.open.ac.uk/topics/blind_signature_scheme"
+      ],
+      "http://dbpedia.org/resource/Visual_impairment": [
+        "https://cso.kmi.open.ac.uk/topics/blind_signatures"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/discrete_logarithm",
+      "https://cso.kmi.open.ac.uk/topics/discrete_logarithm_problem",
+      "https://cso.kmi.open.ac.uk/topics/discrete_logarithms",
+      "https://cso.kmi.open.ac.uk/topics/discrete_logarithm_problems"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Logarithm": [
+        "https://cso.kmi.open.ac.uk/topics/discrete_logarithm",
+        "https://cso.kmi.open.ac.uk/topics/discrete_logarithms",
+        "https://cso.kmi.open.ac.uk/topics/discrete_logarithm_problems"
+      ],
+      "http://dbpedia.org/resource/Discrete_logarithm": [
+        "https://cso.kmi.open.ac.uk/topics/discrete_logarithm_problem"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/database_management_system",
+      "https://cso.kmi.open.ac.uk/topics/data-base_management_systems",
+      "https://cso.kmi.open.ac.uk/topics/database_management_systems"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Database": [
+        "https://cso.kmi.open.ac.uk/topics/database_management_system"
+      ],
+      "http://dbpedia.org/resource/Management_system": [
+        "https://cso.kmi.open.ac.uk/topics/database_management_systems"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/snmp",
+      "https://cso.kmi.open.ac.uk/topics/simple_network_management_protocols"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Simple_Network_Management_Protocol": [
+        "https://cso.kmi.open.ac.uk/topics/snmp"
+      ],
+      "http://dbpedia.org/resource/Network_management": [
+        "https://cso.kmi.open.ac.uk/topics/simple_network_management_protocols"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/content_based_image_retrieval_%28cbir%29",
+      "https://cso.kmi.open.ac.uk/topics/content_based_image_retrieval",
+      "https://cso.kmi.open.ac.uk/topics/content-based_image_retrieval",
+      "https://cso.kmi.open.ac.uk/topics/content-based_image_retrieval_%28cbir%29",
+      "https://cso.kmi.open.ac.uk/topics/cbir",
+      "https://cso.kmi.open.ac.uk/topics/content-based_image_retrievals"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Image_retrieval": [
+        "https://cso.kmi.open.ac.uk/topics/content_based_image_retrieval"
+      ],
+      "http://dbpedia.org/resource/Content-based_image_retrieval": [
+        "https://cso.kmi.open.ac.uk/topics/content-based_image_retrieval_%28cbir%29",
+        "https://cso.kmi.open.ac.uk/topics/content-based_image_retrieval"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/bpel",
+      "https://cso.kmi.open.ac.uk/topics/business_process_execution_language",
+      "https://cso.kmi.open.ac.uk/topics/ws-bpel"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Business_Process_Execution_Language": [
+        "https://cso.kmi.open.ac.uk/topics/bpel",
+        "https://cso.kmi.open.ac.uk/topics/ws-bpel"
+      ],
+      "http://dbpedia.org/resource/Business_process": [
+        "https://cso.kmi.open.ac.uk/topics/business_process_execution_language"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/p2p_networks",
+      "https://cso.kmi.open.ac.uk/topics/peer-to-peer_network",
+      "https://cso.kmi.open.ac.uk/topics/peer_to_peer_networks",
+      "https://cso.kmi.open.ac.uk/topics/peer-to-peer_systems",
+      "https://cso.kmi.open.ac.uk/topics/peer_to_peer_%28p2p%29_network",
+      "https://cso.kmi.open.ac.uk/topics/p2p_system",
+      "https://cso.kmi.open.ac.uk/topics/peer-to-peer_%28p2p%29",
+      "https://cso.kmi.open.ac.uk/topics/peer-to-peer_networks",
+      "https://cso.kmi.open.ac.uk/topics/peer-to-peer_system",
+      "https://cso.kmi.open.ac.uk/topics/p2p_network",
+      "https://cso.kmi.open.ac.uk/topics/p2p",
+      "https://cso.kmi.open.ac.uk/topics/p2p_applications",
+      "https://cso.kmi.open.ac.uk/topics/peer-to-peer_technologies",
+      "https://cso.kmi.open.ac.uk/topics/peer_to_peer",
+      "https://cso.kmi.open.ac.uk/topics/p2p_systems",
+      "https://cso.kmi.open.ac.uk/topics/peer-to-peer"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Peer-to-peer": [
+        "https://cso.kmi.open.ac.uk/topics/peer-to-peer_network",
+        "https://cso.kmi.open.ac.uk/topics/peer_to_peer_%28p2p%29_network",
+        "https://cso.kmi.open.ac.uk/topics/peer-to-peer_networks",
+        "https://cso.kmi.open.ac.uk/topics/p2p",
+        "https://cso.kmi.open.ac.uk/topics/p2p_network"
+      ],
+      "http://dbpedia.org/resource/Social_peer-to-peer_processes": [
+        "https://cso.kmi.open.ac.uk/topics/p2p_system"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/fiber_amplifiers",
+      "https://cso.kmi.open.ac.uk/topics/fiber_amplifier"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Fiber": [
+        "https://cso.kmi.open.ac.uk/topics/fiber_amplifiers"
+      ],
+      "http://dbpedia.org/resource/Optical_amplifier": [
+        "https://cso.kmi.open.ac.uk/topics/fiber_amplifier"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/cooperative_games",
+      "https://cso.kmi.open.ac.uk/topics/cooperative_game_theory",
+      "https://cso.kmi.open.ac.uk/topics/cooperative_game"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Game_theory": [
+        "https://cso.kmi.open.ac.uk/topics/cooperative_game_theory"
+      ],
+      "http://dbpedia.org/resource/Cooperative_game_theory": [
+        "https://cso.kmi.open.ac.uk/topics/cooperative_game"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/skin_color_models",
+      "https://cso.kmi.open.ac.uk/topics/skin_color_model"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Human_skin_color": [
+        "https://cso.kmi.open.ac.uk/topics/skin_color_models"
+      ],
+      "http://dbpedia.org/resource/Color_model": [
+        "https://cso.kmi.open.ac.uk/topics/skin_color_model"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/autonomous_mobile_robots",
+      "https://cso.kmi.open.ac.uk/topics/autonomous_mobile_robot",
+      "https://cso.kmi.open.ac.uk/topics/mobile_robot_navigation"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Autonomous_robot": [
+        "https://cso.kmi.open.ac.uk/topics/autonomous_mobile_robots",
+        "https://cso.kmi.open.ac.uk/topics/autonomous_mobile_robot"
+      ],
+      "http://dbpedia.org/resource/Robotic_mapping": [
+        "https://cso.kmi.open.ac.uk/topics/mobile_robot_navigation"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/microelectromechanical_systems",
+      "https://cso.kmi.open.ac.uk/topics/micro-electrical-mechanical_systems",
+      "https://cso.kmi.open.ac.uk/topics/microelectromechanical_system",
+      "https://cso.kmi.open.ac.uk/topics/microelectromechanical_systems_%28mems%29",
+      "https://cso.kmi.open.ac.uk/topics/micro_electro_mechanical_system"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Microelectromechanical_systems": [
+        "https://cso.kmi.open.ac.uk/topics/microelectromechanical_systems",
+        "https://cso.kmi.open.ac.uk/topics/microelectromechanical_system",
+        "https://cso.kmi.open.ac.uk/topics/microelectromechanical_systems_%28mems%29"
+      ],
+      "http://dbpedia.org/resource/Microscopic_scale": [
+        "https://cso.kmi.open.ac.uk/topics/micro_electro_mechanical_system"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/voxel_based_morphometry",
+      "https://cso.kmi.open.ac.uk/topics/voxel-based_morphometry",
+      "https://cso.kmi.open.ac.uk/topics/vbm"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Voxel": [
+        "https://cso.kmi.open.ac.uk/topics/voxel_based_morphometry"
+      ],
+      "http://dbpedia.org/resource/Voxel-based_morphometry": [
+        "https://cso.kmi.open.ac.uk/topics/voxel-based_morphometry"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/surveillance_system",
+      "https://cso.kmi.open.ac.uk/topics/video_surveillance_systems",
+      "https://cso.kmi.open.ac.uk/topics/surveillance_systems",
+      "https://cso.kmi.open.ac.uk/topics/surveillance_cameras",
+      "https://cso.kmi.open.ac.uk/topics/video_surveillance",
+      "https://cso.kmi.open.ac.uk/topics/surveillance_video"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Closed-circuit_television": [
+        "https://cso.kmi.open.ac.uk/topics/video_surveillance",
+        "https://cso.kmi.open.ac.uk/topics/video_surveillance_systems"
+      ],
+      "http://dbpedia.org/resource/Surveillance": [
+        "https://cso.kmi.open.ac.uk/topics/surveillance_cameras"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/carrier_frequency_offset",
+      "https://cso.kmi.open.ac.uk/topics/carrier_frequency_offsets",
+      "https://cso.kmi.open.ac.uk/topics/carrier_frequency_offset_%28cfo%29",
+      "https://cso.kmi.open.ac.uk/topics/carrier_frequency_offset_estimation",
+      "https://cso.kmi.open.ac.uk/topics/frequency_offset_estimation",
+      "https://cso.kmi.open.ac.uk/topics/cfo_estimation"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Carrier_frequency": [
+        "https://cso.kmi.open.ac.uk/topics/carrier_frequency_offset",
+        "https://cso.kmi.open.ac.uk/topics/carrier_frequency_offset_%28cfo%29",
+        "https://cso.kmi.open.ac.uk/topics/carrier_frequency_offsets"
+      ],
+      "http://dbpedia.org/resource/Chief_financial_officer": [
+        "https://cso.kmi.open.ac.uk/topics/cfo_estimation"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/low_density_parity_check_codes",
+      "https://cso.kmi.open.ac.uk/topics/low-density_parity-check_codes",
+      "https://cso.kmi.open.ac.uk/topics/low-density_parity-check_%28ldpc%29_codes"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Parity_bit": [
+        "https://cso.kmi.open.ac.uk/topics/low_density_parity_check_codes"
+      ],
+      "http://dbpedia.org/resource/Low-density_parity-check_code": [
+        "https://cso.kmi.open.ac.uk/topics/low-density_parity-check_codes"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/maximum-likelihood_decoding",
+      "https://cso.kmi.open.ac.uk/topics/maximum_likelihood_decoding"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Maximum_likelihood_estimation": [
+        "https://cso.kmi.open.ac.uk/topics/maximum-likelihood_decoding"
+      ],
+      "http://dbpedia.org/resource/Decoding_methods": [
+        "https://cso.kmi.open.ac.uk/topics/maximum_likelihood_decoding"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/level-set_method",
+      "https://cso.kmi.open.ac.uk/topics/level_set_methods",
+      "https://cso.kmi.open.ac.uk/topics/level_measurement",
+      "https://cso.kmi.open.ac.uk/topics/level_set_method"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Level-set_method": [
+        "https://cso.kmi.open.ac.uk/topics/level-set_method",
+        "https://cso.kmi.open.ac.uk/topics/level_set_method"
+      ],
+      "http://dbpedia.org/resource/Level_set": [
+        "https://cso.kmi.open.ac.uk/topics/level_set_methods"
+      ],
+      "http://dbpedia.org/resource/Level_sensor": [
+        "https://cso.kmi.open.ac.uk/topics/level_measurement"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/free-space_optical_communications",
+      "https://cso.kmi.open.ac.uk/topics/free-space_optical_communication",
+      "https://cso.kmi.open.ac.uk/topics/free_space_optical_communication"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Optical_communication": [
+        "https://cso.kmi.open.ac.uk/topics/free-space_optical_communications"
+      ],
+      "http://dbpedia.org/resource/Free-space_optical_communication": [
+        "https://cso.kmi.open.ac.uk/topics/free-space_optical_communication",
+        "https://cso.kmi.open.ac.uk/topics/free_space_optical_communication"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/photonic_crystal_fiber",
+      "https://cso.kmi.open.ac.uk/topics/photonic_crystal_fibers"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Photonic-crystal_fiber": [
+        "https://cso.kmi.open.ac.uk/topics/photonic_crystal_fiber"
+      ],
+      "http://dbpedia.org/resource/Photonic_crystal": [
+        "https://cso.kmi.open.ac.uk/topics/photonic_crystal_fibers"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/infra-red_sensor",
+      "https://cso.kmi.open.ac.uk/topics/infrared_sensor",
+      "https://cso.kmi.open.ac.uk/topics/infrared_sensors"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Infrared": [
+        "https://cso.kmi.open.ac.uk/topics/infra-red_sensor"
+      ],
+      "http://dbpedia.org/resource/Thermographic_camera": [
+        "https://cso.kmi.open.ac.uk/topics/infrared_sensor"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/triangle_meshes",
+      "https://cso.kmi.open.ac.uk/topics/triangle_mesh"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Triangle": [
+        "https://cso.kmi.open.ac.uk/topics/triangle_meshes"
+      ],
+      "http://dbpedia.org/resource/Triangle_mesh": [
+        "https://cso.kmi.open.ac.uk/topics/triangle_mesh"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/radon_transform",
+      "https://cso.kmi.open.ac.uk/topics/radon_transforms"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Radon_transform": [
+        "https://cso.kmi.open.ac.uk/topics/radon_transform"
+      ],
+      "http://dbpedia.org/resource/Radon": [
+        "https://cso.kmi.open.ac.uk/topics/radon_transforms"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/time_frequency_analysis",
+      "https://cso.kmi.open.ac.uk/topics/time-frequency_analysis"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Frequency_analysis": [
+        "https://cso.kmi.open.ac.uk/topics/time_frequency_analysis"
+      ],
+      "http://dbpedia.org/resource/Time\u2013frequency_analysis": [
+        "https://cso.kmi.open.ac.uk/topics/time-frequency_analysis"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/fractional_fourier_domains",
+      "https://cso.kmi.open.ac.uk/topics/fractional_fourier_transform",
+      "https://cso.kmi.open.ac.uk/topics/fractional_fourier_transforms"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Fractional_Fourier_transform": [
+        "https://cso.kmi.open.ac.uk/topics/fractional_fourier_transform"
+      ],
+      "http://dbpedia.org/resource/Fourier_transform": [
+        "https://cso.kmi.open.ac.uk/topics/fractional_fourier_transforms"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/discrete_fourier_transform",
+      "https://cso.kmi.open.ac.uk/topics/discrete_fourier_transforms",
+      "https://cso.kmi.open.ac.uk/topics/discrete_fourier_transform_%28dft%29"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Discrete_Fourier_transform": [
+        "https://cso.kmi.open.ac.uk/topics/discrete_fourier_transform",
+        "https://cso.kmi.open.ac.uk/topics/discrete_fourier_transform_%28dft%29"
+      ],
+      "http://dbpedia.org/resource/Fourier_transform": [
+        "https://cso.kmi.open.ac.uk/topics/discrete_fourier_transforms"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/finite_difference_time_domains",
+      "https://cso.kmi.open.ac.uk/topics/finite-difference_time-domain",
+      "https://cso.kmi.open.ac.uk/topics/finite-difference_time-domain_%28fdtd%29_methods",
+      "https://cso.kmi.open.ac.uk/topics/finite-difference_time-domain_method",
+      "https://cso.kmi.open.ac.uk/topics/finite_difference_time_domain",
+      "https://cso.kmi.open.ac.uk/topics/finite-difference_time-domain_%28fdtd%29",
+      "https://cso.kmi.open.ac.uk/topics/finite_difference_time-domain",
+      "https://cso.kmi.open.ac.uk/topics/finite_difference_time_domain_method"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Finite_difference": [
+        "https://cso.kmi.open.ac.uk/topics/finite-difference_time-domain",
+        "https://cso.kmi.open.ac.uk/topics/finite_difference_time_domains"
+      ],
+      "http://dbpedia.org/resource/Finite-difference_time-domain_method": [
+        "https://cso.kmi.open.ac.uk/topics/finite_difference_time_domain",
+        "https://cso.kmi.open.ac.uk/topics/finite_difference_time_domain_method",
+        "https://cso.kmi.open.ac.uk/topics/finite-difference_time-domain_method"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/influence_function",
+      "https://cso.kmi.open.ac.uk/topics/influence_functions"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Subroutine": [
+        "https://cso.kmi.open.ac.uk/topics/influence_function"
+      ],
+      "http://dbpedia.org/resource/Robust_statistics": [
+        "https://cso.kmi.open.ac.uk/topics/influence_functions"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/fiber_lasers",
+      "https://cso.kmi.open.ac.uk/topics/fiber_laser"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Fiber": [
+        "https://cso.kmi.open.ac.uk/topics/fiber_lasers"
+      ],
+      "http://dbpedia.org/resource/Fiber_laser": [
+        "https://cso.kmi.open.ac.uk/topics/fiber_laser"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/electronics_packaging",
+      "https://cso.kmi.open.ac.uk/topics/electronic_packaging"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Electronics": [
+        "https://cso.kmi.open.ac.uk/topics/electronics_packaging"
+      ],
+      "http://dbpedia.org/resource/Electronic_packaging": [
+        "https://cso.kmi.open.ac.uk/topics/electronic_packaging"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/linux-_operating_system",
+      "https://cso.kmi.open.ac.uk/topics/linux_systems",
+      "https://cso.kmi.open.ac.uk/topics/linux_kernel",
+      "https://cso.kmi.open.ac.uk/topics/linux"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Operating_system": [
+        "https://cso.kmi.open.ac.uk/topics/linux-_operating_system"
+      ],
+      "http://dbpedia.org/resource/Linux_kernel": [
+        "https://cso.kmi.open.ac.uk/topics/linux_kernel"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/multiprocessing_programs",
+      "https://cso.kmi.open.ac.uk/topics/multiprogramming"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Multiprocessing": [
+        "https://cso.kmi.open.ac.uk/topics/multiprocessing_programs"
+      ],
+      "http://dbpedia.org/resource/Computer_multitasking": [
+        "https://cso.kmi.open.ac.uk/topics/multiprogramming"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/multicast",
+      "https://cso.kmi.open.ac.uk/topics/ip_multicast",
+      "https://cso.kmi.open.ac.uk/topics/multicasting",
+      "https://cso.kmi.open.ac.uk/topics/multicasts"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/IP_multicast": [
+        "https://cso.kmi.open.ac.uk/topics/ip_multicast"
+      ],
+      "http://dbpedia.org/resource/Multicast": [
+        "https://cso.kmi.open.ac.uk/topics/multicasting"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/orthogonal_frequency-division_multiplexing_%28ofdm%29",
+      "https://cso.kmi.open.ac.uk/topics/orthogonal_frequency_division_multiplexing",
+      "https://cso.kmi.open.ac.uk/topics/orthogonal_frequency_division_multiplexing_%28ofdm%29"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Frequency-division_multiplexing": [
+        "https://cso.kmi.open.ac.uk/topics/orthogonal_frequency-division_multiplexing_%28ofdm%29"
+      ],
+      "http://dbpedia.org/resource/Orthogonal_frequency-division_multiplexing": [
+        "https://cso.kmi.open.ac.uk/topics/orthogonal_frequency_division_multiplexing",
+        "https://cso.kmi.open.ac.uk/topics/orthogonal_frequency_division_multiplexing_%28ofdm%29"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/internet_protocols",
+      "https://cso.kmi.open.ac.uk/topics/internet_protocol"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Internet_protocol_suite": [
+        "https://cso.kmi.open.ac.uk/topics/internet_protocols"
+      ],
+      "http://dbpedia.org/resource/Internet_Protocol": [
+        "https://cso.kmi.open.ac.uk/topics/internet_protocol"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/buffer_overflows",
+      "https://cso.kmi.open.ac.uk/topics/buffer_overflow"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Data_buffer": [
+        "https://cso.kmi.open.ac.uk/topics/buffer_overflows"
+      ],
+      "http://dbpedia.org/resource/Buffer_overflow": [
+        "https://cso.kmi.open.ac.uk/topics/buffer_overflow"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/wireless_local_area_network_%28wlan%29",
+      "https://cso.kmi.open.ac.uk/topics/wlan",
+      "https://cso.kmi.open.ac.uk/topics/wireless_local_area_networks",
+      "https://cso.kmi.open.ac.uk/topics/wireless_local_area_networks_%28wlan%29",
+      "https://cso.kmi.open.ac.uk/topics/wireless_lans",
+      "https://cso.kmi.open.ac.uk/topics/wireless_lan"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Wireless_LAN": [
+        "https://cso.kmi.open.ac.uk/topics/wlan",
+        "https://cso.kmi.open.ac.uk/topics/wireless_local_area_network_%28wlan%29",
+        "https://cso.kmi.open.ac.uk/topics/wireless_lan"
+      ],
+      "http://dbpedia.org/resource/Wireless": [
+        "https://cso.kmi.open.ac.uk/topics/wireless_local_area_networks"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/stochastic_resonance",
+      "https://cso.kmi.open.ac.uk/topics/stochastic_resonances"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Stochastic_resonance": [
+        "https://cso.kmi.open.ac.uk/topics/stochastic_resonance"
+      ],
+      "http://dbpedia.org/resource/Stochastic": [
+        "https://cso.kmi.open.ac.uk/topics/stochastic_resonances"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/nearest_neighbors",
+      "https://cso.kmi.open.ac.uk/topics/k-nearest_neighbor",
+      "https://cso.kmi.open.ac.uk/topics/k-nearest_neighbors",
+      "https://cso.kmi.open.ac.uk/topics/k-nn_algorithm",
+      "https://cso.kmi.open.ac.uk/topics/knn",
+      "https://cso.kmi.open.ac.uk/topics/k_nearest_neighbor",
+      "https://cso.kmi.open.ac.uk/topics/nearest_neighbor"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/K-nearest_neighbors_algorithm": [
+        "https://cso.kmi.open.ac.uk/topics/k-nearest_neighbors"
+      ],
+      "http://dbpedia.org/resource/Algorithm": [
+        "https://cso.kmi.open.ac.uk/topics/k-nn_algorithm"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/encryption",
+      "https://cso.kmi.open.ac.uk/topics/encryption_key",
+      "https://cso.kmi.open.ac.uk/topics/encryption_methods",
+      "https://cso.kmi.open.ac.uk/topics/encryption_algorithm",
+      "https://cso.kmi.open.ac.uk/topics/encryption_algorithms",
+      "https://cso.kmi.open.ac.uk/topics/encryption_and_decryption",
+      "https://cso.kmi.open.ac.uk/topics/encryption_schemes"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Key_(cryptography)": [
+        "https://cso.kmi.open.ac.uk/topics/encryption_key"
+      ],
+      "http://dbpedia.org/resource/Algorithm": [
+        "https://cso.kmi.open.ac.uk/topics/encryption_algorithm"
+      ],
+      "http://dbpedia.org/resource/Encryption": [
+        "https://cso.kmi.open.ac.uk/topics/encryption_schemes"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/cryptographic_primitives",
+      "https://cso.kmi.open.ac.uk/topics/cryptographic_protocol",
+      "https://cso.kmi.open.ac.uk/topics/cryptographic_protocols"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Cryptography": [
+        "https://cso.kmi.open.ac.uk/topics/cryptographic_primitives"
+      ],
+      "http://dbpedia.org/resource/Cryptographic_protocol": [
+        "https://cso.kmi.open.ac.uk/topics/cryptographic_protocol"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/public_key_infrastructure_%28pki%29",
+      "https://cso.kmi.open.ac.uk/topics/public-key_infrastructure",
+      "https://cso.kmi.open.ac.uk/topics/pki",
+      "https://cso.kmi.open.ac.uk/topics/public_key_infrastructure"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Public_key_infrastructure": [
+        "https://cso.kmi.open.ac.uk/topics/public_key_infrastructure_%28pki%29",
+        "https://cso.kmi.open.ac.uk/topics/public-key_infrastructure",
+        "https://cso.kmi.open.ac.uk/topics/public_key_infrastructure"
+      ],
+      "http://dbpedia.org/resource/Communist_Party_of_Indonesia": [
+        "https://cso.kmi.open.ac.uk/topics/pki"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/spam_emails",
+      "https://cso.kmi.open.ac.uk/topics/spammers",
+      "https://cso.kmi.open.ac.uk/topics/spam_detection",
+      "https://cso.kmi.open.ac.uk/topics/spam_filter",
+      "https://cso.kmi.open.ac.uk/topics/spam",
+      "https://cso.kmi.open.ac.uk/topics/spam_filtering"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Spamming": [
+        "https://cso.kmi.open.ac.uk/topics/spam",
+        "https://cso.kmi.open.ac.uk/topics/spammers"
+      ],
+      "http://dbpedia.org/resource/Email_filtering": [
+        "https://cso.kmi.open.ac.uk/topics/spam_filter"
+      ],
+      "http://dbpedia.org/resource/Anti-spam_techniques": [
+        "https://cso.kmi.open.ac.uk/topics/spam_filtering"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/hierarchical_model",
+      "https://cso.kmi.open.ac.uk/topics/hierarchical_models"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Hierarchical_database_model": [
+        "https://cso.kmi.open.ac.uk/topics/hierarchical_model"
+      ],
+      "http://dbpedia.org/resource/Hierarchy": [
+        "https://cso.kmi.open.ac.uk/topics/hierarchical_models"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/data_flow_graph",
+      "https://cso.kmi.open.ac.uk/topics/data_flow_graphs"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Control_flow_graph": [
+        "https://cso.kmi.open.ac.uk/topics/data_flow_graph"
+      ],
+      "http://dbpedia.org/resource/Dataflow": [
+        "https://cso.kmi.open.ac.uk/topics/data_flow_graphs"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/programming_model",
+      "https://cso.kmi.open.ac.uk/topics/programming_models"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Programming_model": [
+        "https://cso.kmi.open.ac.uk/topics/programming_model"
+      ],
+      "http://dbpedia.org/resource/Operations_research": [
+        "https://cso.kmi.open.ac.uk/topics/programming_models"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/directed_graphs",
+      "https://cso.kmi.open.ac.uk/topics/undirected_graph",
+      "https://cso.kmi.open.ac.uk/topics/directed_graph"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Graph_(discrete_mathematics)": [
+        "https://cso.kmi.open.ac.uk/topics/undirected_graph"
+      ],
+      "http://dbpedia.org/resource/Directed_graph": [
+        "https://cso.kmi.open.ac.uk/topics/directed_graph"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/graph_coloring",
+      "https://cso.kmi.open.ac.uk/topics/graph_colorings"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Graph_coloring": [
+        "https://cso.kmi.open.ac.uk/topics/graph_coloring"
+      ],
+      "http://dbpedia.org/resource/Graph_theory": [
+        "https://cso.kmi.open.ac.uk/topics/graph_colorings"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/weighted_graphs",
+      "https://cso.kmi.open.ac.uk/topics/weighted_graph"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Graph_(discrete_mathematics)": [
+        "https://cso.kmi.open.ac.uk/topics/weighted_graphs"
+      ],
+      "http://dbpedia.org/resource/Glossary_of_graph_theory_terms": [
+        "https://cso.kmi.open.ac.uk/topics/weighted_graph"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/stochastic_optimizations",
+      "https://cso.kmi.open.ac.uk/topics/stochastic_optimization"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Stochastic": [
+        "https://cso.kmi.open.ac.uk/topics/stochastic_optimizations"
+      ],
+      "http://dbpedia.org/resource/Stochastic_optimization": [
+        "https://cso.kmi.open.ac.uk/topics/stochastic_optimization"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/stochastic_processes",
+      "https://cso.kmi.open.ac.uk/topics/stochastic_models",
+      "https://cso.kmi.open.ac.uk/topics/stochastic_model",
+      "https://cso.kmi.open.ac.uk/topics/stochastic_systems",
+      "https://cso.kmi.open.ac.uk/topics/stochastic_system"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Stochastic": [
+        "https://cso.kmi.open.ac.uk/topics/stochastic_models"
+      ],
+      "http://dbpedia.org/resource/Stochastic_process": [
+        "https://cso.kmi.open.ac.uk/topics/stochastic_model",
+        "https://cso.kmi.open.ac.uk/topics/stochastic_systems",
+        "https://cso.kmi.open.ac.uk/topics/stochastic_system"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/krylov_subspace_method",
+      "https://cso.kmi.open.ac.uk/topics/krylov_subspace_methods"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Iterative_method": [
+        "https://cso.kmi.open.ac.uk/topics/krylov_subspace_method"
+      ],
+      "http://dbpedia.org/resource/Krylov_subspace": [
+        "https://cso.kmi.open.ac.uk/topics/krylov_subspace_methods"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/vector_space_model",
+      "https://cso.kmi.open.ac.uk/topics/vsm",
+      "https://cso.kmi.open.ac.uk/topics/vector_space_models",
+      "https://cso.kmi.open.ac.uk/topics/vector_space_model_%28vsm%29"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Vector_space_model": [
+        "https://cso.kmi.open.ac.uk/topics/vector_space_model"
+      ],
+      "http://dbpedia.org/resource/Visuddhimagga": [
+        "https://cso.kmi.open.ac.uk/topics/vsm"
+      ],
+      "http://dbpedia.org/resource/Vector_space": [
+        "https://cso.kmi.open.ac.uk/topics/vector_space_models"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/radio_frequency_identification",
+      "https://cso.kmi.open.ac.uk/topics/radio_frequency_identification_technology",
+      "https://cso.kmi.open.ac.uk/topics/rfid",
+      "https://cso.kmi.open.ac.uk/topics/radiofrequency_identification",
+      "https://cso.kmi.open.ac.uk/topics/radio_frequency_identification_%28rfid%29"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Radio-frequency_identification": [
+        "https://cso.kmi.open.ac.uk/topics/radio_frequency_identification",
+        "https://cso.kmi.open.ac.uk/topics/radio_frequency_identification_%28rfid%29",
+        "https://cso.kmi.open.ac.uk/topics/radio_frequency_identification_technology",
+        "https://cso.kmi.open.ac.uk/topics/rfid"
+      ],
+      "http://dbpedia.org/resource/Radio_frequency": [
+        "https://cso.kmi.open.ac.uk/topics/radiofrequency_identification"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/user_interface_design",
+      "https://cso.kmi.open.ac.uk/topics/user_interface_designs"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/User_interface_design": [
+        "https://cso.kmi.open.ac.uk/topics/user_interface_design"
+      ],
+      "http://dbpedia.org/resource/User_interface": [
+        "https://cso.kmi.open.ac.uk/topics/user_interface_designs"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/b-splines",
+      "https://cso.kmi.open.ac.uk/topics/spline",
+      "https://cso.kmi.open.ac.uk/topics/b-spline",
+      "https://cso.kmi.open.ac.uk/topics/b_splines",
+      "https://cso.kmi.open.ac.uk/topics/splines"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/B-spline": [
+        "https://cso.kmi.open.ac.uk/topics/b-spline"
+      ],
+      "http://dbpedia.org/resource/Spline_interpolation": [
+        "https://cso.kmi.open.ac.uk/topics/b_splines"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/cubic_spline_interpolation",
+      "https://cso.kmi.open.ac.uk/topics/cubic-spline_interpolation"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Cubic_Hermite_spline": [
+        "https://cso.kmi.open.ac.uk/topics/cubic_spline_interpolation"
+      ],
+      "http://dbpedia.org/resource/Interpolation": [
+        "https://cso.kmi.open.ac.uk/topics/cubic-spline_interpolation"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/cubic_splines",
+      "https://cso.kmi.open.ac.uk/topics/cubic_spline"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Spline_(mathematics)": [
+        "https://cso.kmi.open.ac.uk/topics/cubic_splines"
+      ],
+      "http://dbpedia.org/resource/Cubic_Hermite_spline": [
+        "https://cso.kmi.open.ac.uk/topics/cubic_spline"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/information_fusion",
+      "https://cso.kmi.open.ac.uk/topics/data_fusion"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Nuclear_fusion": [
+        "https://cso.kmi.open.ac.uk/topics/information_fusion"
+      ],
+      "http://dbpedia.org/resource/Data_fusion": [
+        "https://cso.kmi.open.ac.uk/topics/data_fusion"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/unstructured_meshes",
+      "https://cso.kmi.open.ac.uk/topics/unstructured_mesh"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Unstructured_grid": [
+        "https://cso.kmi.open.ac.uk/topics/unstructured_meshes"
+      ],
+      "http://dbpedia.org/resource/Mesh": [
+        "https://cso.kmi.open.ac.uk/topics/unstructured_mesh"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/generalized_eigenvalue_problems",
+      "https://cso.kmi.open.ac.uk/topics/generalized_eigenvalue_problem"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Eigenvalues_and_eigenvectors": [
+        "https://cso.kmi.open.ac.uk/topics/generalized_eigenvalue_problems"
+      ],
+      "http://dbpedia.org/resource/Eigendecomposition_of_a_matrix": [
+        "https://cso.kmi.open.ac.uk/topics/generalized_eigenvalue_problem"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/floating_point",
+      "https://cso.kmi.open.ac.uk/topics/floating_points"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Floating_point": [
+        "https://cso.kmi.open.ac.uk/topics/floating_point"
+      ],
+      "http://dbpedia.org/resource/Floating_Points": [
+        "https://cso.kmi.open.ac.uk/topics/floating_points"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/hazard_ratio",
+      "https://cso.kmi.open.ac.uk/topics/proportional_hazards_models",
+      "https://cso.kmi.open.ac.uk/topics/proportional_hazards_model"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Hazard_ratio": [
+        "https://cso.kmi.open.ac.uk/topics/hazard_ratio"
+      ],
+      "http://dbpedia.org/resource/Proportional_hazards_model": [
+        "https://cso.kmi.open.ac.uk/topics/proportional_hazards_models",
+        "https://cso.kmi.open.ac.uk/topics/proportional_hazards_model"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/regression_analysis",
+      "https://cso.kmi.open.ac.uk/topics/statistical_model",
+      "https://cso.kmi.open.ac.uk/topics/statistical_analysis",
+      "https://cso.kmi.open.ac.uk/topics/statistics",
+      "https://cso.kmi.open.ac.uk/topics/correlation_analysis"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Regression_analysis": [
+        "https://cso.kmi.open.ac.uk/topics/regression_analysis"
+      ],
+      "http://dbpedia.org/resource/Statistical_model": [
+        "https://cso.kmi.open.ac.uk/topics/statistical_model"
+      ],
+      "http://dbpedia.org/resource/Statistics": [
+        "https://cso.kmi.open.ac.uk/topics/statistical_analysis"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/social_aspect",
+      "https://cso.kmi.open.ac.uk/topics/social_status",
+      "https://cso.kmi.open.ac.uk/topics/social_support",
+      "https://cso.kmi.open.ac.uk/topics/social_psychology"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Social_support": [
+        "https://cso.kmi.open.ac.uk/topics/social_support"
+      ],
+      "http://dbpedia.org/resource/Social_psychology": [
+        "https://cso.kmi.open.ac.uk/topics/social_psychology"
+      ]
+    }
+  },
+  {
+    "topics": [
+      "https://cso.kmi.open.ac.uk/topics/semantic_web_rule_languages",
+      "https://cso.kmi.open.ac.uk/topics/swrl"
+    ],
+    "references": {
+      "http://dbpedia.org/resource/Semantic_Web": [
+        "https://cso.kmi.open.ac.uk/topics/semantic_web_rule_languages"
+      ],
+      "http://dbpedia.org/resource/Semantic_Web_Rule_Language": [
+        "https://cso.kmi.open.ac.uk/topics/swrl"
+      ]
+    }
+  }
+]

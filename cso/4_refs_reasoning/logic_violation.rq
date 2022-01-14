@@ -1,0 +1,20 @@
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+PREFIX cso: <http://cso.kmi.open.ac.uk/schema/cso#>
+PREFIX topic: <https://cso.kmi.open.ac.uk/topics/>
+
+select *
+where {
+  ?a owl:sameAs ?b .
+  ?a a cso:Topic .
+  ?b a cso:Topic .
+
+  FILTER NOT EXISTS {
+    VALUES ?prop {
+      cso:relatedEquivalent cso:preferentialEquivalent
+    }
+    ?a ?prop ?b .
+  }
+}

@@ -1,0 +1,12 @@
+[
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0032502",
+		"o": "t38688"
+	},
+	{
+		"p": "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+		"s": "http://purl.obolibrary.org/obo/GO_0032502",
+		"o": "t39638"
+	}
+]

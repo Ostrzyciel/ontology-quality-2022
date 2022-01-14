@@ -1,0 +1,20 @@
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT 
+	?p
+    (sample(?range) as ?range1)
+    (sample(?type) as ?type1)
+	(count(*) as ?count)
+    (sum(?uri) as ?uris)
+    (sum(?blank) as ?blanks)
+    (sum(?literal) as ?literals)
+WHERE {
+  ?s ?p ?o .
+  BIND(IF(isURI(?o), 1, 0) as ?uri)
+  BIND(IF(isBlank(?o), 1, 0) as ?blank)
+  BIND(IF(isLiteral(?o), 1, 0) as ?literal)
+  OPTIONAL { ?p rdfs:range ?range }
+  OPTIONAL { ?p a ?type }
+}
+group by ?p
+order by DESC(?c)
