@@ -3,7 +3,7 @@ The following OBO Foundry ontologies were used in the investigation: AEO, AGRO, 
 
 We downloaded almost all the ontologies used in the investigation on 4th January 2022, with the exception of FOBI, which failed to load. Instead, we used [this older version](https://github.com/pcastellanoescuder/FoodBiomarkerOntology/blob/28c837225944b7bf922517f1865f8eb2ffca043c/fobi.owl).
 
-Most ontologies are available in the RDF/XML format, but some need to be converted to it first. CARO is in OWL/XML and FOBI is in the OWL functional syntax format.
+Most ontologies are available in the RDF/XML format, but some need to be converted to it first. CARO is in OWL/XML and FOBI is in the OWL functional syntax format. For this, we used [ROBOT](http://robot.obolibrary.org/).
 
 ### Loading ontologies
 In the experiments, the scripts expect 31 namespaces to be created in a triple store instance. Of them, 30 correspond to single ontologies, with names like `obo-<ontology>` where `<ontology>` is the ontology's abbreviation in lowercase. The full list of all these abbreviations can be found in the `ontos.txt` file. The last namespace with the name `obo-ontos` should contain all ontologies loaded together. Caution: this results in a KB with ~40 million triples.
