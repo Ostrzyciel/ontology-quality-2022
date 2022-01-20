@@ -1,4 +1,4 @@
-This repository collects the supplementary materials to the article titled **Ontology Reuse: the Real Test of Ontological Design**. The publication is currently in review.
+This repository collects the supplementary materials to the article titled "**Ontology Reuse: the Real Test of Ontological Design**". The publication is currently in review.
 
 ## How to run this?
 The code in this repo consists of mostly Jupyter notebooks and SPARQL queries. For the former, you will need to set up a Python environment using the attached `requirements.txt` file. We used Python 3.9 on Linux. Running this on Windows will most likely fail.
