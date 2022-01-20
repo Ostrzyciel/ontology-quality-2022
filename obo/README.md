@@ -1,7 +1,7 @@
 ## Ontologies
 The following OBO Foundry ontologies were used in the investigation: AEO, AGRO, APOLLO-SV, BFO, BTO, CARO, CHEBI, CL, DOID, DRON, EHDAA2, ENVO, FOBI, FoodOn, GAZ, GO, HP, IAO, MP, NCBITaxon, OBI, PATO, PCO, PECO, PO, RO, SYMP, Uberon, UO, XCO. They are **not** included here, due to their excessive size. You can find them on https://obofoundry.org/
 
-We downloaded almost all the ontologies used in the investigation on 4th January 2022, with the exception of FOBI, which failed to load. Instead, we used [this older version](https://github.com/pcastellanoescuder/FoodBiomarkerOntology/blob/28c837225944b7bf922517f1865f8eb2ffca043c/fobi.owl).
+We downloaded almost all the ontologies used in the investigation on 4th January 2022, with the exception of FOBI, which failed to load. Instead, we used [this older version](https://github.com/pcastellanoescuder/FoodBiomarkerOntology/blob/28c837225944b7bf922517f1865f8eb2ffca043c/fobi.owl). If you want to obtain the exact same versions of the ontologies that we used, you will have to refer to their relevant code repositories and download an appropriately older version.
 
 Most ontologies are available in the RDF/XML format, but some need to be converted to it first. CARO is in OWL/XML and FOBI is in the OWL functional syntax format. For this, we used [ROBOT](http://robot.obolibrary.org/).
 
