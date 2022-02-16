@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6108108.svg)](https://doi.org/10.5281/zenodo.6108108)
+
 This repository collects the supplementary materials to the article titled "**Ontology Reuse: the Real Test of Ontological Design**". The publication is currently in review.
 
 ## How to run this?
@@ -24,6 +26,10 @@ In the subdirectories you will find the code used to perform the analyses, as we
 
 ## Reproducibility
 We attempted to describe the experiment well enough, so that interested researchers can reproduce them in the future. However, in case of any unclear documentation or other issues, we will be happy to help. Feel free to contact us, contact details are in the paper.
+
+## License
+The materials in this repository are licensed under the MIT License. You can cite this code using this DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6108108.svg)](https://doi.org/10.5281/zenodo.6108108)
+
 
 ## Authors
 Piotr Sowiński, Katarzyna Wasielewska-Michniewska, Maria Ganzha, Marcin Paprzycki
