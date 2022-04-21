@@ -1,0 +1,30 @@
+- Anatomical Entity Ontology **[AEO](http://www.obofoundry.org/ontology/aeo.html)**
+- Agronomy Ontology **[AGRO](https://github.com/AgriculturalSemantics/agro)**
+- Apollo Structured Vocabulary **[APOLLO-SV](https://github.com/ApolloDev/apollo-sv)**
+- Basic Formal Ontology **[BFO](http://basic-formal-ontology.org/)**
+- BRENDA tissue / enzyme source **[BTO](http://www.obofoundry.org/ontology/bto.html)**
+- Common Anatomy Reference Ontology **[CARO](https://github.com/obophenotype/caro/)**
+- Chemical Entities of Biological Interest **[CHEBI](https://www.ebi.ac.uk/chebi/)**
+- Cell Ontology **[CL](https://obophenotype.github.io/cell-ontology/)**
+- Human Disease Ontology **[DOID](https://disease-ontology.org/)**
+- Drug Ontology **[DRON](https://github.com/ufbmi/dron)**
+- Human developmental anatomy ontology **[EHDAA2](http://obofoundry.org/ontology/ehdaa2.html)**
+- Environment Ontology **[ENVO](http://environmentontology.org/)**
+- Food-Biomarker Ontology **[FOBI](http://www.obofoundry.org/ontology/fobi.html)**
+- **[FoodOn](https://foodon.org/)**
+- Gazetteer **[GAZ](http://obofoundry.org/ontology/gaz.html)**
+- Gene Ontology **[GO](http://geneontology.org/)**
+- Human Phenotype Ontology **[HP](http://www.obofoundry.org/ontology/hp.html)**
+- Information Artifact Ontology **[IAO](https://github.com/information-artifact-ontology/IAO/)**
+- Mammalian Phenotype Ontology **[MP](http://www.informatics.jax.org/vocab/mp_ontology/)**
+- NCBI organismal classification **[NCBITaxon](http://obofoundry.org/ontology/ncbitaxon.html)**
+- Ontology for Biomedical Investigations **[OBI](http://obi-ontology.org/)**
+- Phenotype And Trait Ontology **[PATO](http://obofoundry.org/ontology/pato.html)**
+- Population and Community Ontology **[PCO](https://github.com/PopulationAndCommunityOntology/pco)**
+- Plant Experimental Conditions Ontology **[PECO](http://www.obofoundry.org/ontology/peco.html)**
+- Plant Ontology **[PO](http://www.obofoundry.org/ontology/po.html)**
+- Relation Ontology **[RO](https://oborel.github.io/)**
+- Symptom Ontology **[SYMP](http://symptomontologywiki.igs.umaryland.edu/)**
+- **[Uberon](http://uberon.github.io/)**
+- Units of measurement ontology **[UO](https://github.com/bio-ontology-research-group/unit-ontology)**
+- Experimental condition ontology **[XCO](https://rgd.mcw.edu/rgdweb/ontology/view.html?acc_id=XCO:0000000)**
