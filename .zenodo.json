@@ -1,0 +1,15 @@
+{
+    "language": "eng", 
+    "license": "MIT", 
+    "title": "Ontology Reuse: the Real Test of Ontological Design \u2013 materials", 
+    "upload_type": "software", 
+    "creators": [
+        {
+            "orcid": "0000-0002-2543-9461", 
+            "affiliation": "Warsaw University of Technology", 
+            "name": "Piotr Sowi\u0144ski"
+        }
+    ], 
+    "access_right": "open", 
+    "description": "<p>This repository collects the supplementary materials to the article titled &quot;<strong>Ontology Reuse: the Real Test of Ontological Design</strong>&quot;.&nbsp;</p>"
+}
