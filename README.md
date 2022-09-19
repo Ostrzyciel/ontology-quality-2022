@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6108108.svg)](https://doi.org/10.5281/zenodo.6108108)
 
-This repository collects the supplementary materials to the article titled "**Ontology Reuse: the Real Test of Ontological Design**". The publication is currently in review ([preprint](https://arxiv.org/abs/2205.02892)).
+This repository collects the supplementary materials to the article titled "**Ontology Reuse: the Real Test of Ontological Design**", published in the proceedings of the SOMET 2022 conference, [Frontiers in Artificial Intelligence and Applications vol. 355](https://ebooks.iospress.nl/volumearticle/60841). A preprint version of the article can be accessed ([here](https://arxiv.org/abs/2205.02892)).
 
 ## How to run this?
 The code in this repo consists of mostly Jupyter notebooks and SPARQL queries. For the former, you will need to set up a Python environment using the attached `requirements.txt` file. We used Python 3.9 on Linux. Running this on Windows will most likely fail.
